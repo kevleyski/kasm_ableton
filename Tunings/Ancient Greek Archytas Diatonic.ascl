@@ -1,0 +1,16 @@
+! Ancient Greek Archytas Diatonic.ascl
+!
+Archytas' Diatonic
+ 7
+!
+ 28/27
+ 32/27
+ 4/3
+ 3/2
+ 14/9
+ 16/9
+ 2/1
+!
+! @ABL NOTE_NAMES "C" "D" "E" "F" "G" "A" "B"
+! @ABL REFERENCE_PITCH 3 0 440.0
+! @ABL LINK https://sonicbloom.net/

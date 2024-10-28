@@ -1,0 +1,21 @@
+! carnatic-gamut.ascl
+!
+Carnatic gamut. Kuppuswami: Carnatic music and the Tamils, p. v                 
+ 12
+!
+ 18/17
+ 9/8
+ 6/5
+ 54/43
+ 4/3
+ 24/17
+ 3/2
+ 27/17
+ 27/16
+ 9/5
+ 81/43
+ 2/1
+!
+! @ABL NOTE_NAMES "C" "C♯/D♭" "D" "D♯/E♭" "E" "F" "F♯/G♭" "G" "G♯/A♭" "A" "A♯/B♭" "B"
+! @ABL REFERENCE_PITCH 3 9 440.0
+! @ABL LINK https://www.sonicbloom.net/

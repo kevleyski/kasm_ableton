@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>746179852.05001104</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>MoveAndClick</string>
+						<key>ActionUID</key>
+						<integer>54418</integer>
+						<key>Button</key>
+						<integer>0</integer>
+						<key>ClickCount</key>
+						<integer>1</integer>
+						<key>DisplayMatches</key>
+						<false/>
+						<key>DragHorizontalPosition</key>
+						<string>0</string>
+						<key>DragVerticalPosition</key>
+						<string>0</string>
+						<key>Fuzz</key>
+						<integer>15</integer>
+						<key>HorizontalPositionExpression</key>
+						<string>0</string>
+						<key>MacroActionType</key>
+						<string>MouseMoveAndClick</string>
+						<key>Modifiers</key>
+						<integer>0</integer>
+						<key>MouseDrag</key>
+						<string>None</string>
+						<key>Relative</key>
+						<string>Mouse</string>
+						<key>RelativeCorner</key>
+						<string>TopLeft</string>
+						<key>RestoreMouseLocation</key>
+						<false/>
+						<key>VerticalPositionExpression</key>
+						<string>0</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>746177621.57387805</real>
+				<key>ModificationDate</key>
+				<real>746177977.14095604</real>
+				<key>Name</key>
+				<string>Kevs Midi CC109 Mouse Click</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>CCFireType</key>
+						<string>Equal</string>
+						<key>Channel</key>
+						<integer>1</integer>
+						<key>Controller</key>
+						<integer>109</integer>
+						<key>Device</key>
+						<string>Any MIDI Device</string>
+						<key>Kind</key>
+						<string>ControlChange</string>
+						<key>MacroTriggerType</key>
+						<string>MIDI</string>
+						<key>Value</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>53211A94-0C05-491D-9D78-B6FD074E6A0C</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Kevs Ableton Live Group</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.ableton.live</string>
+					<key>Name</key>
+					<string>Ableton Live 12 Suite</string>
+					<key>NewFile</key>
+					<string>/Applications/Ableton Live 12 Suite.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>277617F9-4106-472A-83E6-D7D1FD2B9234</string>
+		<key>UID</key>
+		<string>5BE2A3CE-AA20-4AA3-BFC2-88AC43D47920</string>
+	</dict>
+</array>
+</plist>

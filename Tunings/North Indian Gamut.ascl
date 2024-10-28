@@ -1,0 +1,21 @@
+! north-indian-gamut.ascl
+!
+North Indian Gamut, modern Hindustani gamut out of 22 or more shrutis           
+ 12
+!
+ 16/15
+ 9/8
+ 6/5
+ 5/4
+ 4/3
+ 45/32
+ 3/2
+ 8/5
+ 27/16
+ 9/5
+ 15/8
+ 2/1
+!
+! @ABL NOTE_NAMES "C" "C♯/D♭" "D" "D♯/E♭" "E" "F" "F♯/G♭" "G" "G♯/A♭" "A" "A♯/B♭" "B"
+! @ABL REFERENCE_PITCH 3 9 440.0
+! @ABL LINK https://www.sonicbloom.net/

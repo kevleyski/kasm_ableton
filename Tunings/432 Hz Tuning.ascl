@@ -1,0 +1,22 @@
+! 12-TET(EDO)-1.ascl
+!
+12 tone equal temperament is a form of EDO tuning (equal divisions of an octave). It is the default tuning for MIDI hardware and software like Ableton Live. This tuning allows you to work in 12-TET (aka 12-EDO) with a changeable reference pitch. It will not work with scale aware features, and note names may display differently than when not using the tuning system.
+ 12
+!
+ 100.00000 cents
+ 200.00000 cents
+ 300.00000 cents
+ 400.00000 cents
+ 500.00000 cents
+ 600.00000 cents
+ 700.00000 cents
+ 800.00000 cents
+ 900.00000 cents
+ 1000.00000 cents
+ 1100.00000 cents
+ 2/1
+!
+! @ABL REFERENCE_PITCH 3 9 432
+! @ABL NOTE_RANGE_BY_INDEX -2 0 8 7
+! @ABL NOTE_NAMES "C" "C♯/D♭" "D" "D♯/E♭" "E" "F" "F♯/G♭" "G" "G♯/A♭" "A" "A♯/B♭" "B"
+! @ABL LINK https://www.ableton.com/learn-more/tuning-systems/12-tet-edo

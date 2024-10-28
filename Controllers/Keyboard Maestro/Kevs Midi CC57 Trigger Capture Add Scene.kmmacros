@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>746179852.05001104</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>56539</integer>
+						<key>KeyCode</key>
+						<integer>34</integer>
+						<key>MacroActionType</key>
+						<string>SimulateKeystroke</string>
+						<key>Modifiers</key>
+						<integer>768</integer>
+						<key>ReleaseAll</key>
+						<false/>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>56147</integer>
+						<key>KeyCode</key>
+						<integer>8</integer>
+						<key>MacroActionType</key>
+						<string>SimulateKeystroke</string>
+						<key>Modifiers</key>
+						<integer>768</integer>
+						<key>ReleaseAll</key>
+						<false/>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>747401451.17232203</real>
+				<key>ModificationDate</key>
+				<real>747459632.55959594</real>
+				<key>Name</key>
+				<string>Kevs Midi CC57 Trigger Capture Add Scene</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>CCFireType</key>
+						<string>Equal</string>
+						<key>Channel</key>
+						<integer>1</integer>
+						<key>Controller</key>
+						<integer>57</integer>
+						<key>Device</key>
+						<string>Any MIDI Device</string>
+						<key>Kind</key>
+						<string>ControlChange</string>
+						<key>MacroTriggerType</key>
+						<string>MIDI</string>
+						<key>Value</key>
+						<integer>64</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>43FBE432-11DD-47D3-88D9-AA5322B8F442</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Kevs Ableton Live Group</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.ableton.live</string>
+					<key>Name</key>
+					<string>Ableton Live 12 Suite</string>
+					<key>NewFile</key>
+					<string>/Volumes/bCloudBunsen/Applications/Ableton Live 12 Suite.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>277617F9-4106-472A-83E6-D7D1FD2B9234</string>
+		<key>UID</key>
+		<string>5BE2A3CE-AA20-4AA3-BFC2-88AC43D47920</string>
+	</dict>
+</array>
+</plist>

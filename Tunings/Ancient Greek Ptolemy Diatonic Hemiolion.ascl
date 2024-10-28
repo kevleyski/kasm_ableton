@@ -1,0 +1,16 @@
+! Ancient Greek Ptolemy Diatonic Hemiolion.ascl
+!
+Ptolemy's Diatonic Hemiolion
+ 7
+!
+ 12/11
+ 6/5
+ 4/3
+ 3/2
+ 18/11
+ 9/5
+ 2/1
+!
+! @ABL NOTE_NAMES "C" "D" "E" "F" "G" "A" "B"
+! @ABL REFERENCE_PITCH 3 0 440.0
+! @ABL LINK https://sonicbloom.net/

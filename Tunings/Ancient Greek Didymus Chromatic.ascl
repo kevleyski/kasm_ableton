@@ -1,0 +1,16 @@
+! Ancient Greek Didymus Chromatic.ascl
+!
+Didymus' Chromatic
+ 7
+!
+ 16/15
+ 10/9
+ 4/3
+ 3/2
+ 8/5
+ 5/3
+ 2/1
+!
+! @ABL NOTE_NAMES "C" "D" "E" "F" "G" "A" "B"
+! @ABL REFERENCE_PITCH 3 0 440.0
+! @ABL LINK https://sonicbloom.net/

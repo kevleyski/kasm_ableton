@@ -1,0 +1,14 @@
+! Japan Hirajoshi.ascl
+!
+Hirajoshi
+ 5
+!
+ 185.00000 ! D
+ 337.00000 ! E
+ 683.00000 ! G
+ 790.00000 ! A
+ 2/1 ! C
+!
+! @ABL NOTE_NAMES "C" "D" "E" "G" "A" 
+! @ABL REFERENCE_PITCH 1 0 220.0
+! @ABL LINK https://sonicbloom.net/

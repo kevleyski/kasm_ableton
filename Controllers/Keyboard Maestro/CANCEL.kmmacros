@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>746167529.02289402</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>CancelAllMacros</string>
+						<key>ActionUID</key>
+						<integer>2516</integer>
+						<key>MacroActionType</key>
+						<string>Cancel</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>746173575.19428098</real>
+				<key>ModificationDate</key>
+				<real>746173597.23100603</real>
+				<key>Name</key>
+				<string>CANCEL</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>53</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>512</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>71487F24-35DF-4C09-A9DB-BF7A66AC8FEB</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Global Macro Group</string>
+		<key>ToggleMacroUID</key>
+		<string>FC1C423E-C33C-4455-ABA4-01D18A07CEEC</string>
+		<key>UID</key>
+		<string>804D32AF-0B39-439F-8EF3-493A833B14CA</string>
+	</dict>
+</array>
+</plist>

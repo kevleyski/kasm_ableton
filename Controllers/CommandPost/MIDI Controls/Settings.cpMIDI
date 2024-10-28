@@ -1,0 +1,1764 @@
+{
+  "com.cherryaudio.VoltageModularApp" : {
+    "1" : {
+      "1" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "character" : "left",
+          "id" : "⌘_left",
+          "modifiers" : [
+            "cmd"
+          ]
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "COMMAND and left (⌘left)"
+      },
+      "2" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "character" : "right",
+          "id" : "⌘_right",
+          "modifiers" : [
+            "cmd"
+          ]
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 0,
+        "actionTitle" : "COMMAND and right (⌘right)"
+      }
+    },
+    "displayName" : "Voltage Modular"
+  },
+  "com.ableton.live" : {
+    "1" : {
+      "3" : {
+        "number" : 31,
+        "channel" : 0,
+        "action" : {
+          "character" : "1",
+          "id" : "1",
+          "modifiers" : [
+
+          ]
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "noteOn",
+        "value" : 87,
+        "actionTitle" : "1"
+      },
+      "bankLabel" : "KevsAbleton",
+      "1" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "character" : "return",
+          "id" : "return",
+          "modifiers" : [
+
+          ]
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "RETURN"
+      },
+      "4" : {
+        "number" : 109,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 0,
+        "actionTitle" : "Left Mouse Click"
+      },
+      "2" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "character" : "down",
+          "id" : "down",
+          "modifiers" : [
+
+          ]
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "DOWN"
+      },
+      "5" : [
+
+      ]
+    },
+    "displayName" : "Live"
+  },
+  "com.apple.motionapp" : {
+    "ignore" : true
+  },
+  "com.apple.logic10" : {
+    "ignore" : false,
+    "25" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "18" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "10" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "26" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "19" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "displayName" : "Logic Pro X",
+    "11" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "27" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "12" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "1" : {
+      "7" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "character" : "down",
+          "id" : "down",
+          "modifiers" : [
+
+          ]
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "DOWN"
+      },
+      "3" : {
+        "number" : 117,
+        "channel" : 0,
+        "action" : {
+          "character" : "1",
+          "id" : "⇧_1",
+          "modifiers" : [
+            "shift"
+          ]
+        },
+        "device" : "Launchkey Mini MK3",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "SHIFT and 1 (⇧1)"
+      },
+      "21" : [
+
+      ],
+      "8" : {
+        "action" : {
+          "mode" : "leftDoubleClick"
+        },
+        "actionTitle" : "Left Double Mouse Click",
+        "handlerID" : "global_mouse"
+      },
+      "4" : {
+        "number" : 108,
+        "channel" : 0,
+        "action" : {
+          "character" : "down",
+          "id" : "down",
+          "modifiers" : [
+
+          ]
+        },
+        "device" : "virtual_DAW Port",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "DOWN"
+      },
+      "9" : {
+        "number" : 110,
+        "device" : "Kevs nanoKey",
+        "channel" : 0,
+        "action" : {
+          "character" : "down",
+          "id" : "down",
+          "modifiers" : [
+
+          ]
+        },
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "actionTitle" : "DOWN"
+      },
+      "5" : {
+        "number" : 116,
+        "channel" : 0,
+        "action" : {
+          "character" : "return",
+          "id" : "return",
+          "modifiers" : [
+
+          ]
+        },
+        "device" : "Launchkey Mini MK3",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "RETURN"
+      },
+      "1" : {
+        "number" : 109,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      },
+      "6" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      },
+      "2" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "character" : "down",
+          "id" : "down",
+          "modifiers" : [
+
+          ]
+        },
+        "device" : "Launchkey Mini MK3",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "DOWN"
+      },
+      "10" : {
+        "number" : 111,
+        "device" : "Kevs nanoKey",
+        "channel" : 0,
+        "action" : {
+          "character" : "up",
+          "id" : "up",
+          "modifiers" : [
+
+          ]
+        },
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "actionTitle" : "UP"
+      }
+    },
+    "28" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "20" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "2" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "13" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "3" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "29" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "21" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "4" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "14" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "22" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "5" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "15" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "6" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "30" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "23" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "7" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "16" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "8" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "24" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "17" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "9" : {
+      "9" : {
+        "number" : "",
+        "channel" : "",
+        "action" : "",
+        "device" : "",
+        "handlerID" : "",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : ""
+      },
+      "6" : {
+        "number" : 111,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "nanoKEY Studio",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      }
+    }
+  },
+  "com.apple.finder" : {
+    "ignore" : true
+  },
+  "com.blackmagic-design.DaVinciResolve" : {
+    "ignore" : true
+  },
+  "org.latenitefilms.CommandPost" : {
+    "ignore" : true
+  },
+  "All Applications" : {
+    "7" : {
+      "1" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "next"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Next MIDI Bank"
+      },
+      "2" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "previous"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Previous MIDI Bank"
+      }
+    },
+    "3" : {
+      "1" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "next"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Next MIDI Bank"
+      },
+      "2" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "previous"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Previous MIDI Bank"
+      }
+    },
+    "8" : {
+      "1" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "next"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Next MIDI Bank"
+      },
+      "2" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "previous"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Previous MIDI Bank"
+      }
+    },
+    "4" : {
+      "1" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "next"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Next MIDI Bank"
+      },
+      "2" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "previous"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Previous MIDI Bank"
+      }
+    },
+    "9" : {
+      "1" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "next"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Next MIDI Bank"
+      },
+      "2" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "previous"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Previous MIDI Bank"
+      }
+    },
+    "5" : {
+      "1" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "next"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Next MIDI Bank"
+      },
+      "2" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "previous"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Previous MIDI Bank"
+      }
+    },
+    "1" : {
+      "3" : {
+        "action" : {
+          "character" : "1",
+          "id" : "1",
+          "modifiers" : [
+
+          ]
+        },
+        "actionTitle" : "1",
+        "handlerID" : "global_shortcuts"
+      },
+      "1" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "next"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Next MIDI Bank"
+      },
+      "4" : {
+        "number" : 109,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "Left Mouse Click"
+      },
+      "2" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "previous"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Previous MIDI Bank"
+      }
+    },
+    "6" : {
+      "1" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "next"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Next MIDI Bank"
+      },
+      "2" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "previous"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Previous MIDI Bank"
+      }
+    },
+    "2" : {
+      "1" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "next"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Next MIDI Bank"
+      },
+      "2" : {
+        "number" : "",
+        "channel" : "",
+        "action" : {
+          "id" : "previous"
+        },
+        "device" : "",
+        "handlerID" : "global_midibanks",
+        "commandType" : "",
+        "value" : "",
+        "actionTitle" : "Previous MIDI Bank"
+      }
+    }
+  },
+  "com.apple.FinalCut" : {
+    "ignore" : true
+  },
+  "com.PlugInGuru.Unify" : {
+    "25" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "18" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "10" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "26" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "19" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "displayName" : "Unify",
+    "11" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "27" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "12" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "1" : {
+      "3" : {
+        "number" : 110,
+        "device" : "Kevs nanoKey",
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "actionTitle" : "Left Mouse Click"
+      },
+      "1" : {
+        "number" : 110,
+        "device" : "Kevs nanoKey",
+        "channel" : 0,
+        "action" : {
+          "character" : "down",
+          "id" : "down",
+          "modifiers" : [
+
+          ]
+        },
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "actionTitle" : "DOWN"
+      },
+      "4" : {
+        "number" : 108,
+        "channel" : 0,
+        "action" : {
+          "character" : "f",
+          "id" : "f",
+          "modifiers" : [
+
+          ]
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 127,
+        "actionTitle" : "F"
+      },
+      "2" : {
+        "number" : 111,
+        "device" : "Kevs nanoKey",
+        "channel" : 0,
+        "action" : {
+          "character" : "up",
+          "id" : "up",
+          "modifiers" : [
+
+          ]
+        },
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "actionTitle" : "UP"
+      }
+    },
+    "28" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "20" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "2" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "13" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "3" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "29" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "21" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "4" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "14" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "22" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "5" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "15" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "6" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "30" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "23" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "16" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "7" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "8" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "24" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "17" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    },
+    "9" : {
+      "3" : {
+        "number" : 110,
+        "channel" : 0,
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "device" : "Kevs nanoKey",
+        "handlerID" : "global_mouse",
+        "commandType" : "controlChange",
+        "value" : 120,
+        "actionTitle" : "Left Mouse Click"
+      }
+    }
+  },
+  "com.apple.Compressor" : {
+    "ignore" : true
+  },
+  "com.nigelrios.AudioSwift" : {
+    "1" : {
+      "3" : {
+        "number" : 17,
+        "value" : 107,
+        "channel" : 0,
+        "commandType" : "controlChange",
+        "device" : "virtual_AudioSwift 3"
+      },
+      "1" : {
+        "number" : 16,
+        "channel" : 0,
+        "action" : {
+          "locale" : "en",
+          "category" : "Echo",
+          "name" : "Tape Delay",
+          "theme" : "Logic",
+          "type" : "audioEffect"
+        },
+        "device" : "virtual_AudioSwift 3",
+        "handlerID" : "fcpx_audioEffect",
+        "commandType" : "controlChange",
+        "value" : 63,
+        "actionTitle" : "Tape Delay"
+      },
+      "6" : {
+        "action" : {
+          "mode" : "leftClick"
+        },
+        "actionTitle" : "Left Mouse Click",
+        "handlerID" : "global_mouse"
+      },
+      "4" : {
+        "number" : "18",
+        "value" : 112,
+        "channel" : 0,
+        "commandType" : "controlChange",
+        "device" : "virtual_AudioSwift 3"
+      },
+      "2" : {
+        "number" : 1,
+        "channel" : 0,
+        "action" : {
+          "character" : "-",
+          "id" : "-",
+          "modifiers" : [
+
+          ]
+        },
+        "device" : "virtual_AudioSwift 3",
+        "handlerID" : "global_shortcuts",
+        "commandType" : "controlChange",
+        "value" : 0,
+        "actionTitle" : "-"
+      },
+      "5" : {
+        "number" : "19",
+        "value" : 126,
+        "channel" : 0,
+        "commandType" : "controlChange",
+        "device" : "virtual_AudioSwift 3"
+      }
+    },
+    "displayName" : "AudioSwift"
+  }
+}
