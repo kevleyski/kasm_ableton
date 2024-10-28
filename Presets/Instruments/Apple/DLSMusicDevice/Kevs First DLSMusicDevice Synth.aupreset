@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bank</key>
+	<data>
+	AAAAAAGoAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADjAFeZQkQAAf////8S
+	Z3NfaW5zdHJ1bWVudHMuZGxzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAA/////+MAV5kAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAA
+	CVJlc291cmNlcwAAAgBVLzpTeXN0ZW06TGlicmFyeTpDb21wb25lbnRzOkNvcmVBdWRp
+	by5jb21wb25lbnQ6Q29udGVudHM6UmVzb3VyY2VzOmdzX2luc3RydW1lbnRzLmRscwAA
+	DgAmABIAZwBzAF8AaQBuAHMAdAByAHUAbQBlAG4AdABzAC4AZABsAHMADwAaAAwATQBh
+	AGMAaQBuAHQAbwBzAGgAIABIAEQAEgBTU3lzdGVtL0xpYnJhcnkvQ29tcG9uZW50cy9D
+	b3JlQXVkaW8uY29tcG9uZW50L0NvbnRlbnRzL1Jlc291cmNlcy9nc19pbnN0cnVtZW50
+	cy5kbHMAABMAAS8A//8AAA==
+	</data>
+	<key>cpu-load</key>
+	<real>0.0</real>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAADAAAAAAAAAAAAAAABAAAAAAAAAAIAAAAA
+	</data>
+	<key>disk-streaming</key>
+	<integer>0</integer>
+	<key>element-name</key>
+	<dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>stereo mix</string>
+			<key>1</key>
+			<string>unused</string>
+		</dict>
+	</dict>
+	<key>file-references</key>
+	<dict>
+		<key>sb-file-ref</key>
+		<string>/System/Library/Components/CoreAudio.component/Contents/Resources/gs_instruments.dls</string>
+	</dict>
+	<key>manufacturer</key>
+	<integer>1634758764</integer>
+	<key>name</key>
+	<string>Kevs First DLSMusicDevice Synth</string>
+	<key>render-quality</key>
+	<integer>127</integer>
+	<key>subtype</key>
+	<integer>1684828960</integer>
+	<key>type</key>
+	<integer>1635085685</integer>
+	<key>use-internal-reverb</key>
+	<integer>1</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>
