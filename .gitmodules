@@ -7,3 +7,6 @@
 [submodule "Live Sets"]
 	path = Live Sets
 	url = git@github.com:kevleyski/kasm_priv_music.git
+[submodule "Presets/MIDI Effects/Max MIDI Effect"]
+	path = Presets/MIDI Effects/Max MIDI Effect
+	url = git@github.com:kevleyski/kasm_max4live.git
