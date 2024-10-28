@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAARAAAAAED3xJgAAAABQgj+EQAAAAI8P7FbAAAAAz3hR64AAAAEPD+x
+	WwAAAAU9P7FbAAAABj8Cj1wAAAAHP2/fOwAAAAg+752yAAAACT5vnbIAAAAKP0woXwAA
+	AAs/f/9YAAAADD+I9cMAAAANPp64UgAAAA5ESAAAAAAAD0BAAAAAAAAQAAAAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1634758764</integer>
+	<key>name</key>
+	<string>Plate</string>
+	<key>render-quality</key>
+	<integer>127</integer>
+	<key>subtype</key>
+	<integer>1836213622</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

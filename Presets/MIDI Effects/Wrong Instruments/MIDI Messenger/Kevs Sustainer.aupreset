@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	/w==
+	</data>
+	<key>manufacturer</key>
+	<integer>1464421971</integer>
+	<key>midi-messenger-state</key>
+	<data>
+	eyJydWxlcyI6W3sidHJpZ2dlciI6eyJNZXNzYWdlQmFzZWQiOnsiXzAiOnsicGFzc1Ry
+	b3VnaCI6eyJQYXNzVGhyb3VnaCI6e319LCJ2YXJpYW50cyI6eyJWb2ljZUNhdGVnb3J5
+	Ijp7Il8wIjp7ImNoYW5uZWwiOnsiQW55VmFsdWUiOnt9fSwidmFyaWFudHMiOnsiTm90
+	ZU9uIjp7Il8wIjp7IkFueVZhbHVlIjp7fX19fX19fX19fSwibmFtZSI6Ik1lc3NhZ2Ug
+	IzEiLCJvdXRwdXQiOnsibWVzc2FnZSI6eyJQcm90b2NvbCI6eyJfMCI6eyJXaXRoQ2hh
+	bm5lbCI6eyJfMCI6MTc2LCJfMSI6eyJWYWx1ZSI6eyJfMCI6MH19fX0sIl8yIjp7IlZh
+	bHVlIjp7Il8wIjoxMjd9fSwiXzEiOnsiVmFsdWUiOnsiXzAiOjY0fX19fSwiZGVsYXki
+	OnsibXMiOjB9fX0seyJ0cmlnZ2VyIjp7Ik9uTG9hZCI6e319LCJuYW1lIjoiTWVzc2Fn
+	ZSAjMSIsIm91dHB1dCI6eyJtZXNzYWdlIjp7IlByb3RvY29sIjp7Il8wIjp7IldpdGhD
+	aGFubmVsIjp7Il8wIjoxMjgsIl8xIjp7IlZhbHVlIjp7Il8wIjowfX19fSwiXzIiOnsi
+	VmFsdWUiOnsiXzAiOjY0fX0sIl8xIjp7IlZhbHVlIjp7Il8wIjo1OX19fX0sImRlbGF5
+	Ijp7Im1zIjoyMDB9fX1dfQ==
+	</data>
+	<key>name</key>
+	<string>Kevs Sustainer</string>
+	<key>subtype</key>
+	<integer>1835625843</integer>
+	<key>type</key>
+	<integer>1635085673</integer>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

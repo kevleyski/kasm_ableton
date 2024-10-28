@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAUAAABiAG8AZwB1AHMAAAAAAP8=
+	</data>
+	<key>manufacturer</key>
+	<integer>1297248117</integer>
+	<key>name</key>
+	<string>Kevs Suggestions</string>
+	<key>options</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGlCwwVFhdVJG51bGzTDQ4PEBIU
+	V05TLmtleXNaTlMub2JqZWN0c1YkY2xhc3OhEYACoROAA4AEXxARdHV0b3JpYWxDb21w
+	bGV0ZWQJ0hgZGhtaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiGhxYTlNP
+	YmplY3QIERokKTI3SUxRU1lfZm55gIKEhoiKnp+kr7jFyAAAAAAAAAEBAAAAAAAAAB0A
+	AAAAAAAAAAAAAAAAAADR
+	</data>
+	<key>progressionData</key>
+	<data>
+	eyJ2ZXJzaW9uIjo0LCJzb25nIjp7fSwiaW5zdHJ1bWVudCI6IlBpYW5vIiwiZGVmYXVs
+	dEFycGVnZ2lhdGlvbiI6e30sImRlZmF1bHRIdW1hbml6YXRpb24iOnsidGltaW5nIjow
+	LjAsInZlbG9jaXR5IjowLjB9LCJsb29waW5nIjpmYWxzZSwiaW5zdHJ1bWVudFNvdW5k
+	Ijp0cnVlLCJtZXRyb25vbWVTb3VuZCI6ZmFsc2UsInN5bnRoRWZmZWN0cyI6eyJyZXZl
+	cmJBbW91bnQiOjAuMSwiZGVsYXlBbW91bnQiOjAuMCwiZGVsYXlGZWVkYmFjayI6MC41
+	LCJkZWxheUR1cmF0aW9uIjoiRG90dGVkUXVhcnRlck5vdGUifX0=
+	</data>
+	<key>subtype</key>
+	<integer>1400203088</integer>
+	<key>type</key>
+	<integer>1635085673</integer>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

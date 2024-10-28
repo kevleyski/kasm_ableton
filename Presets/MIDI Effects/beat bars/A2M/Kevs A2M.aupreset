@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAA0AAABnAGEAdABlAFQAaAByAGUAcwBoAG8AbABkAAAAeMIAAAkAAABpAG4AcAB1
+	AHQARwBhAGkAbgAAAAAAAAAMAAAAdgBlAGwAbwBjAGkAdAB5AEcAYQBpAG4AAABIQv8=
+	</data>
+	<key>manufacturer</key>
+	<integer>1111650931</integer>
+	<key>name</key>
+	<string>Kevs A2M</string>
+	<key>subtype</key>
+	<integer>1630694755</integer>
+	<key>type</key>
+	<integer>1635085673</integer>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	/w==
+	</data>
+	<key>manufacturer</key>
+	<integer>1464421971</integer>
+	<key>midi-messenger-state</key>
+	<data>
+	eyJydWxlcyI6W119
+	</data>
+	<key>name</key>
+	<string>Kevs Messenger</string>
+	<key>subtype</key>
+	<integer>1835625843</integer>
+	<key>type</key>
+	<integer>1635085673</integer>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>
