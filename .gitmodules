@@ -1,0 +1,9 @@
+[submodule "Samples"]
+	path = Samples
+	url = git@github.com:kevleyski/kasm_priv_samples.git
+[submodule "Wavetables"]
+	path = Wavetables
+	url = git@github.com:kevleyski/kasm_priv_wavetables.git
+[submodule "Live Sets"]
+	path = Live Sets
+	url = git@github.com:kevleyski/kasm_priv_music.git
