@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Waves_XPst</key>
+	<data>
+	AAADlAAAAAQAAAABSEJEU3NldEEAAAN4WFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVy
+	c2lvbj0iMyI+CiA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IkhCREwiPgogIDxQ
+	cmVzZXRIZWFkZXI+CiAgIDxHcm91cD48L0dyb3VwPgogICA8UGx1Z2luTmFtZT5ILURl
+	bGF5PC9QbHVnaW5OYW1lPgogICA8UGx1Z2luU3ViQ29tcD5IQkRTPC9QbHVnaW5TdWJD
+	b21wPgogICA8UGx1Z2luVmVyc2lvbj4xNC4xMi45MC4zODE8L1BsdWdpblZlcnNpb24+
+	CiAgIDxBY3RpdmVTZXR1cD5TRVRVUF9BPC9BY3RpdmVTZXR1cD4KICAgPExvYWRNZW51
+	Q2F0ZWdvcnk+RmFjdG9yeTwvTG9hZE1lbnVDYXRlZ29yeT4KICAgPFJlYWRPbmx5PnRy
+	dWU8L1JlYWRPbmx5PgogIDwvUHJlc2V0SGVhZGVyPgogIDxQcmVzZXREYXRhIFNldHVw
+	PSJTRVRVUF9BIj4KICAgPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4KKiAxIDEy
+	MCAzNzUgMTEgKiAxMDAgNjAgMCAwCjAgKiAqICogMCAyMDEwMCAqIDE5ICogMAowLjEw
+	MDAwMDAwMDAwMDAwMDAwNTU1IDAgKiAyICogKiAqICogKiAqCiogKiAqICogKiAqICog
+	KiAqICoKKiAqICogKiAqIDwvUGFyYW1ldGVycz4KICAgPFBsdWdpblNwZWNpZmljWE1M
+	RGF0YSAvPgogIDwvUHJlc2V0RGF0YT4KICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBf
+	QiI+CiAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+CiogMSAxMjAgMzY2IDEx
+	ICogMTAwIDYwIDAgMAowICogKiAqIDAgMjAxMDAgKiAxOSAqIDAKMC4xMDAwMDAwMDAw
+	MDAwMDAwMDU1NSAwICogMiAqICogKiAqICogKgoqICogKiAqICogKiAqICogKiAqCiog
+	KiAqICogKiA8L1BhcmFtZXRlcnM+CiAgIDxQbHVnaW5TcGVjaWZpY1hNTERhdGEgLz4K
+	ICA8L1ByZXNldERhdGE+CiA8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+Cg==
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAXAAAAAEO7AAAAAAABRBDAAAAAAAJDlgAAAAAAAwAAAAAAAAAEP4AA
+	AAAAAAVEegAAAAAABkP6AAAAAAAHQAAAAAAAAAgAAAAAAAAACQAAAAAAAAAKAAAAAAAA
+	AAsAAAAAAAAADER6AAAAAAANAAAAAAAAAA4AAAAAAAAAD0OmqqsAAAAQQ7sAAAAAABFE
+	EMAAAAAAEgAAAAAAAAATAAAAAAAAABQAAAAAAAAAFUMzAAAAAAAWQzMAAA==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Main Input Bus</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Main Output Bus</string>
+		</dict>
+	</dict>
+	<key>manufacturer</key>
+	<integer>1802721110</integer>
+	<key>name</key>
+	<string>Kevs Delay</string>
+	<key>subtype</key>
+	<integer>1212302419</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	</data>
+	<key>manufacturer</key>
+	<integer>760105261</integer>
+	<key>name</key>
+	<string>Clarinet</string>
+	<key>subtype</key>
+	<integer>1315530296</integer>
+	<key>type</key>
+	<integer>1635085685</integer>
+	<key>version</key>
+	<integer>0</integer>
+	<key>vstdata</key>
+	<data>
+	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
+	AAB42mNiYGDQ9fTTtUjL9AMyGQASlgJJ
+	</data>
+</dict>
+</plist>
