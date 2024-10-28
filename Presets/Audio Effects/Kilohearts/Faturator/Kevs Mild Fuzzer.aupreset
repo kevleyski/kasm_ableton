@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UEsDBBQACAgIAGm+E1kAAAAAAAAAAAAAAAAKAAAAc3RhdGUuanNvbu3b326CMBQG8Gt5
+	iqXZpTHgwsS9wrInWBZSoWBjaUlpddP47mvLH3HzEb4bkp6e8/FrueYSLUijSibI29Ml
+	WizIs/lpmVuQihqrqVGaLH29FmpHRTe0zfrGjWUouywrqOFK+tZPX1uEgfnIramfcnuG
+	6poZn34dS0zSnWClHzDasqm1sPoYYuKpRBtlpbmvdcrqgoXEUBlygQEGGGCAAQYYYIAB
+	BhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEG
+	GGCAAeYhxj+/wi6Rtvm4+1/OzUWDlzT821eSkERKVlErzIP/76adPrOlmkmT11rZdiZ5
+	fAz3Eskbfu7rFRXduGE7lgt1ylvNCt45nlvVvMhPSh+oy5b/JgQvmAxTxeG2Nx3nxEuz
+	v4FIoYTSfr1ep6s4zrK0r1f2fA5tqyR9TTbJNhsuQPPhulcvcRZv02zjwn02ccau/2i+
+	kZXc/Dmnu5T+3f1K0iYkjfNHpv0Jx4BK6Yaa2d23wtZchkKcrsephhk6jlBr9v1p3tmx
+	8x3RNfoFUEsHCHpnoMSpAQAAWzkAAFBLAQIAABQACAgIAGm+E1l6Z6DEqQEAAFs5AAAK
+	AAAAAAAAAAAAAAAAAAAAAABzdGF0ZS5qc29uUEsFBgAAAAABAAEAOAAAAOEBAAAAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>543901811</integer>
+	<key>name</key>
+	<string>Kevs Mild Fuzzer</string>
+	<key>subtype</key>
+	<integer>1801871732</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

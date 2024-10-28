@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UG10cgAAAOwAAAD0AAAACwAAAAQAAAAAUG93cj+AAAA/gAAAP4AAAD+AAABQcmVzAAAA
+	AAAAAAAAAAAAAAAAAE1udHIAAAAAAAAAAAAAAAAAAAAASW5Hbj8rEvM/AAAAPwAAAD8A
+	AABTdFdpPsibpj8AAAA/AAAAPwAAAEZvdW4/AAAAPwAAAD8AAAA/AAAAVEhEcz9jz1w/
+	AAAAPwAAAD8AAABPdXR0P4AAAD+AAAA/gAAAP4AAAFRTY2E/b8M+PwAAAD8AAAA/AAAA
+	VFNldAAAAAAAAAAAAAAAAAAAAABDTW9kP4AAAAAAAAAAAAAAAAAAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1114797944</integer>
+	<key>name</key>
+	<string>Easy Chillout 8dB DR</string>
+	<key>subtype</key>
+	<integer>1652059490</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

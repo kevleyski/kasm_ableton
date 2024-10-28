@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEq7QIotS/9
+	YK0DHQsA0o46LmB5AyEQRRHsJSDuyjiQwCfsCGhS4viBTIBXs93XyVLR0jTj3qhIAIhM
+	0ajU3DIbHZGrzmhabSxiRXH7ResbcuHMd1TcUKftrIIU9Wk0lkz1XzRYDTZLHbocc80m
+	J23ISmmmlAjE0WD4ks/H84ueIPlgn54fJPbSyPWtr+7amllZftvQq8KgmKXKLIhVW7EM
+	q54V/nzk17V0Q4GAck5aHj3/mwgUzG/hJxKdbucjkPSBw+W8o3Fi+IWiJ7bmpY0P6BEH
+	Q4FQGg6JHr3Ms+e2wT73WQGufGCf3ATocmtuIknSB3hZ7LrHtbAHQaiRuEEFxST1KAwH
+	kGjoNh4yo4oSiGv532XWs24VWP9uujWZwEG0C5LyOdrSi3xjXk27l+sfRmPbYTdKUJhu
+	GHcHWEy7oXavUUwQU2966256D6qEMAg3yXnDwVe/863j42VLYEI55J2u2ivhXinDHRh8
+	NxAfFQ==
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAgAAAAAD8AAAAAAAABAAAAAAAAAAIAAAAAAAAAAwAAAAAAAAAEAAAA
+	AAAAAAU/IsFMAAAABj8AAAAAAAAHAAAAAAAAAAg/AAAAAAAACT+AAAAAAAAKPyZmZgAA
+	AAs+zMzNAAAADD+AAAAAAAANP4AAAAAAAA4/AAAAAAAADz+AAAAAAAAQPiqqwQAAABEA
+	AAAAAAAAEj+AAAAAAAATP4AAAAAAABQAAAAAAAAAFT+AAAAAAAAWP0AAAAAAABc/gAAA
+	AAAAGD6IiJQAAAAZAAAAAAAAABoAAAAAAAAAGz+AAAAAAAAcPpmZmgAAAB0AAAAAAAAA
+	Hj8nrhQAAAAfPwzMzQ==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Main Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Main Output</string>
+		</dict>
+	</dict>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Acoustic Kick Drum</string>
+	<key>subtype</key>
+	<integer>1718053733</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

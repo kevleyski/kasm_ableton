@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UG10cgAAALAAAAC4AAAACAAAAAQAAAAAQnlwYQAAAAAAAAAAAAAAAAAAAABQcmVzAAAA
+	AAAAAAAAAAAAAAAAAFBoYXMAAAAAAAAAAAAAAAAAAAAAR2Fpbj8AAAA/AAAAPwAAAD8A
+	AABIUEZyAAAAAAAAAAAAAAAAAAAAAExQRnI/gAAAP4AAAD+AAAA/gAAASFBPbj+AAAA/
+	gAAAP4AAAD+AAABMUE9uP4AAAD+AAAA/gAAAP4AAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1114797944</integer>
+	<key>name</key>
+	<string>Default</string>
+	<key>subtype</key>
+	<integer>1652060978</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

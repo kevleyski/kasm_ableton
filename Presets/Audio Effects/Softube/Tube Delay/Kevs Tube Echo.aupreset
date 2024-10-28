@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqhAIotS/9
+	YM0B1QcAwswwLoBtDjOAIDAhgCyMj/BcLYOuhZaXQn4vToyWNkmSTXY8ohc8E2LjNiQk
+	sttRShlYIKHbNhynZ4pcNL1M3GD4lY0sofjCiBfZF9YhN92S9ZJz+dwt5aX670EVlNJa
+	YfeyqirKvCTBcJ8mKXJd485OauXeuMbPk9PAjotb3+Qijx9KtQHfL2D7BGwHgsf3IVhN
+	bZ+NGo1GB/B9jO1PKCCMvoeu05dnAmmLQULoahudNIBSqi3Cg9IV3x8rp9fWZ3INfS3l
+	GSAwK5ACDwGyh6cDoWSqJiEBLSR4L2FEQg4iCpydZC/g7wNhdkRUJSbUhA49tNAKnYFu
+	Ag==
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAKAAAAAD9D1woAAAABPxR64QAAAAI/AAAAAAAAAz8wo9cAAAAEPyeu
+	FAAAAAU/NcKPAAAABj8TMzMAAAAHPkKPXAAAAAgAAAAAAAAACT9mZmY=
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Tube Echo</string>
+	<key>subtype</key>
+	<integer>1415726181</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

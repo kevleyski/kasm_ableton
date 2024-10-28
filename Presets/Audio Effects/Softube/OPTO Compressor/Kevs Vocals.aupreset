@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqkQIotS/9
+	YL8BPQgA9AsSuAEKjwESXwoFFQAAYD8KBwgBFYXrET8KAggCA4AEBQYHCAkVpHAdChWu
+	R2E+IAsw/wEaLAAAAAsMAggNDg8SJDg5MzRjMDc4LWZiMjAtNDk3NC1hYzNjLTk5OTY1
+	YjM1MzRiYRKNAQqKARJaCgUVzczMPexR+D4CBexRGAoaBAEiACo7CgRxZW1lEg9PUFRP
+	IENvbXByZXNzb3IaBjIuNS44NiIYIChiNjg3MjkgNWM5NDljNWQpKAIyADoLCB4gwGTq
+	tAMVuEfnQDaAc0yiWnIIy1rONxQAGPYG0sQlgJQvDyC3jAYQB8NxzMQI4Vavg9RJ0AQT
+	COKEcJ0DpoEkwAUA7wQ=
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAALAAAAAD9gAAAAAAABPxHrhQAAAAIAAAAAAAAAAz+AAAAAAAAEAAAA
+	AAAAAAU/gAAAAAAABj+AAAAAAAAHAAAAAAAAAAg/gAAAAAAACT8dcKQAAAAKPmFHrg==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Main Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Main Output</string>
+		</dict>
+	</dict>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Vocals</string>
+	<key>subtype</key>
+	<integer>1902472549</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

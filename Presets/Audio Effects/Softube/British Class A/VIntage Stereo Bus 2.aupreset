@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEq7wIotS/9
+	YLIDLQsAtA4SzwIKpgIS9QEKBRUAAAA/CgIIAQIDBAoHCAUVflJBPweACD4JCgsADA0O
+	DxVxPQoQFcGqKj4RFYXr0RITFdv5/hQVsKoqFRYXQBgVlIiIGRXNzMwaFaRw/RscHR4V
+	rkcBHyAgMP8BGiwKDQ4VEiQ2ODE3N2JmMS1kNDE0LTQyZDctYWIxYS0yY2U0NzZjZmVk
+	OWUSgQIK/gESzcUgMAgREp+qqhUWFxgZGhoEASIAKjsKBGZna2USD0JyaXRpc2ggQ2xh
+	c3MgQRoGMi41Ljg2IhggKGI2ODcyOSA1Yzk0OWM1ZCkoAjIAOgsIQaixsEFJKqpHYTig
+	aqZoOxI7SwnUYNLE5W/5Wa0ZFTr9Heh2LYEDNUeQJbfsUSb8XeELFngpESZvHIwj1GqK
+	2RPIVcKE/Wc2DqkuGa/bk47kBWRK6P1CN83+FTVZEBee/qFKSWvX+Qhidl9I91UkxS+a
+	Y12lQXlU
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAgAAAAAD8AAAAAAAABAAAAAAAAAAIAAAAAAAAAAwAAAAAAAAAEAAAA
+	AAAAAAU/QVJ+AAAABj+AAAAAAAAHP4AAAAAAAAg+gAAAAAAACQAAAAAAAAAKAAAAAAAA
+	AAs/AAAAAAAADD+AAAAAAAANP4AAAAAAAA4/AAAAAAAADz8KPXEAAAAQPiqqwQAAABE+
+	0euFAAAAEj+AAAAAAAATPv752wAAABQ/KqqwAAAAFT+AAAAAAAAWPwAAAAAAABc/QAAA
+	AAAAGD6IiJQAAAAZPszMzQAAABo+/XCkAAAAGwAAAAAAAAAcAAAAAAAAAB0AAAAAAAAA
+	Hj8BR64AAAAfPwAAAA==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Main Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Main Output</string>
+		</dict>
+	</dict>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>VIntage Stereo Bus 2</string>
+	<key>subtype</key>
+	<integer>1718053733</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

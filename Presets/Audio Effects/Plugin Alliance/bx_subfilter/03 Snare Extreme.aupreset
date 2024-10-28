@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UG10cgAAAJwAAACkAAAABwAAAAQAAAAAQnlwYQAAAAAAAAAAAAAAAAAAAABQcmVzAAAA
+	AAAAAAAAAAAAAAAAAEluR24/AAAAPwAAAD8AAAA/AAAAT3V0Rz8AAAA/AAAAPwAAAD8A
+	AABSZXNvP4AAAD+AAAA/gAAAP4AAAFRnaHQ/W0xKP1tMSj9bTEo/W0xKTG93RT+AAAA/
+	gAAAP4AAAD+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1114797944</integer>
+	<key>name</key>
+	<string>Snare Extreme</string>
+	<key>subtype</key>
+	<integer>1652061030</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

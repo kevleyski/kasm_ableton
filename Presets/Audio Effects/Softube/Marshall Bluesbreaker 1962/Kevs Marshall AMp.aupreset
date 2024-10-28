@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEq6wIotS/9
+	YKgDDQsABBAStwIKjgIS3QEKAAoHCAEVCtcjPwIVAAAAAxXNzAwEFR+FCwVABhVSuD4/
+	CgIIBwijOwkVw/WoPgoVsKoqCxVA2eQ+DBWKPCUNFWB0EQ4PEBESE4AUFRYXAggYIBkw
+	/wEaLAsMAggNCgIIDoA/EiRiZDFlYzVjMi03ZWVmLTExZWEtOTFmZS02OGZlZjcwN2Y0
+	MWMSggIK/wESzgEKBRV/Lro9AQAEBQYJCpqZGQ0OAggVFhcaBAEiACpGCgRuYW9xEhpN
+	YXJzaGFsbCBCbHVlc2JyZWFrZXIgMTk2MhoGMi41Ljg2IhggKGI2ODcyOSA1Yzk0OWM1
+	ZCkoAjIAOgsINqiRpGIBbkk9CnNARWjSBgEtU4QOSvX/n3YDQZgfFui+RgMIUq0LKT63
+	Yc8/Oo5xsgI2D/HmUmch8EG5qsJ2OJrpg0JmsNhG24bxeeXxiHEHHjXpFgJL9REfqyHE
+	IhU=
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAZAAAAAAAAAAAAAAABPyPXCgAAAAI/AAAAAAAAAz8MzM0AAAAEPwuF
+	HwAAAAU/QAAAAAAABj8+uFIAAAAHAAAAAAAAAAg7o9cKAAAACT6o9cMAAAAKPyqqsAAA
+	AAs+5NlAAAAADD8lPIoAAAANPxF0YAAAAA4+5NlAAAAADz8AAAAAAAAQPwAAAAAAABE/
+	AAAAAAAAEj8AAAAAAAATP4AAAAAAABQ/gAAAAAAAFT+AAAAAAAAWP4AAAAAAABc/gAAA
+	AAAAGAAAAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Marshall AMp</string>
+	<key>subtype</key>
+	<integer>1851879281</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

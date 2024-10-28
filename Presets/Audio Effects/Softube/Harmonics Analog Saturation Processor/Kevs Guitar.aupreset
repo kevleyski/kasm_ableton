@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqyQIotS/9
+	YB4C/QkAEk86LmB5AzAyIWnIqChKwnB+eLzjDqoUVxQ3TwRBHC3MQ18zpBppbF2ajSam
+	WIignVKczGRUhERIqsumrKua66WFmInGZaWoFFSwiGEWq+TC8cdcwW/rx67WD5knOPVX
+	HZPlvitYFX/Po3xbL2zsIElu6HEhIxU3HN8CvkUd6KhS57rWlaTftpYLZk3X1nRW0Paf
+	pJVNz/S37JmqLIpxLaqjPPDdDQUuEjg558lCDysGs/DZ/TyBpDE8uRHagr6HXjM/kOXs
+	Od99C7jYA2qv5ke+O4CLnUNBxLw4Anq85rtzRF3jA91Val7XvjIkIGBIWdUcAzdkW1MC
+	9E4DLGB8SFUhygqgHYfO/RqzgmXuugEYmNzPLtugaiF7TMJAOm2v613gPIQSeBCbOwAR
+	1LtiurY0oRChXYIzQANHyACKAQ==
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAOAAAAAD9XCj0AAAABP1rhSAAAAAI/LhR7AAAAAwAAAAAAAAAEPzXC
+	jwAAAAUAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAg/gAAAAAAACT9TdoEAAAAKPvCR4gAA
+	AAs/C4UfAAAADD9Qo9cAAAANP4AAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Guitar</string>
+	<key>subtype</key>
+	<integer>2003399785</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

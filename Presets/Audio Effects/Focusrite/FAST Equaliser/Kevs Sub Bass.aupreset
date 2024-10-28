@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAArA6FuuD45tWQE1OBTAAAAAAak/HA9umJgE2drqz8AAAATba9mP4AA
+	ABQoNbM/gAAAFlHZ0gAAAAAallu2AAAAABrpa3E9umJgHcMYMz8AAAAiofXMPc2Azyhs
+	pLQ/gAAALy3acj26YmA0DHAgPwAAADVWx74AAAAAN4aojT5ulO85JaCwP3n6IzwYa5UA
+	AAAAPLETtT+AAABC2aFTPbpiYENySXM9umJgTGtbTj7UJSlMso3HAAAAAFBd89YAAAAA
+	UcAbnQAAAABYgVFbPbpiYFn+bKI+EkklXFlVDz8AAABeDi2uPwAAAF60+KM/AAAAXrs8
+	XgAAAABfwwZNPwAAAGFQDg8/IAFXYXfe7D8AAABh2u1VAAAAAGMst4s/AAAAY+3YPwAA
+	AABrn1exP4AAAHJgjW89umJgc1fm1AAAAAB2NMDQP1kYBHhifqo+Ekklf+PGsj+AAAA=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	eJzNV01sG0UUnnW6TdpGkAqJAm2pK4HSEhJsr61AaJt1481PaYoVR0UgFWfinTiLtrvO
+	eteWq6qK1AsCtUGcaIWERQ9F4oBUqRIX6AoJUaFQVfQAHBBBSNAikKBwgFOZTfyatXfW
+	duwLPuw+v33fm/e+eTPzJhmfik9K09JUCnGbNHySIK6HH42npoPSgoVVJU8MVCBGXtE1
+	xHXy4QFhIIQyBsEmkY/76BP0gbg9fCQUEfrDkf7I4HRYGBJCQ8LggBCL9oXDQ6EQ4p5O
+	OmMjLqDIiNvBxy1TP0qwoREjnTP0OUUlEzIqYNWizrZsQvBzox7l16I8RTGHsSaH00TD
+	syrx4P4YrsLt9ODmDLJgES1TqkEuSmIV8mEPMosVrRYkiA3CXP1rVg9mX8px1bjdHlxe
+	V3WJnWIDaiItUhPxpQbh+tREGNRcvLClPjURJjXi1m9+Gq5LTaQNaoQWqRF8qfnnbH1q
+	BFbV0DQbhMmihv5u16dGaIOaaIvURH2pOf1+fWqibGoahdla1UTboCbWIjUxX2qCS/Wp
+	iTGoeefCnWsNwmRRMzM393N9amIboMad4riSnR+xzCbJ2c1A+tEj29X0PMLAegkShO22
+	L0EA0w3ZOefqLkdWkixqy7mDv1YnuYeBbJ5cVppmKUdqYV3V4T7mgh3Vi81PyS4v0PcE
+	iFaPucMLZS3mfbZvghUUcz56GibYXKU/7gU2PxuMFFmTUYPq4ccI7Wuwmp4t5XA+38B8
+	G69oJtHy3r3enqomoZvXLTNnmWPsPXN8IpGQjiVdPd6DFu3oUibt0GhzxfFcB7Xyafvc
+	DZm8JiGO65AMQzcmST6PsxQV4JEkK6ZupLGG1RLFAY8cF3B70GfptwI2acMYL2BFdYxq
+	bfJEJRnaQI6quKBbhhOfk0VlgDmcN48rpBjPmEqBrIay9mGWbldx08SZeSJP69LCS4qc
+	JaaD3ryOLiqyOe/obnfc180Tup5WDVfoQD7RokAp0MkFuO3Og+eciOgrQF+BGfphsNK8
+	Xft3v70mrtx9bW9FtEfuBUG8c+LJiih+eOQpsL38BIgo9Sl4WJTfGwAxWHoGYLleMBAv
+	3dwHsD/P9IFt6AoYoL3S/SGswTDE8N3dIbB9PfM8aM+8/GxFDH4RfA5gvR8JYJBdgXCC
+	734JInr7AzBAv3x8CGBTB4YrYvmV9AHQntgKBsHffwBtWf4LBhZjN0BExXNgsLj00GHQ
+	vnVeBNvvD4Gzxb5u0NrFcyAubr54EGAPvAmiyN8Cg2D5cwliEMKjoO39JAGwbafAAF2/
+	NwbiZ99OQEL7w0cA9uOrIJZ33ngBtGdvTYIY4Y5BDPhrEMtXr78IBslJEJGYBFFMJZJ2
+	ZSWkNWKZdPtIYoOuVZPeu1BgFy2+LkZVcuOdXCdLv7aY6Mvx7trCXfuya8ukS7OOJ/dr
+	/abkuv+4rjQb9kQvFq7rgquX27An2oe7jnNXw7xhT7RtdW2s7cREuzxX79Y04x1eT7Qh
+	cjU5ru6DeoLCKWLj5P+6akbA01fL/W1VjTgDnpaXfxtuZ4ZunvbOUGtV84ararrtdmKy
+	l9az+7utqjlvr8fUVVM1Y5YiO2coLZyMZRhEM1Mq1UAVoP8AQQrm7Q==
+	</data>
+	<key>manufacturer</key>
+	<integer>1178817875</integer>
+	<key>name</key>
+	<string>Kevs Sub Bass</string>
+	<key>subtype</key>
+	<integer>1715827061</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UG10cgAAALAAAAC4AAAACAAAAAQAAAAAQnlwYQAAAAAAAAAAAAAAAAAAAABQcmVzAAAA
+	AAAAAAAAAAAAAAAAAEhQRnI+kWMaAAAAAAAAAAAAAAAATFBGcj95mZk/gAAAP4AAAD+A
+	AABIUE9uP4AAAD+AAAA/gAAAP4AAAExQT24/gAAAP4AAAD+AAAA/gAAAUGhhcwAAAAAA
+	AAAAAAAAAAAAAABHYWluPwAAAD8AAAA/AAAAPwAAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1114797944</integer>
+	<key>name</key>
+	<string>Easy Male Vocals</string>
+	<key>subtype</key>
+	<integer>1652060978</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

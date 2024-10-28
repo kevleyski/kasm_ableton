@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAASAAAAMAAAAAAAAAAxPwMUqAAAADI+zMzNAAAAMz+AAAAAAAA0Pqqq
+	qwAAADUAAAAAAAAANj9N1SgAAAA3PszMzQAAADg/gAAAAAAAOT6qqqsAAAYfPxysCAAA
+	BiAAAAAAAAAGIT7OciIAAAYiPs7ZFwAABiM+qqqrAAAGJD8o9cMAAAYlP4AAAAAABiY/
+	AAAA
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIUIHAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8UGx1
+	Z2luU3RhdGUgYXBwbGljYXRpb249IkZhem9ydGFuIDIiPjxQcm9jZXNzaW5nUXVhbGl0
+	eT48UHJlc2V0PjxQYXJhbWV0ZXJzPjxwYXJhbSBuYW1lPSJSZWFsLXRpbWUgUHJvY2Vz
+	c2luZyBRdWFsaXR5IiB2YWx1ZT0iTm9ybWFsIi8+PHBhcmFtIG5hbWU9Ik9mZmxpbmUg
+	UHJvY2Vzc2luZyBRdWFsaXR5IiB2YWx1ZT0iTm9ybWFsIi8+PC9QYXJhbWV0ZXJzPjwv
+	UHJlc2V0PjwvUHJvY2Vzc2luZ1F1YWxpdHk+PFBhcmFtZXRlcnNTdGF0ZT48UHJlc2V0
+	IG5hbWU9IkNvbG9yZnVsIiB0YWdzPSJTdGVyZW8gRW5jaGFuY2VyfEZyZWUgcnVubmlu
+	ZyI+PFBhcmFtZXRlcnM+PHBhcmFtIG5hbWU9IkxGTyAxIFN5bmMiIHZhbHVlPSJPZmYi
+	Lz48cGFyYW0gbmFtZT0iTEZPIDEgUmF0ZSIgdmFsdWU9IjAuNTQ2Mjg5Ii8+PHBhcmFt
+	IG5hbWU9IkxGTyAxIE5vdGUgUmF0ZSIgdmFsdWU9IjIiLz48cGFyYW0gbmFtZT0iTEZP
+	IDEgTm90ZSBTY2FsZSIgdmFsdWU9IkZ1bGwiLz48cGFyYW0gbmFtZT0iTEZPIDEgV2F2
+	ZWZvcm0iIHZhbHVlPSJIeXBlciBUcmlhbmdsZSIvPjxwYXJhbSBuYW1lPSJMRk8gMiBT
+	eW5jIiB2YWx1ZT0iT2ZmIi8+PHBhcmFtIG5hbWU9IkxGTyAyIFJhdGUiIHZhbHVlPSI0
+	LjcxMDczIi8+PHBhcmFtIG5hbWU9IkxGTyAyIE5vdGUgUmF0ZSIgdmFsdWU9IjIiLz48
+	cGFyYW0gbmFtZT0iTEZPIDIgTm90ZSBTY2FsZSIgdmFsdWU9IkZ1bGwiLz48cGFyYW0g
+	bmFtZT0iTEZPIDIgV2F2ZWZvcm0iIHZhbHVlPSJIeXBlciBUcmlhbmdsZSIvPjxwYXJh
+	bSBuYW1lPSJMRk8gMSBEZXB0aCIgdmFsdWU9IjYxLjIiLz48cGFyYW0gbmFtZT0iTEZP
+	IDIgRGVwdGgiIHZhbHVlPSIwIi8+PHBhcmFtIG5hbWU9IkNlbnRlciBGcmVxdWVuY3ki
+	IHZhbHVlPSI0NTUuNzI4Ii8+PHBhcmFtIG5hbWU9IlN0ZXJlbyBQaGFzZSIgdmFsdWU9
+	IjcyLjcyIi8+PHBhcmFtIG5hbWU9IlN0YWdlcyBOdW1iZXIiIHZhbHVlPSI0Ii8+PHBh
+	cmFtIG5hbWU9IkZlZWRiYWNrIiB2YWx1ZT0iNjYiLz48cGFyYW0gbmFtZT0iRlgiIHZh
+	bHVlPSIxMDAiLz48cGFyYW0gbmFtZT0iT3V0cHV0IFZvbHVtZSIgdmFsdWU9IjAiLz48
+	L1BhcmFtZXRlcnM+PC9QcmVzZXQ+PC9QYXJhbWV0ZXJzU3RhdGU+PE5vdFByZXNldGFi
+	bGVQYXJhbXM+PFByZXNldD48UGFyYW1ldGVycy8+PC9QcmVzZXQ+PC9Ob3RQcmVzZXRh
+	YmxlUGFyYW1zPjxNaWRpQ29udHJvbE1hcCBuYW1lPSJGYXpvcnRhbiAyIi8+PEVkaXRv
+	ciBzeXN0ZW1TY2FsZT0iMS4wIj48U2tpbiB0aGVtZT0iLiIgbmFtZT0iMTE4MCIvPjxQ
+	cmVzZXQ+PFBhcmFtZXRlcnMvPjwvUHJlc2V0PjxCcm93c2Vycz48Q29udGVudEJyb3dz
+	ZXIgbmFtZT0iUHJlc2V0cyIgbGVmdFBhbmU9IjIwMCIgcmlnaHRQYW5lPSIyMDAiIHNv
+	dXJjZXNFeHBhbmRlZD0iMSIgZmlsdGVyc0V4cGFuZGVkPSIxIiB0YWdzRXhwYW5kZWQ9
+	IjEiIGF1dGhvckV4cGFuZGVkPSIxIiBkZXNjRXhwYW5kZWQ9IjEiPjxTb3VyY2VzTWFu
+	YWdlciBhY3RpdmVTb3VyY2VzPSJGYWN0b3J5O1VzZXIiPjxTb3VyY2VzPjxDb250ZW50
+	U291cmNlIG5hbWU9IkZhY3RvcnkiPjxVc2VyQXR0cmlidXRlcyBuYW1lPSJwaW5uZWQi
+	Lz48L0NvbnRlbnRTb3VyY2U+PENvbnRlbnRTb3VyY2UgbmFtZT0iVXNlciI+PFVzZXJB
+	dHRyaWJ1dGVzIG5hbWU9InBpbm5lZCIvPjwvQ29udGVudFNvdXJjZT48L1NvdXJjZXM+
+	PC9Tb3VyY2VzTWFuYWdlcj48RmlsdGVyc0VkaXRvciBhY3RpdmU9IjEiPjxGaWx0ZXIg
+	bmFtZT0iU3RhdGUiLz48L0ZpbHRlcnNFZGl0b3I+PC9Db250ZW50QnJvd3Nlcj48L0Jy
+	b3dzZXJzPjwvRWRpdG9yPjwvUGx1Z2luU3RhdGU+AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1680946791</integer>
+	<key>name</key>
+	<string>KEvs Fazer</string>
+	<key>subtype</key>
+	<integer>1177702968</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

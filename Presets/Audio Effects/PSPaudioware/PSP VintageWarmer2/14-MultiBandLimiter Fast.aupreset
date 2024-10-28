@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	TXVsdGlCYW5kTGltaXRlciBGYXN0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAgD8AAIA/AACAPwAAgD8AAAA/AAAAAGZmJj8AAAA/AAAAPwAA
+	AD8AAAA/AAAAPwAAgD8AAAA/SS7/PgAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8A
+	AAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAAAAACAPw==
+	</data>
+	<key>manufacturer</key>
+	<integer>1347637345</integer>
+	<key>name</key>
+	<string>MultiBandLimiter Fast</string>
+	<key>program_num</key>
+	<data>
+	AAAAAA==
+	</data>
+	<key>subtype</key>
+	<integer>1347835698</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>unique_id</key>
+	<data>
+	V1ZQUA==
+	</data>
+	<key>version</key>
+	<integer>8192</integer>
+</dict>
+</plist>

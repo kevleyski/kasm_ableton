@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqxwEotS/9
+	YLgA7QUA5AkSdQpNEh0KBRUpXE8/CgcIARWamZk9IAIw/wEaLAoHCAoVAAAACwwCCA0K
+	AggOCgcIDxUAAIA/EiQ4NUYzQjdDQS0wN0JBLTQ0NDAtOEREMi01QjBDOTEzRDQ1MkIS
+	TwEaBAEAAAAiACo1CgRXYW1wEglXaGl0ZSBBbXAaBjIuNS44NiIYIChiNjg3MjkgNWM5
+	NDljNWQpKAIyADoLCAsA/WGPrgbyUIGyAAloB8ULqAcMYDAWEkQFLwHG
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAACAAAAAD9PXCkAAAABPZmZmg==
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Vintage Distortion</string>
+	<key>subtype</key>
+	<integer>1463905648</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

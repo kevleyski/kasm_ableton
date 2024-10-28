@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UG10cgAAAbQAAAG8AAAAFQAAAAQAAAAAUG93cj+AAAA/gAAAP4AAAD+AAABCYW5rAAAA
+	AAAAAAAAAAAAAAAAAFRocnM/TvrQP0760D9O+tA/TvrQR0JzdD6ZmZo+mZmaPpmZmj6Z
+	mZpSbHNUPzSFoz80haM/NIWjPzSFo0NoTGs/gAAAP4AAAD+AAAA/gAAAWExBYz+AAAA/
+	gAAAP4AAAD+AAABYTEtuPz+RaT8/kWk/P5FpPz+RaU9QRG0/gAAAP4AAAD+AAAA/gAAA
+	TG1NeD+AAAA/gAAAP4AAAD+AAABUTW9kP4AAAD+AAAA/gAAAP4AAAE1Tb0wAAAAAAAAA
+	AAAAAAAAAAAATVN0UwAAAAAAAAAAAAAAAAAAAABIUE9uP4AAAD+AAAA/gAAAP4AAAEhQ
+	RnE/C/Q5Pwv0OT8L9Dk/C/Q5TFBPbj+AAAA/gAAAP4AAAD+AAABMUEZxPzYzMz82MzM/
+	NjMzPzYzM0ZuT24/gAAAP4AAAD+AAAA/gAAARm91bj6Y/vg+mP74Ppj++D6Y/vhTb0lQ
+	AAAAAAAAAAAAAAAAAAAAAElQVG0/gAAAP4AAAD+AAAA/gAAAAQAAAAEAAAAFAAAAAAAA
+	AAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1114797944</integer>
+	<key>name</key>
+	<string>Ready For Streaming</string>
+	<key>subtype</key>
+	<integer>1652061296</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

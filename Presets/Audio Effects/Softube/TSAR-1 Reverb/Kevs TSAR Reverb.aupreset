@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqlAIotS/9
+	YNEBVQgAYswwLoBvAzOwDFvYtNmgCTViFfHFnMgeRTVLHbHjWJpGKIiQGGPQGNMEskqU
+	LBllSgF4q9QvYzRMsPQTX4Kd/yg9/IwOoQg7BIR8Au6nJ+gkO4+TGM2moNOO53Ozd1SF
+	vVy9Y8b1EmvmaDvKlqT7/74swf5DD+X9656Dv0+4d5oU3pFEQvQzvYU+GAo4I2z1wdlY
+	ZOvGSx7gMVTr1sbEitwCrOUAzrIFBlPte0LRDRBbKNPOLI7U3RZrWcSidAeyqW0pW5YO
+	HyjwZOi2AdDKRhb2//9aAw2yY7NksbgJZjIgJgwuAOtDNagRebwXwJeEg4xicTD4WGbE
+	VOxkQP1agM4sB4fdUwifxwM=
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAALAAAAAD4IiHIAAAABPSqrBAAAAAI+yqqfAAAAAz6mZmYAAAAEPd3d
+	sQAAAAUAAAAAAAAABj8euFIAAAAHP4AAAAAAAAgAAAAAAAAACT+AAAAAAAAKP0AAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs TSAR Reverb</string>
+	<key>subtype</key>
+	<integer>1953718642</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

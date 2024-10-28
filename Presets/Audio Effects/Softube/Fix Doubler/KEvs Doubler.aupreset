@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqlgIotS/9
+	YLABZQgAZAwSuQEKkAESYAoFFVyPgj4KBwgBFQAAgD8CFY/CVQMVH4XrPQQVPQoXPwUV
+	hetRPgYCCAcKBwgICQA/IAow/wEaLAoHCAoLDAIIDQoCCA4PEiRhZTUxZDgzZC1kZThj
+	LTQwOWMtYjdkNi1mMWUyOTJjNjkxYmQSiQEKhgESVgoFmpkZPjGZqj0ICRoEASIAKjcK
+	BGZ4ZG8SC0ZpeCBEb3VibGVyGgYyLjUuODYiGCAoYjY4NzI5IDVjOTQ5YzVkKSgCMgA6
+	CwgeKABnprYD8KQqVJDK/v+1GQWyIyOymE7x2GSpxRQ5AAMAJ04ONQM/IQCpAQcx+lUm
+	BAo2bPBr5vaHwV1LSlCChoaNAQ==
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAKAAAAAD6Cj1wAAAABP4AAAAAAAAI/VcKPAAAAAz3rhR8AAAAEPxcK
+	PQAAAAU+UeuFAAAABj+AAAAAAAAHAAAAAAAAAAg/gAAAAAAACT8AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>KEvs Doubler</string>
+	<key>subtype</key>
+	<integer>1181317188</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

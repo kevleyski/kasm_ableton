@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UG10cgAAAIgAAACQAAAABgAAAAQAAAAAU3RTdwAAAAAAAAAAAAAAAAAAAABTb2xMAAAA
+	AAAAAAAAAAAAAAAAAFNvbFIAAAAAAAAAAAAAAAAAAAAAU29sTT+AAAAAAAAAAAAAAAAA
+	AABTb2xTAAAAAAAAAAAAAAAAAAAAAFN0V2k+qqqrPqqqqz6qqqs+qqqr
+	</data>
+	<key>manufacturer</key>
+	<integer>1114797944</integer>
+	<key>name</key>
+	<string>Solo Mid = Sum</string>
+	<key>subtype</key>
+	<integer>1652061036</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqzQEotS/9
+	YPUAHQYAwkonH5B9///////PxUQO7uQAQXwVbAsbzh6jp/uBTAyb5Kf9EPkWTBTrrWEX
+	rh4Ubh/41Qlyog9iHrYVD/eZENy+cgqXBzP/WB38V/GIcw4MTwAQnmJOjzJbqGpdt/00
+	++v1rV54ad7WXX/1/hV+V+NUz5WYpRte6YFPeoAcvhveeoA7I6ChG17ogSdXe2wCmvMG
+	6IYnOecN4Tlm9UDNBA0ABcweXw1kA4MyMxiUARA+ggoV7gRDWMjVipiXCKFOoVWa
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAFAAAAAD8AAAAAAAABP4AAAAAAAAI/Y447AAAAAwAAAAAAAAAEPwAA
+	AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Ambiance</string>
+	<key>subtype</key>
+	<integer>1651717753</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

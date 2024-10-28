@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UEsDBBQACAgIAOdSElkAAAAAAAAAAAAAAAAKAAAAc3RhdGUuanNvbu3bS27CMBAG4HVy
+	isrqEqHwCLS9QtUTVFVkEidYOHbk2NCCuHtt50FoOcK/Qcp45s83Zp1LHJFaFUyQt6dL
+	HEXk2fw0zD2QkhqrqVGazHy9EmpHRdu3TfqGg1kouywrqOFK+tZPX4vCwHTk1tRNuTND
+	dcWMT78OJSbpTrDCDxht2diaW30MMclYorWy0tzXWmV1zkJiqPS5wAADDDDAAAMMMMAA
+	AwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAAD
+	DDDAAPMQ43+/wimRtv64+17OzcW9l9T821cWIYkUrKRWmAff340nXWZDNZMmq7SyzUTy
+	eA33Eslrfu7qJRXtcGBblgl1yhrNct46nnuqeJ6dlD5Qly3/TQieMxmm8sPtbFznxAuz
+	v4FIroTSYcF0OV8km822q5f2fA5t8zRZLdPFa18vNO+ve75abdcvydpl+2jiiG33n/k+
+	VnDzZ013J92ruydJ6xA0zB+Z9gsOAaXSNTWTq2+ErbgMhSRdDlM1M3QYodbsu2Xe2bH1
+	HfE1/gVQSwcI70v/56gBAABaOQAAUEsBAgAAFAAICAgA51ISWe9L/+eoAQAAWjkAAAoA
+	AAAAAAAAAAAAAAAAAAAAAHN0YXRlLmpzb25QSwUGAAAAAAEAAQA4AAAA4AEAAAAA
+	</data>
+	<key>manufacturer</key>
+	<integer>543901811</integer>
+	<key>name</key>
+	<string>Kevs Fatuator</string>
+	<key>subtype</key>
+	<integer>1801871732</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

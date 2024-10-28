@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqzAEotS/9
+	YOQAFQYA5AkSfgpWEiYKBRXNzMw+CgcIARUAAAA/AiADMP8BGiwKBwgKCwwCCA0KAggO
+	CgcIDxUAAIA/EiQ5QzI5RTVFMC0wREU3LTQyRkEtQTAzQS02MTkxQzc2OUJGQ0YSWBoE
+	AQAAACIAKj0KBEZlZWQSEUFjb3VzdGljIGJhY2saBjIuNS44NiIYIChiNjg3MjkgNWM5
+	NDljNWQpKAIyADoLCA0AHcweV0YtEwysw5QtoDhCAByYAWCwlwiiiHGJwHURKE0=
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAADAAAAAD7MzM0AAAABPwAAAAAAAAI/AAAA
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Feedback</string>
+	<key>subtype</key>
+	<integer>1180844373</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

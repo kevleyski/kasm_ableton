@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UG10cgAAAJwAAACkAAAABwAAAAQAAAAAQnlwYQAAAAAAAAAAAAAAAAAAAABQcmVzAAAA
+	AAAAAAAAAAAAAAAAAEluR24/AAAAPwAAAD8AAAA/AAAAT3V0Rz7zBys+8wcrPvMHKz7z
+	BytSZXNvPwAAAD8AAAA/AAAAPwAAAFRnaHQ/WkMTP1pDEz9aQxM/WkMTTG93RT9l520/
+	ZedtP2XnbT9l520=
+	</data>
+	<key>manufacturer</key>
+	<integer>1114797944</integer>
+	<key>name</key>
+	<string>DI Bass</string>
+	<key>subtype</key>
+	<integer>1652061030</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

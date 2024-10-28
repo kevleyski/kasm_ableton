@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UG10cgAAAOwAAAD0AAAACwAAAAQAAAAAUG93cj+AAAA/gAAAP4AAAD+AAABQcmVzAAAA
+	AAAAAAAAAAAAAAAAAE1udHIAAAAAAAAAAAAAAAAAAAAASW5Hbj7rQIQ/AAAAPwAAAD8A
+	AABTdFdpPwAAAD8AAAA/AAAAPwAAAEZvdW4/AAAAPwAAAD8AAAA/AAAAVEhEcz9ZJeQ/
+	AAAAPwAAAD8AAABPdXR0P4AAAD+AAAA/gAAAP4AAAFRTY2E/AIdXPwAAAD8AAAA/AAAA
+	VFNldD6qqqsAAAAAAAAAAAAAAABDTW9kP4AAAAAAAAAAAAAAAAAAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1114797944</integer>
+	<key>name</key>
+	<string>CD Remastering Start</string>
+	<key>subtype</key>
+	<integer>1652059490</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

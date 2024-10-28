@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAlADZ/+D8AAAAGWAp3AAAAAA7V0rQAAAAAEgW3ygAAAAAZjg8mAAAA
+	ACF/C28/gAAAJV/EnD8AAAAu3YGmAAAAAC8lK/M/gAAANgDLmz8Dr9s5ujIaAAAAAD33
+	ZJk/gAAAQZ17Sz7+MPZPqucaPwAAAFD6dHAAAAAAUXSuNz13X75a27+BPwYraF3AUEM/
+	gAAAZcmcbQAAAABm9X/mAAAAAGegrBI+06u1aJKnAT8AAABokqcCPwAAAGiSpwM/AAAA
+	aJKnBD8AAABokqcFPwAAAGiSpwY/AAAAaJKnBz8AAABokqcIPwAAAGiSpwk/AAAAaJKn
+	Cj8AAABokqcgPwAAAG8FrEoAAAAAb7YfYT8AAABv7LcaPnmq9nI2wy8AAAAAcv4nET7/
+	v1A=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Sidechain</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyITwEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8dGFs
+	IHZlcnNpb249IjEuMCI+PHByb2dyYW1zPjxwcm9ncmFtIHByb2dyYW1uYW1lPSJGbHlp
+	bmcgVm9pY2UiIHVua25vd249IjAuMCIgdm9sdW1lPSIwLjQ1MzQxMzY5NTA5Njk2OTYi
+	IGhhcm1vbmljcz0iMC40MjkzMzA4MjU4MDU2NjQxIiBub2lzZXZvbHVtZT0iMC4zNjg3
+	MzQ3NzY5NzM3MjQ0IiBwdWxzZXZvbHVtZT0iMC4yOTg1ODI2NDMyNzA0OTI2IiBzYXd2
+	b2x1bWU9IjEuMCIgc3Vib3Njdm9sdW1lPSIwLjYxMzMzNzg3NDQxMjUzNjYiIG9zY3Ry
+	YW5zcG9zZT0iMC4yNDM4MTYyMjY3MjA4MDk5IiBzdWJPc2NPY3RhdmU9IjAuMCIgb3Nj
+	c3luYz0iMC4wIiBwdWxzZXR1bmU9IjAuNzEyMjk1MjM0MjAzMzM4NiIgc2F3dHVuZT0i
+	MC41MDMyMjcxMTQ2Nzc0MjkyIiBwdWxzZWZpbmV0dW5lPSIwLjUwODExODIxMjIyMzA1
+	MyIgc2F3ZmluZXR1bmU9IjAuNTA1MjQ3OTUwNTUzODk0IiBlc3NlcmludGVuc2l0eT0i
+	MC4zODM1MDg3NzE2NTc5NDM3IiBwb2x5bW9kZT0iMS4wIiBfcG9ydGFtZW50bz0iMC4w
+	IiB0dW5lPSIwLjUiIGlucHV0bW9kZT0iMC4wIiBjaG9ydXM9IjAuMCIgZW52ZWxvcGVy
+	ZWxlYXNlPSIwLjAiIGNhcnJpZXJ2b2x1bWU9IjAuNDYxNTUxMjE5MjI0OTI5OCIgbW9k
+	dm9sdW1lPSIwLjUiIG1vZGNvbXBhbmQ9IjAuMzA1MDQ0MTE0NTg5NjkxMiIgdm9jb2Rl
+	cmJhbmQwMD0iMC4yNzQzMDU1NTIyNDQxODY0IiB2b2NvZGVyYmFuZDAxPSIwLjMzMDgy
+	MzQyMTQ3ODI3MTUiIHZvY29kZXJiYW5kMDI9IjAuMzUyODA3OTY4ODU0OTA0MiIgdm9j
+	b2RlcmJhbmQwMz0iMC40MDE4NzIwOTg0NDU4OTIzIiB2b2NvZGVyYmFuZDA0PSIwLjQ2
+	MDc0ODc5MTY5NDY0MTEiIHZvY29kZXJiYW5kMDU9IjAuNSIgdm9jb2RlcmJhbmQwNj0i
+	MC41IiB2b2NvZGVyYmFuZDA3PSIwLjM3NzAwOTc0OTQxMjUzNjYiIHZvY29kZXJiYW5k
+	MDg9IjAuMzMwNTg3NDE2ODg3MjgzMyIgdm9jb2RlcmJhbmQwOT0iMC40NDY0MDY5MDA4
+	ODI3MjA5IiB2b2NvZGVyYmFuZDEwPSIwLjUiIHNpZGVjaGFpbj0iMC4wIi8+PC9wcm9n
+	cmFtcz48bWlkaW1hcC8+PC90YWw+AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1414481749</integer>
+	<key>name</key>
+	<string>Kevs Vox</string>
+	<key>subtype</key>
+	<integer>1448035122</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

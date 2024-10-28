@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ProgramNumber</key>
+	<integer>0</integer>
+	<key>manufacturer</key>
+	<integer>1481000274</integer>
+	<key>name</key>
+	<string>Kevs Late Club Bass</string>
+	<key>subtype</key>
+	<integer>1483101268</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>1</integer>
+	<key>vstdata</key>
+	<data>
+	Q2NuSwAAAIBGeENrAAAAAVhmVFQAAAABAAAAFEluaXQgMQAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAA/gAAAP4AAAD+AAAA+WTM0AAAAAD+AAAA+Reb0PyYr0j+AAAA+cHCjP4AAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+AAAA/gAAAAAAAAA==
+	</data>
+</dict>
+</plist>

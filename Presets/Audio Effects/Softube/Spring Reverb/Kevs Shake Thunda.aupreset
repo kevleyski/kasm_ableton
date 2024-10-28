@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEq6wEotS/9
+	YEgBDQcAogstLYBtDjOAiIzIiCCwDgGnQLEmIuSrYf7DBiSyV9sFGyOktSDDXRhbGm1b
+	uaVMAdWKuDYTihCDetMgxrTWZW4nsMKByw3c0ADX9ogg0YJhNhkP5yKwGwvnQl8v/ODu
+	kl50mpJ6iu38x44jfojg7r4N8mVZ551tEW/ZxuUv03IYjt3DgbCEWv2gzhfUGbC+Vs+4
+	ZMkBwDx3v5QlMlz6k86davWzzvdC7lfW6r2LVLnUS6zm5cgGEQANzB5ZDWrGg9rxGDSw
+	GHgC3r3HDOHTHRYTDAHEuRB2XvMSYgm9DOYT
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAGAAAAAD8a4UgAAAABP4AAAAAAAAIAAAAAAAAAAz8KPXEAAAAEPwuF
+	HwAAAAU/AAAA
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Shake Thunda</string>
+	<key>subtype</key>
+	<integer>1399870062</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

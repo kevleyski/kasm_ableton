@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqqAIotS/9
+	YPQB9QgAQs0zL2CvDhKgBihohoIOYMWi0RAxk7Hsj3IdAwWlTj/ALVcW9MldSHPywBWR
+	rGQ0K6UMnItgUSsWLcmiI8qSHyqaZ4lRfAdEeTpIhxjwPm6Gs27Uj+vUkEbV3mRgRNY8
+	AddPabVcne9NA2yf6TLpc6lD2wcruuPomuUKjui5gu0jHEH2XUWQHU8I62LCRGcoELge
+	cBjjhpdnIeFLL6lOH3Bcv0Byen3nm+tPZR1UD/D9E9Bq1DfY+3aNbwDfr7n+igjjnvn+
+	VGWJ9e09XTZ9ZnUBICiAZMqMB1GlkoIb2v//s2YFuGFuI3R93QZUtYwBB8YBCBXkODXD
+	KN+IzGQC0AxAegEKM5LiN/NIs8h2aHa8+jqVjwYbzFkRbgB4ng==
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAANAAAAAD64UewAAAABP4AAAAAAAAIAAAAAAAAAAz+AAAAAAAAEPuZm
+	ZgAAAAU8dcKPAAAABj79cKQAAAAHAAAAAAAAAAg7o9cKAAAACT+AAAAAAAAKO6PXCgAA
+	AAsAAAAAAAAADD5dsnA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Flanger</string>
+	<key>subtype</key>
+	<integer>1181317190</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

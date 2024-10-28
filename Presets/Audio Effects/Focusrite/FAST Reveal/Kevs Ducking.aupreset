@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAHEZ1QzwAAAAAgaxDOP4AAACGBGno/AAAAMbc2xT8AAAA7uT4OPwAA
+	AEyyjccAAAAAY+3YPwAAAAA=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Sidechain</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	eJx9kc9OwkAQxmcKDWjUqBcPHvRuIC2SqJxoAigJGgKEK1nawWxc2mZ3W8Ib+H6+kFv+
+	xIJok3Y2m/6+b2a+vjfwXtuj9mAIWAzZnABP7I43HA0oJSYgJal4FAKWbLd6X3XAl8Q0
+	BeM/7lvmA3hj15xaveK4Fbc2ch8adadRc6r1p8c71204DmC5n/kCWjwAvLK9REc9YjIk
+	OYllNOOCugGkTCRG7KgI2ydPXdqtxP8wAA81hYrr5T7Qbe4A11tARAuSw5h8LZno8TnX
+	+2S9edgqluTz1dx7QHkXONsCKib6NchffSVx/H9fn1+75Ln9TGZlTEymy5gpdWBjL91W
+	q/3Wz6VcTpRx0SYns2K0MftrHfzpKvjbTfL5TIL1CRAL+euZiTyRpAA7JTzGixJaRjBT
+	NMVaF8iVn76MEFol2H/bAdeR0WVKjzktPF/z1DSGVt5VkTAroqAjWBolEjaWhxrzUsYF
+	m4pMo7Dd1TwKM5chfw/NmBsavgEUgLtN
+	</data>
+	<key>manufacturer</key>
+	<integer>1178817875</integer>
+	<key>name</key>
+	<string>Kevs Ducking</string>
+	<key>subtype</key>
+	<integer>1716680300</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

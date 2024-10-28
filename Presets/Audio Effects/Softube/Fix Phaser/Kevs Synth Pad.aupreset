@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqnAIotS/9
+	YAIClQgAEkwvLHBvA3yrQwIETHUO7E5V44CS/HmnbXwXjxOUlkRYShGb68HinE0UlRgp
+	ayJlFkcmr4zGxZNiF0nfiRwMv4XRHRQ/hHgID3AfDKiSoXQhzeTmTmjzye53TAXNOGzr
+	NpIQrAxQqXY5mZ4uReW/S18Bf/iB5OeV/BJ6n7f51z3Mhe/eSb/IhgLB1gGe98HR2CZ0
+	gxFfWwWlkknbVVnqbYQFuuiltczWO3YAW+XSdTSnpna7EkxKaO16Mk1d2soBJijAaCgD
+	D2HFgYINyz/r/9YMAbKBebIbDlSSarsMHQ3qnDPgBB3Al2OPNDY3iRwD3IePeDa4K/QO
+	InvxyiBVGDCxNQbv6tQBkyUeBKwYdCanCQ==
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAANAAAAAD8LhR8AAAABP4AAAAAAAAI/MKPXAAAAAz5wo9cAAAAEAAAA
+	AAAAAAU/NHrhAAAABj7wo9cAAAAHPqZmZgAAAAg+mZmaAAAACT+AAAAAAAAKAAAAAAAA
+	AAs+gAAAAAAADAAAAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Synth Pad</string>
+	<key>subtype</key>
+	<integer>1919580272</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

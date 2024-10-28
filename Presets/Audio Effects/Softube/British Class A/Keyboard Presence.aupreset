@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEq1gIotS/9
+	YKgDZQoAIs43LmB5A+EAKkgcHhCA/Eg1RULDWt39ziUJm98ss/K6ZqmOGkWYdDRNACAS
+	JiYj7RSb4MmqPi8nNn7XN2b/q7qdFj5/WWk7GlajCszRj8VMrtJfxVgyFoyE6KiWKjXy
+	DyZXxNHM5qN0NPzWisSvi0KuaX3txGkLv2wqTV+U5cQwCm9MKwrHJxdFbVz2pKY4ln4w
+	8IwpDtP/RZ+yyYkkAtmah3y+nzcftRrOl46GZ0TOoF90z7t5xW6n84mQDfTyiINhk4VM
+	4IM9I0Xp7/nAJvkI0OLWXJRz9gEuArvOcd3rATqowbiBhVpcj8Jw0Gaoag7hJTGigzr1
+	/49hDhU2/+50x4rAwar+Ixn9Lf2I4arXrGb1FCHHzEuiVrbTnSIECYK4pfqW2wgq92Hj
+	XToYMdIbDarAeSUopNMTH8DVZjILjjjmViDTMEQMSgU=
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAgAAAAAD8AAAAAAAABAAAAAAAAAAIAAAAAAAAAAwAAAAAAAAAEAAAA
+	AAAAAAU/MCDFAAAABj+AAAAAAAAHP4AAAAAAAAgAAAAAAAAACQAAAAAAAAAKAAAAAAAA
+	AAs/AAAAAAAADD+AAAAAAAANP4AAAAAAAA4/AAAAAAAADz6KPXEAAAAQPqqqnwAAABE/
+	FcKPAAAAEgAAAAAAAAATPxwo9gAAABQ+qqqfAAAAFT+AAAAAAAAWPwAAAAAAABc/AAAA
+	AAAAGD6IiJQAAAAZP4AAAAAAABo+zMzNAAAAGwAAAAAAAAAcAAAAAAAAAB0AAAAAAAAA
+	Hj7MzM0AAAAfPyAAAA==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Main Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Main Output</string>
+		</dict>
+	</dict>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Keyboard Presence</string>
+	<key>subtype</key>
+	<integer>1718053733</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

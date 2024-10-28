@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEq5QEotS/9
+	YCkB3QYAYssrLIBNGzNjFGgCiJEgRNFn696QJYSckXtOwKIUsrvFGyMAyAIH/zhiotZC
+	TZIUcjBxCxkNT+v01Z2WabtlzDEyRAJniAaxAuzrtiiTeR9ptDWE+Ql59vXZ4Ql3ty7s
+	knCbnO9Mu7G9GX+aRHMVd16u3rdvvZuLa+Yi3rZJtGIeZHyDhF+QkDBwd/oy/gOzVhFB
+	VkmRTjSAWaDoBZDxLSV3CmX8ykVVqSXj+1Mm6C3TDBAACcweWA0qdQO1AmIwFijPGkBA
+	BQHM2BQo3AmGsNBtKviXkM+gJ1Gc
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAGAAAAAAAAAAAAAAABPkjpLQAAAAI/gAAAAAAAAz+AAAAAAAAEPkwm
+	3QAAAAU+5HS4
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Nice Space</string>
+	<key>subtype</key>
+	<integer>1634365291</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

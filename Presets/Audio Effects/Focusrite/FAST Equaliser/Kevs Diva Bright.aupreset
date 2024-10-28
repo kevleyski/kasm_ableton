@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAArA6FuuD45tWQE1OBTAAAAAAak/HA9umJgE2drqz8AAAATba9mP4AA
+	ABQoNbM/gAAAFlHZ0gAAAAAallu2AAAAABrpa3E9umJgHcMYMz8AAAAiofXMPc2Azyhs
+	pLQ/gAAALy3acj26YmA0DHAgPwAAADVWx74AAAAAN4aojT5ulO85JaCwP3n6IzwYa5UA
+	AAAAPLETtT+AAABC2aFTPbpiYENySXM9umJgTGtbTj7UJSlMso3HAAAAAFBd89YAAAAA
+	UcAbnQAAAABYgVFbPbpiYFn+bKI+EkklXFlVDz8AAABeDi2uPwAAAF60+KM/AAAAXrs8
+	XgAAAABfwwZNPwAAAGFQDg8/IAFXYXfe7D8AAABh2u1VAAAAAGMst4s/AAAAY+3YPwAA
+	AABrn1exP4AAAHJgjW89umJgc1fm1AAAAAB2NMDQP1kYBHhifqo+Ekklf+PGsj+AAAA=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	eJyllk1sG0UUx2c2XYWqRUoRkH4nQkLQhkb2rq2maYnXTTYfkBQ3MS39kJyJd5ystN11
+	9sORQUK+IPUEEtBDoAeLSqBy66mVoMhC4hBapAjBgVsEEkrFBYSqHrgwTvZtvfau4zg+
+	rP+eff95836zs36p5HRySk7L0zMI79LJNYpwFz+anEn3yosO0VSLmqhATUs1dIQ7+Wi/
+	2B9BWZMSmyoXQsZH2AXhHl6ICOKJqHAiIqSjwqBwajAu9gsD0b5odDASQfi1VDU3wpyq
+	INzNJx3bmKTE1KmZyZtGTtXohIIKRHPYZLt3IfjUug7wm6t8l3nOEl2JZqhO5jTa4Ps7
+	4fMdavDlTLroUD1brHfKks/5YoNznqj6tpe58dP2J6vcymN/siMNPsvQDDm4xC1yCm2i
+	EULRVK40RyO0g0YIRFP6/vF6oikaYQdoxDbRiKFoVt9rjkZsB40YiKa8vPyoORpxB2hi
+	baKJhR+oW83RxNpBEws+UEc/+KM5mtgO0MTbRBMPRSN91BxNvB008UA0s7ncn83RxLeB
+	prbEcXV+YdixW4RzJMAZhudYxY9nf4B3m4DAZphK9X+uzidtWWQQ2l5R/MtfZE+As3W4
+	QWXaxTyttz3jX+7BGtuksdT6lhxuNIae5SF/zu5Ga9CGvFoJLdB1Be5H15YFtvakH200
+	tr4bASUGbUadq4sfo6yvIVpmrpgnlrVF+B5e1W2qW/W1sFfatB/CXt5w7LxjjwU/9+MT
+	IyPyuVRNj7fXYR3djM06NNZcYR5Xo0LavtqGTNlUCOMO2TQNc4paFplnLo5HsqLahpkh
+	OtGKzAccMeZqZzDm2L0CsVnDmCwQVasG1cdYVKNZ1kCOaqRgOCasz02QI5Z9QaVLyayt
+	Fja87o059rpK2jbJLlAlbciLF1VlntpVd8dT95Kq2AvVsfUOb2yBsvO0EbjGEoWsFnFF
+	rhNzeF/1wuPqitgXx764WXbj5CZv6c6DsxX3iburSyA77x93ZUlOH3Ll2jd7noeA35cP
+	uxJNfNHnSunkVwOe7WLUleW7N2Ay6bsixJbILASUHi2KILlPYHTt39UIjD53OgbZpM+H
+	YN7S0BkIePbb1yHFL8egCin/OAGTvfQ12Er3/4PYcuIaxKJL2WGQA/tAlovdIKWPfwBZ
+	+vnJCMi3j4+CbbXiSXN6DBI/zIxD7CvdE66s3F7x5PXyG2C7c/lN4NvTNwm2lXVPfvbl
+	FATcmDoHK/v0H5C9926+BaPXD6Zg9P2rnvztJsjKj7+CRB9y52HelZfPe6MJTw6nvIDx
+	KyDX3vkJZpBeuAdy9jSLRf8D9uB4RA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1178817875</integer>
+	<key>name</key>
+	<string>Kevs Diva Bright</string>
+	<key>subtype</key>
+	<integer>1715827061</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

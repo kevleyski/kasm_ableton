@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqzwIotS/9
+	YKMDLQoAFA0SwAIKlwIS5gEKBRUAAAA/CgIIAQIDBAoHCAUVAkdCPweACD4JCgsADA0O
+	Pg8V4XrUEBESEyAUFbCqKhUWFxgVn6qqGRobHB0eFa5HAR8gIDD/ARosCg0OEiRhYWZm
+	YmU1OS02ZmUzLTRjNjQtOWJhMC0yZmMyMTQ3MTY2NTMSgQIK/gESzcUgMAgPABUWFxga
+	BAEiACo7CgRmZ2tlEg9Ccml0aXNoIENsYXNzIEEaBjIuNS44NiIYIChiNjg3MjkgNWM5
+	NDljNWQpKAIyADoLCD2oscgBqTLqURgOsGaoajvhrSJBC0rKn1TqsbMZFYj+HVJbQQgc
+	VDGAPLhFhc4dl4/kENRLF5QXQRg9bZTU1oT1X2gQWZ0Bs24ErfGgpIElegAhUOr4xm/U
+	ZRgc6gcq9ZtRZaYOIT8VqcqW5YgjOUCnAg==
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAgAAAAAD8AAAAAAAABAAAAAAAAAAIAAAAAAAAAAwAAAAAAAAAEAAAA
+	AAAAAAU/QkcCAAAABj+AAAAAAAAHP4AAAAAAAAg+gAAAAAAACQAAAAAAAAAKAAAAAAAA
+	AAs/AAAAAAAADD+AAAAAAAANP4AAAAAAAA4+gAAAAAAADz7UeuEAAAAQPwAAAAAAABE/
+	AAAAAAAAEgAAAAAAAAATPyAAAAAAABQ/KqqwAAAAFT+AAAAAAAAWPoAAAAAAABc/gAAA
+	AAAAGD6qqp8AAAAZAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAB0AAAAAAAAA
+	Hj8BR64AAAAfPwAAAA==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Main Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Main Output</string>
+		</dict>
+	</dict>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Piano Bus</string>
+	<key>subtype</key>
+	<integer>1718053733</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

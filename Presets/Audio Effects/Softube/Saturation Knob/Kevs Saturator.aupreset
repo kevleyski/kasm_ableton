@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqxwEotS/9
+	YK4A7QUAsgooH5B9////f9/d/RFEQ3WJ7bMLD7pB9TDGvzDAZNpxQykGQv4uqCz4e0dv
+	fD9p7EIRdCsJmkBR+7SOiNyaXiW6nvP21vOWZRo6b3HhKC9ABDZh+v8DQgQYxfHVBgxb
+	r5XB8YtbMPNEWcziVvYysOvgTN442eW8lmrO/f+HMYpjMYJDMYIEMYrj/P8/h1EcWAT0
+	WyABRnCYKO88wwE16WE3AQkAJcweXw1KeQK1AbFLNI11EAAGw0JAAtwB
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAACAAAAAD5HrhQAAAABAAAAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Saturator</string>
+	<key>subtype</key>
+	<integer>1935766638</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

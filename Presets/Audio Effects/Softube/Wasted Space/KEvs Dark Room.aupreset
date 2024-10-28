@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEq8wEotS/9
+	YC4BTQcAtAoSmQEKcRJBCgUV7btaPwoHCAEV5IR5PgIVAACAPwMVu0d2PQQVUb8rPgUV
+	nUiwPiAGMP8BGiwKAAsMAggNDg8SJDU4NDFkYTRkLWUyYmItNDgzZC04MGY2LWE4YTQ1
+	YjI2MhJpCmcSNwoAAggEGgQBIgAqOAoEYWpvaxIMV2FzdGVkIFNwYWNlGgYyLjUuODYi
+	GCAoYjY4NzI5IDVjOTQ5YzVkKSgCMgA6CwgZILBEzKgHCbKH5kC2gEtdKZOkgAGg6A4f
+	AAwLG8iIwBcAn/U6GgA74D6E6C5gFoDYAQYEAigDJaAkQJs=
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAGAAAAAD9au+0AAAABPnmE5AAAAAI/gAAAAAAAAz12R7sAAAAEPiu/
+	UQAAAAU+sEid
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>KEvs Dark Room</string>
+	<key>subtype</key>
+	<integer>1634365291</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

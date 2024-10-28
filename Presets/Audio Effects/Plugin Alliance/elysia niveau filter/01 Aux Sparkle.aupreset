@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UG10cgAAADAAAAA4AAAABAAAAAEAAAAARVFHYT+AAABFUUZyP2j1wkVRMTA/gAAAQWN0
+	dj+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1164736883</integer>
+	<key>name</key>
+	<string>Aux Sparkle</string>
+	<key>subtype</key>
+	<integer>1853253236</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

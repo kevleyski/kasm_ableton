@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqmQIotS/9
+	YAICfQgAQgwwLnBvDvz//69ri+u7HSrgJPSTVMtB2yG9TwzE7l5tBFX8BIKBgGsTRUtN
+	gqNGZAq3o7jWGI10o2VYovsr9UiKJ+M7KEQSsiE64Ik2I5OT+Uqdy2NQySPaXnS4wt3r
+	5g26v5rKVk4JWOa2a7n/4Mr62sKlSG7S1Az1GZ6gnowmeI5iCKbo5gQlEhMtx40usKFA
+	cH94dRYhfIPuBQjVKt+KeWWrSZFygNvcPQOufe1qbzG553rtW3YMlbkP4er6KsMBIiCw
+	aKZqBwFoDw8DAZWiWpYkhoB4MCAgwXGIOjmfgnahbEoMlABA4gU+gQUEwdFTfC+EtckO
+	lF8mEXSL4MWt0ERolUCpANYgCMF5Ag==
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAANAAAAAD81wo8AAAABP4AAAAAAAAIAAAAAAAAAAz8AAAAAAAAEAAAA
+	AAAAAAUAAAAAAAAABj9Yk3UAAAAHPwFHrgAAAAg/GZmaAAAACT+AAAAAAAAKP4AAAAAA
+	AAs/gAAAAAAADD+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Kevs Wide</string>
+	<key>subtype</key>
+	<integer>1919580272</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

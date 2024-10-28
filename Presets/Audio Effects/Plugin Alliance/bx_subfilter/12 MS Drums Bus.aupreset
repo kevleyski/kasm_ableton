@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UG10cgAAAJwAAACkAAAABwAAAAQAAAAAQnlwYQAAAAAAAAAAAAAAAAAAAABQcmVzAAAA
+	AAAAAAAAAAAAAAAAAEluR24/AAAAPwAAAD8AAAA/AAAAT3V0Rz8AAAA/AAAAPwAAAD8A
+	AABSZXNvP4AAAD+AAAA/gAAAP4AAAFRnaHQ+u/31Prv99T67/fU+u/31TG93RT7TIcs+
+	0yHLPtMhyz7TIcs=
+	</data>
+	<key>manufacturer</key>
+	<integer>1114797944</integer>
+	<key>name</key>
+	<string>MS Drums Bus</string>
+	<key>subtype</key>
+	<integer>1652061030</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

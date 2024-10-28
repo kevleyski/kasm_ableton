@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEq1wIotS/9
+	YKMDbQoAhA0SwAIKlwIS5gEKBRUAAAA/CgIIAQIDCgcIBAcIBRUoQw0HgAg+CQoLDA0O
+	DxUfhWsQERITFBWfqqoVFhcHCBgVzcxMGRobHB0eFa5HAR8VMzMTPyAgMP8BGiwKDQ4S
+	JGFkNzQ3MTBiLTQ1OWQ1My1iYTAzLTM0MTllNDcyYzQxMRKBAgr+ARLNAggExSAwAggI
+	AggWFxgfGgQBIgAqOwoEZmdrZRIPQnJpdGlzaCBDbGFzcyBBGgYyLjUuODYiGCAoYjY4
+	NzI5IDVjOTQ5YzVkKSgCMgA6Cwg3qKGsAQYWlpRRKXSAypDVdrGtUYIXpLxK6j8ZdgMV
+	iH+33cclcKDKcjE2a66lOI+BWVRHefz35oPCkBitKqSkR1zR4xAEtUaczJYjYVxm0I+C
+	6Ssi2Q8UIugnA0fdLdrdKa7ZvqfitlRIroKmOtiMwGIq
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAgAAAAAD8AAAAAAAABAAAAAAAAAAIAAAAAAAAAAwAAAAAAAAAEPwAA
+	AAAAAAU/DUMoAAAABj+AAAAAAAAHP4AAAAAAAAg+gAAAAAAACQAAAAAAAAAKAAAAAAAA
+	AAs/AAAAAAAADD+AAAAAAAANP4AAAAAAAA4/AAAAAAAADz9rhR8AAAAQPwAAAAAAABE/
+	AAAAAAAAEgAAAAAAAAATPwAAAAAAABQ+qqqfAAAAFQAAAAAAAAAWPwAAAAAAABc+gAAA
+	AAAAGD5MzM0AAAAZAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAB0AAAAAAAAA
+	Hj8BR64AAAAfPxMzMw==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Main Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Main Output</string>
+		</dict>
+	</dict>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>British Bass</string>
+	<key>subtype</key>
+	<integer>1718053733</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>
