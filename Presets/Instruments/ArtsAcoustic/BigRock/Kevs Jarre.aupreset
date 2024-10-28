@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>manufacturer</key>
+	<integer>1094800967</integer>
+	<key>name</key>
+	<string>Kevs Jarre</string>
+	<key>subtype</key>
+	<integer>1633763922</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>65543</integer>
+</dict>
+</plist>
