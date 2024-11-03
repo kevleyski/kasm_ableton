@@ -1,12 +1,16 @@
 [submodule "Samples"]
 	path = Samples
+    ignore = dirty
 	url = git@github.com:kevleyski/kasm_priv_samples.git
 [submodule "Wavetables"]
 	path = Wavetables
+    ignore = dirty
 	url = git@github.com:kevleyski/kasm_priv_wavetables.git
 [submodule "Live Sets"]
 	path = Live Sets
+    ignore = dirty
 	url = git@github.com:kevleyski/kasm_priv_music.git
 [submodule "Presets/MIDI Effects/Max MIDI Effect"]
 	path = Presets/MIDI Effects/Max MIDI Effect
+    ignore = dirty
 	url = git@github.com:kevleyski/kasm_max4live.git
