@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Controller State</key>
+	<data>
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAA4AAAAAT9fO2UAAAACPr2hLwAAAAMAAAAAAAAABAAAAAAAAAAFP4AA
+	AAAAAAY+vaEvAAAABwAAAAAAAAAIPwAAAAAAAAkAAAAAAAAACgAAAAAAAAALP4AAAAAA
+	AAw/gAAAAAAADT8BBiQAAAAOP4AAAAAAAA8+zMzNAAAAED8AAAAAAAARAAAAAAAAABIA
+	AAAAAAAAEwAAAAAAAAAUPwAAAAAAABU/AAAAAAAAFj8AAAAAAAAXAAAAAAAAABg+zMzN
+	AAAAGT8AAAAAAAAaAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAA
+	Hz8NT98AAAAgPnBOBAAAACE++zlyAAAAIj8SbpgAAAAjAAAAAAAAACQ/GZmaAAAAJQAA
+	AAAAAAAmP0OVgQAAACcAAAAAAAAAOD8AAAAAAAA5PwAAAAAAADo/AAAAAAAAOz8AAAAA
+	AAA8PwAAAAAAAD0/AAAAAAAAPj8AAAAAAAA/PwAAAAAAAEA/AAAAAAAAQT8AAAAAAABC
+	PwAAAAAAAEMAAAAAAAAARAAAAAAAAABFAAAAAAAAAEYAAAAAAAAARwAAAAAAAABIAAAA
+	AA==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Stereo In</string>
+			<key>1</key>
+			<string>Sidechain</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Stereo Out</string>
+		</dict>
+	</dict>
+	<key>manufacturer</key>
+	<integer>1098019957</integer>
+	<key>name</key>
+	<string>KEvs Phasey</string>
+	<key>subtype</key>
+	<integer>1114199154</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>
