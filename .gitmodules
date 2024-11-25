@@ -10,7 +10,6 @@
 	path = Live Sets
     ignore = dirty
 	url = git@github.com:kevleyski/kasm_priv_music.git
-[submodule "Presets/MIDI Effects/Max MIDI Effect"]
-	path = Presets/MIDI Effects/Max MIDI Effect
-    ignore = dirty
-	url = git@github.com:kevleyski/kasm_max4live.git
+[submodule "MIDI Tools"]
+	path = MIDI Tools
+	url = git@github.com:kevleyski/kasm_priv_max4live.git
