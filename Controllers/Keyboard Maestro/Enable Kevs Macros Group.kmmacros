@@ -36,57 +36,11 @@
 						<key>ToggleMode</key>
 						<string>Activate</string>
 					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>54578</integer>
-						<key>Channel</key>
-						<integer>1</integer>
-						<key>ChannelExpression</key>
-						<string>1</string>
-						<key>MIDIMessageType</key>
-						<string>NoteOn</string>
-						<key>MacroActionType</key>
-						<string>SendMIDIMessage</string>
-						<key>Note</key>
-						<integer>70</integer>
-						<key>NoteExpression</key>
-						<string>70</string>
-						<key>Value</key>
-						<integer>127</integer>
-						<key>ValueExpression</key>
-						<string>127</string>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>54580</integer>
-						<key>MacroActionType</key>
-						<string>Pause</string>
-						<key>Time</key>
-						<string>0.7</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>54579</integer>
-						<key>Channel</key>
-						<integer>1</integer>
-						<key>ChannelExpression</key>
-						<string>1</string>
-						<key>MIDIMessageType</key>
-						<string>NoteOff</string>
-						<key>MacroActionType</key>
-						<string>SendMIDIMessage</string>
-						<key>Note</key>
-						<integer>70</integer>
-						<key>NoteExpression</key>
-						<string>70</string>
-					</dict>
 				</array>
 				<key>CreationDate</key>
 				<real>746178757.44637597</real>
 				<key>ModificationDate</key>
-				<real>746185075.63824499</real>
+				<real>754385087.81271398</real>
 				<key>Name</key>
 				<string>Enable Kevs Macros Group</string>
 				<key>Triggers</key>
@@ -95,11 +49,11 @@
 						<key>CCFireType</key>
 						<string>Equal</string>
 						<key>Channel</key>
-						<integer>1</integer>
+						<integer>0</integer>
 						<key>Controller</key>
 						<integer>108</integer>
 						<key>Device</key>
-						<string>Kevs nanoKey Bluetooth</string>
+						<string>Any MIDI Device</string>
 						<key>Kind</key>
 						<string>ControlChange</string>
 						<key>MacroTriggerType</key>

@@ -37,56 +37,44 @@
 						<string>Activate</string>
 					</dict>
 					<dict>
+						<key>Action</key>
+						<string>Move</string>
 						<key>ActionUID</key>
-						<integer>54581</integer>
-						<key>Channel</key>
-						<integer>1</integer>
-						<key>ChannelExpression</key>
-						<string>1</string>
-						<key>MIDIMessageType</key>
-						<string>NoteOn</string>
+						<integer>54592</integer>
+						<key>Button</key>
+						<integer>0</integer>
+						<key>ClickCount</key>
+						<integer>0</integer>
+						<key>DisplayMatches</key>
+						<false/>
+						<key>DragHorizontalPosition</key>
+						<string>0</string>
+						<key>DragVerticalPosition</key>
+						<string>0</string>
+						<key>Fuzz</key>
+						<integer>15</integer>
+						<key>HorizontalPositionExpression</key>
+						<string>831</string>
 						<key>MacroActionType</key>
-						<string>SendMIDIMessage</string>
-						<key>Note</key>
-						<integer>40</integer>
-						<key>NoteExpression</key>
-						<string>40</string>
-						<key>Value</key>
-						<integer>90</integer>
-						<key>ValueExpression</key>
-						<string>90</string>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>54582</integer>
-						<key>MacroActionType</key>
-						<string>Pause</string>
-						<key>Time</key>
-						<string>0.1</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
-						<integer>54583</integer>
-						<key>Channel</key>
-						<integer>1</integer>
-						<key>ChannelExpression</key>
-						<string>1</string>
-						<key>MIDIMessageType</key>
-						<string>NoteOff</string>
-						<key>MacroActionType</key>
-						<string>SendMIDIMessage</string>
-						<key>Note</key>
-						<integer>40</integer>
-						<key>NoteExpression</key>
-						<string>40</string>
+						<string>MouseMoveAndClick</string>
+						<key>Modifiers</key>
+						<integer>0</integer>
+						<key>MouseDrag</key>
+						<string>None</string>
+						<key>Relative</key>
+						<string>Absolute</string>
+						<key>RelativeCorner</key>
+						<string>TopLeft</string>
+						<key>RestoreMouseLocation</key>
+						<false/>
+						<key>VerticalPositionExpression</key>
+						<string>105</string>
 					</dict>
 				</array>
 				<key>CreationDate</key>
 				<real>746179505.96351302</real>
 				<key>ModificationDate</key>
-				<real>746185101.44919395</real>
+				<real>754385094.08402503</real>
 				<key>Name</key>
 				<string>Disable Kevs Macros Group</string>
 				<key>Triggers</key>
@@ -95,11 +83,11 @@
 						<key>CCFireType</key>
 						<string>Equal</string>
 						<key>Channel</key>
-						<integer>1</integer>
+						<integer>0</integer>
 						<key>Controller</key>
 						<integer>108</integer>
 						<key>Device</key>
-						<string>Kevs nanoKey Bluetooth</string>
+						<string>Any MIDI Device</string>
 						<key>Kind</key>
 						<string>ControlChange</string>
 						<key>MacroTriggerType</key>
