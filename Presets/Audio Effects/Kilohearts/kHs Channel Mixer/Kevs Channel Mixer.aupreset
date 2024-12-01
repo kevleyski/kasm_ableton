@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UEsDBBQACAgIAMSygVkAAAAAAAAAAAAAAAAKAAAAc3RhdGUuanNvbu3bSU7DMBQG4HVy
+	CmSxZFGqrrgC4gQIRW7ymlr1EHlogap3x0NMxyP8m0r+39DP2fvYNkyZgSR7ezq2TcMG
+	2vAgvZvPDXv2PxPF07nykvOJW9K+G60JUyov5pw0X0saUuRtoDlVQgslfku+4dLVQnDU
+	SXPoJku9cMLoeBpF3x2M3fG4W99NSNGTzlP97lyLpVOqn72Keyu+8xCTy3RB9lpOozTr
+	OHR/xVqYzWYIkvtoSq2fKWvywNW//DeVqVjz3I7k0/ZTjR5+lJj3we7p4uvFiKt4aX+d
+	ORNsT3ljTua9wAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAA
+	AwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAPMQk36/cpXpoD6u3svFuba+ybNLm5L5+Z0s
+	p7I31mTtTs1ssuQKO1VpEP4GzCbutykpJ81Vptf5Pdn0jLAucEN+JLhcle6NsYr7C8wk
+	wyh0DhaLVV2iyPO6gQe/NVn8TnuXOtpT+wdQSwcIs4q5LIoBAAA4OQAAUEsBAgAAFAAI
+	CAgAxLKBWbOKuSyKAQAAODkAAAoAAAAAAAAAAAAAAAAAAAAAAHN0YXRlLmpzb25QSwUG
+	AAAAAAEAAQA4AAAAwgEAAAAA
+	</data>
+	<key>manufacturer</key>
+	<integer>543901811</integer>
+	<key>name</key>
+	<string>Kevs Channel Mixer</string>
+	<key>subtype</key>
+	<integer>1802724205</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>
