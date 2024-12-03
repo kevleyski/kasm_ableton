@@ -12,4 +12,5 @@
 	url = git@github.com:kevleyski/kasm_priv_music.git
 [submodule "MIDI Tools"]
 	path = MIDI Tools
+    ignore = dirty
 	url = git@github.com:kevleyski/kasm_priv_max4live.git
