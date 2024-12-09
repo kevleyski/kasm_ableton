@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UEsDBBQACAgIAKazgVkAAAAAAAAAAAAAAAAKAAAAc3RhdGUuanNvbu3bSW7CMBQG4DU5
+	RWV1iap0oIteoeoJqioyyUuwcOzIA7RF3L0eSAiUI/wbJL/hz+ewzqFYsF43JNnb3aFY
+	LNi9+xkoHNiw4ZYMW8ZiJ/WaS3uamQ2NjWUqhyAvuRNaxdHPWFukhfnKeShvhZ7jpiMX
+	049jiRRfS2rigjOeptHam12KKacS77VX7rJmtTc1pcRUOeUCAwwwwAADDDDAAAMMMMAA
+	AwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwAAD
+	zE1M/P1KXaZ8/3HxvVzYK05eZrjL8Q+vKYzZwRBvcmmVSw0NbnNVabmX7sZ3elMnP3vg
+	hpSrOqP9MBPfvi7rhRK9+M31lks7NrylSup9FWy1sOEa4dSJutprs+UhW/3bkKImlbbq
+	7bk3Xbv2TrdtbKzKbAoP/47nx3zSpiETz89hKe6w8Gyb/7TYp0a4a2e4bX5P+aR4n17J
+	GLAjE+ljgm0S7OklT7fa9NzNBIP0nVCpUK7KMaQnx8cE7t1GJ+Q77WycKI7FH1BLBwhU
+	AXYCngEAAGg5AABQSwECAAAUAAgICACms4FZVAF2Ap4BAABoOQAACgAAAAAAAAAAAAAA
+	AAAAAAAAc3RhdGUuanNvblBLBQYAAAAAAQABADgAAADWAQAAAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>543901811</integer>
+	<key>name</key>
+	<string>Kevs Phaser</string>
+	<key>subtype</key>
+	<integer>1802727528</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

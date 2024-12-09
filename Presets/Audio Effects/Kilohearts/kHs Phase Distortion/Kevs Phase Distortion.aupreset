@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UEsDBBQACAgIAJ2zgVkAAAAAAAAAAAAAAAAKAAAAc3RhdGUuanNvbu3bS27bMBAG4LV1
+	ioLoMiiSNs2iVyiKHqAohLE4kolQpEAOnbZB7l6SelhJfIR/Y4Dz4seBt3puDmr0mq36
+	9uG5ORzUR/k7cT6o6USRW22i+CDGO3VT0oP1R7Jxqd6Vr4mbGs4jk6XSVkp/ldihNuxb
+	LkVzV84JhYGlTH9ZQ+zoaFmXBgmJt9IuhXMdc7uFaPTJyetY9Cl0XCfWyDIXGGCAAQYY
+	YIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhg
+	gAEGGGCAAQYYYK5iyu/vmlUujT9efS+X+5rFqzT3lKxc+eJuy8xTJgrspB2CT9Pu7utw
+	NRpnRvNvjvdk45pIkVvrn9opcGdiBuXTYLr2yYdHyrPduw5rOna1q3u85LYHiHeV+3A/
+	i/LVf8r5bj7FfBHpC1hFo7k7kXHbi01NuzJnWRiNdeTPvl8i21KMm5K00Xq5CI6G4u4C
+	58NINr+9xj59naM6mPMWaWqnyrQ4/w1KBWsjb/aYly6nElkmL661/8yhbHAdEHXdz+f7
+	ubovDtmtYrJpqM9Wd7dfHtYhIwutEyjJyYdS8Z3PsVQ0L81/UEsHCL7ox/bHAQAAwzkA
+	AFBLAQIAABQACAgIAJ2zgVm+6Mf2xwEAAMM5AAAKAAAAAAAAAAAAAAAAAAAAAABzdGF0
+	ZS5qc29uUEsFBgAAAAABAAEAOAAAAP8BAAAAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>543901811</integer>
+	<key>name</key>
+	<string>Kevs Phase Distortion</string>
+	<key>subtype</key>
+	<integer>1802727524</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

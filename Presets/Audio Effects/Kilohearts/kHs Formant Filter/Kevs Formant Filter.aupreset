@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	UEsDBBQACAgIAE6zgVkAAAAAAAAAAAAAAAAKAAAAc3RhdGUuanNvbu3bS26DMBAG4DWc
+	orK67CKJmk2vUPUEVYUcGMCKsakfRG2Uu9c2j4Q0R/g3SB7P/Hw2a855xjpdkWRvT+c8
+	y9iz++kpLNigSy6LWkhHhr3ErUbqA5d26rxpnTdeUjnEecmd0Cq2fsZalgZuR65N41TY
+	c9w05GL6ZS6R4gdJVRxwxtPSWnozpJjNUuKd9sqta1Z7U1JKTJUpFxhggAEGGGCAAQYY
+	YIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhg
+	gAEGGGAeYuLzK+0y5buP1f9yYS6fvKyimnvpHvxxt+yMKT03pFzRGO37m3c/hrNOKNGJ
+	37Fec2nnDW+pkPpU9IZKYQMorBpRFidtjjxkq38TUpSk0lR5vO4tBwhhdvXycGVO13Wx
+	i9XtfjNCWSua9q7xOy5fV0PbWNrv4wXFeBaYdvxSsYkq4e6PFC7GtbE0rhTv0u3NAQOZ
+	eMo5wVbpDLvprbU2HU+fcjuFSd8IlQqbq6Ijx+cE7l2rTex4p8HGjvyS/wFQSwcIhmII
+	R5wBAABjOQAAUEsBAgAAFAAICAgATrOBWYZiCEecAQAAYzkAAAoAAAAAAAAAAAAAAAAA
+	AAAAAHN0YXRlLmpzb25QSwUGAAAAAAEAAQA4AAAA1AEAAAAA
+	</data>
+	<key>manufacturer</key>
+	<integer>543901811</integer>
+	<key>name</key>
+	<string>Kevs Formant Filter</string>
+	<key>subtype</key>
+	<integer>1802729062</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>
