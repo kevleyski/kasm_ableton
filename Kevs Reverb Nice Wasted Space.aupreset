@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqwQEotS/9
+	YAcBvQUAxAgScwpxEkEKBRVfflc/CgcIARUAAIACAxVqwnw+BBVeOrIFIAYw/wEaLAoH
+	CAoVAAAACwwCCA0KAggOCgcIDxJpCmcSNwoAAAIIBD4aBAEAAAAiACo4CgRham9rEgxX
+	YXN0ZWQgU3BhY2UaBjIuNS44OSIYIChiNzczMTYgYWM0ZTk3MmMpKAIyADoLCBEACcwe
+	WBm0AyjhhjeuANDvHJJ71RxgxkLCquBfIp93gaUBKEA3g8IEMiRhMDJjNTYyMy0xMzQw
+	LTRiNWItODFkOC1kYjIyZjA1YjcxYTU=
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAGAAAAAD9Xfl8AAAABP4AAAAAAAAI/gAAAAAAAAz58wmoAAAAEPrI6
+	XgAAAAU/gAAA
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Default</string>
+	<key>subtype</key>
+	<integer>1634365291</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>
