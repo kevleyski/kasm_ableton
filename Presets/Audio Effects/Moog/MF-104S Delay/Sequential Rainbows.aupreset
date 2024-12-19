@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAYAAGiNT5MzM0AAaZcPwAAAAA1TOA/CAm9ADZSzT6///4ANmlyAAAA
+	AAA2jzoAAAAAA7eUuj+AAAADt5S7P4AAAAO3lLw/gAAAA7eUvT+AAAADt5S+P4AAAAVz
+	DnAAAAAABbaZij8AAAAGdDk9AAAAABN0CgUAAAAAGR9OyD+AAAAd1HD6AAAAACsvfwY/
+	gAAAK7pQWAAAAABEERkBPwAAAEvs8EoAAAAAZAnOvgAAAAB0leuFAAAAAH4hVwAAAAAA
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIc0EAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDRTIG5hbWU9IlNlcXVlbnRpYWwgUmFpbmJvd3MiIHZlcnNpb249IjMiIGluc3RhbmNl
+	V2lkdGg9IjM4NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9IjY3Njg2NzE0
+	NDQ0MjM3MTk5NDQiIHVuaXF1ZU5hbWU9IldFR1QiIGN2SW4xVXVpZD0iMCIgY3ZJbjFP
+	dXQ9IjAiIGN2SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJ
+	bjJNb2RlPSIxIiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEi
+	IGN2SW40VXVpZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSIgY3ZJbjVVdWlk
+	PSIwIiBjdkluNU91dD0iMCIgY3ZJbjVNb2RlPSIxIj48UEFSQU0gaWQ9ImFtb3VudCIg
+	dmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImFjdGl2ZSIgdmFsdWU9IjEuMCIvPjxQQVJB
+	TSBpZD0iZGVsYXlTeW5jIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJkcml2ZSIgdmFs
+	dWU9IjEyLjU5MTg3MjIxNTI3MSIvPjxQQVJBTSBpZD0iZmVlZGJhY2siIHZhbHVlPSI2
+	LjUzNTMxMjY1MjU4Nzg5MSIvPjxQQVJBTSBpZD0ibGZvIiB2YWx1ZT0iNC4wIi8+PFBB
+	UkFNIGlkPSJsZm9Qb2xhcml0eSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibGZvU3lu
+	YyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibGlua0dhaW5zIiB2YWx1ZT0iMC4wIi8+
+	PFBBUkFNIGlkPSJtaXgiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJvdXRwdXQiIHZh
+	bHVlPSItOS4zMTUwMDA1MzQwNTc2MTciLz48UEFSQU0gaWQ9InJhbmdlIiB2YWx1ZT0i
+	MS4wIi8+PFBBUkFNIGlkPSJyYXRlIiB2YWx1ZT0iMC4wNTA4NjU1MDQ4OTA2ODAzMSIv
+	PjxQQVJBTSBpZD0ic3BpbGxvdmVyIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJ0aW1l
+	IiB2YWx1ZT0iODAwLjAiLz48UEFSQU0gaWQ9InRpbWluZyIgdmFsdWU9IjAuMCIvPjxQ
+	QVJBTSBpZD0idG9uZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0idHlwZSIgdmFsdWU9
+	IjAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjEiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlk
+	PSJjdkF0dGVuMiIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4zIiB2YWx1
+	ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjQiIHZhbHVlPSIxMC4wIi8+PFBBUkFN
+	IGlkPSJjdkF0dGVuNSIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImZlZWRiYWNrTW9k
+	ZSIvPjwvTUYxMDRTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Sequential Rainbows </string>
+	<key>subtype</key>
+	<integer>1296446547</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

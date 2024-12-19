@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAARAAAMxwAAAAAAAaZcPwAAAAA2GpsAAAAAADaPOgAAAAADt5S6P4AA
+	AAO3lLs/gAAAA7eUvD+AAAADt5S9P4AAAAO3lL4/gAAABbaZij8AAAAF4g/QPwAAAB3U
+	cPoAAAAAJAN7PQAAAAArL38GP4AAAEQRGQE/AAAAS/iFfAAAAAB704VcPwAAAA==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIfIDAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDdTIG5hbWU9IkZhY2VzIE9mIERlYXRoIiB2ZXJzaW9uPSIzIiBpbnN0YW5jZVdpZHRo
+	PSIzODQiIGluc3RhbmNlSGVpZ2h0PSI2MzQiIHVuaXF1ZUlkPSI0NjMzMTkwOTYzNzEz
+	MzUwNDI5IiB1bmlxdWVOYW1lPSJZT1FMIiBjdkluMVV1aWQ9IjAiIGN2SW4xT3V0PSIw
+	IiBjdkluMU1vZGU9IjEiIGN2SW4yVXVpZD0iMCIgY3ZJbjJPdXQ9IjAiIGN2SW4yTW9k
+	ZT0iMSIgY3ZJbjNVdWlkPSIwIiBjdkluM091dD0iMCIgY3ZJbjNNb2RlPSIxIiBjdklu
+	NFV1aWQ9IjAiIGN2SW40T3V0PSIwIiBjdkluNE1vZGU9IjEiIGN2SW41VXVpZD0iMCIg
+	Y3ZJbjVPdXQ9IjAiIGN2SW41TW9kZT0iMSI+PFBBUkFNIGlkPSJhY3RpdmUiIHZhbHVl
+	PSIxLjAiLz48UEFSQU0gaWQ9ImRyaXZlIiB2YWx1ZT0iMTEuMjQ5MzczNDM1OTc0MTIi
+	Lz48UEFSQU0gaWQ9ImVudmVsb3BlIiB2YWx1ZT0iMC43NTM0Mzg0NzI3NDc4MDI3Ii8+
+	PFBBUkFNIGlkPSJmbSIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImZyZXF1ZW5jeSIg
+	dmFsdWU9IjEuMjQ2OTIiLz48UEFSQU0gaWQ9ImxpbmtHYWlucyIgdmFsdWU9IjAuMCIv
+	PjxQQVJBTSBpZD0ibWl4IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0ibW9kdWxhdGlv
+	biIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ib3V0cHV0IiB2YWx1ZT0iMi45ODA2MjQ2
+	NzU3NTA3MzIiLz48UEFSQU0gaWQ9InN5bmMiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9
+	InR5cGUiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9IndhdmVmb3JtIiB2YWx1ZT0iMC41
+	ODExNDA2OTcwMDI0MTA5Ii8+PFBBUkFNIGlkPSJjdkF0dGVuMSIgdmFsdWU9IjEwLjAi
+	Lz48UEFSQU0gaWQ9ImN2QXR0ZW4yIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZB
+	dHRlbjMiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuNCIgdmFsdWU9IjEw
+	LjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW41IiB2YWx1ZT0iMTAuMCIvPjwvTUYxMDdTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Faces Of Death </string>
+	<key>subtype</key>
+	<integer>1296447315</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

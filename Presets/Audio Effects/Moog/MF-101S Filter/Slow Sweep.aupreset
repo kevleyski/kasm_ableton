@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAQAAGmXD+AAAADt5S6P4AAAAO3lLs/gAAAA7eUvD+AAAADt5S9P4AA
+	AAW2mYo/AAAABodVqwAAAAAHLLwxAAAAAAliiE4AAAAAHdRw+gAAAAAj3asqAAAAACsv
+	fwY/gAAAK7pQWD8AAAAvluvtPxLxCkQRGQE/AAAAbY64MQAAAAA=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIbYDAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDFTIG5hbWU9IlNsb3cgU3dlZXAiIHZlcnNpb249IjMiIGluc3RhbmNlV2lkdGg9IjM4
+	NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9IjQxODk0NjI0OTE3Mjc1NDQ0
+	MTYiIHVuaXF1ZU5hbWU9IktZVUIiIGN2SW4xVXVpZD0iMCIgY3ZJbjFPdXQ9IjAiIGN2
+	SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJbjJNb2RlPSIx
+	IiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEiIGN2SW40VXVp
+	ZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSI+PFBBUkFNIGlkPSJhbW91bnQi
+	IHZhbHVlPSItNS4wNTE4NzQxNjA3NjY2MDIiLz48UEFSQU0gaWQ9ImFjdGl2ZSIgdmFs
+	dWU9IjEuMCIvPjxQQVJBTSBpZD0iY3V0b2ZmIiB2YWx1ZT0iNTgxOS44MTI1Ii8+PFBB
+	UkFNIGlkPSJkcml2ZSIgdmFsdWU9IjE0Ljg2OTk2OTM2Nzk4MDk2Ii8+PFBBUkFNIGlk
+	PSJlbnZlbG9wZVJlc3BvbnNlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJlbnZlbG9w
+	ZVR5cGUiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9ImZvbGxvd1JhdGUiIHZhbHVlPSIw
+	LjAiLz48UEFSQU0gaWQ9ImxpbmtHYWlucyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0i
+	bWl4IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0ib3V0cHV0IiB2YWx1ZT0iMC4wMTEx
+	NTUxMjg0NzkwMDM5MSIvPjxQQVJBTSBpZD0icmVzb25hbmNlIiB2YWx1ZT0iOC4xMTQ4
+	NDQzMjIyMDQ1OSIvPjxQQVJBTSBpZD0ic2xvcGUiIHZhbHVlPSIwLjAiLz48UEFSQU0g
+	aWQ9ImN2QXR0ZW4xIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjIiIHZh
+	bHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMyIgdmFsdWU9IjEwLjAiLz48UEFS
+	QU0gaWQ9ImN2QXR0ZW40IiB2YWx1ZT0iMTAuMCIvPjwvTUYxMDFTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Slow Sweep </string>
+	<key>subtype</key>
+	<integer>1296445779</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

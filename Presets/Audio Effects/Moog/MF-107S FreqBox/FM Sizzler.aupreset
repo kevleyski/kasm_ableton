@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAARAAAMxwAAAAAAAaZcPwAAAAA2GpsAAAAAADaPOgAAAAADt5S6P4AA
+	AAO3lLs/gAAAA7eUvD+AAAADt5S9P4AAAAO3lL4/gAAABbaZij8AAAAF4g/QPwAAAB3U
+	cPoAAAAAJAN7PQAAAAArL38GP4AAAEQRGQE/AAAAS/iFfAAAAAB704VcPwAAAA==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIdgDAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDdTIG5hbWU9IkZNIFNpenpsZXIiIHZlcnNpb249IjMiIGluc3RhbmNlV2lkdGg9IjM4
+	NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9IjEwMDM0Mzk3MzYzNzYwMjc0
+	MzQiIHVuaXF1ZU5hbWU9IllPUUwiIGN2SW4xVXVpZD0iMCIgY3ZJbjFPdXQ9IjAiIGN2
+	SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJbjJNb2RlPSIx
+	IiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEiIGN2SW40VXVp
+	ZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSIgY3ZJbjVVdWlkPSIwIiBjdklu
+	NU91dD0iMCIgY3ZJbjVNb2RlPSIxIj48UEFSQU0gaWQ9ImFjdGl2ZSIgdmFsdWU9IjEu
+	MCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjEiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJj
+	dkF0dGVuMiIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4zIiB2YWx1ZT0i
+	MTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjQiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlk
+	PSJjdkF0dGVuNSIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImRyaXZlIiB2YWx1ZT0i
+	MC4wIi8+PFBBUkFNIGlkPSJlbnZlbG9wZSIgdmFsdWU9IjQuOTc1NjI1MDM4MTQ2OTcz
+	Ii8+PFBBUkFNIGlkPSJmbSIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImZyZXF1ZW5j
+	eSIgdmFsdWU9IjQuOTUyNTAxMjk2OTk3MDciLz48UEFSQU0gaWQ9ImxpbmtHYWlucyIg
+	dmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibWl4IiB2YWx1ZT0iNS4wMTI1MDAyODYxMDIy
+	OTUiLz48UEFSQU0gaWQ9Im1vZHVsYXRpb24iIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9
+	Im91dHB1dCIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ic3luYyIgdmFsdWU9IjAuMCIv
+	PjxQQVJBTSBpZD0idHlwZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0id2F2ZWZvcm0i
+	IHZhbHVlPSIwLjAiLz48L01GMTA3Uz4A
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>FM Sizzler </string>
+	<key>subtype</key>
+	<integer>1296447315</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

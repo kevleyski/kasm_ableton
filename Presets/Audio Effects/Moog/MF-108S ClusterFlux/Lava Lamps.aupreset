@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAWAAGiNT5MzM0AAaZcPwAAAAA1TOA/AAAAADZSzT8AAAAANmlyAAAA
+	AAA2jzoAAAAAA7eUuj+AAAADt5S7P4AAAAO3lLw/gAAAA7eUvT+AAAADt5S+P4AAAAVz
+	DnAAAAAABbaZij8AAAAGWwl7AAAAAAZ0OT0AAAAAE3QKBQAAAAAd1HD6AAAAACsvfwY/
+	gAAAK7pQWD8AAABEERkBPwAAAEvs8EoAAAAAdJXrhT9ZmZo=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIbgEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDhTIG5hbWU9IkxhdmEgTGFtcHMiIHZlcnNpb249IjMiIGluc3RhbmNlV2lkdGg9IjM4
+	NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9IjUzNDI2NzgwNDE4MDg0Nzky
+	OTAiIHVuaXF1ZU5hbWU9IktVQ0wiIGN2SW4xVXVpZD0iMCIgY3ZJbjFPdXQ9IjAiIGN2
+	SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJbjJNb2RlPSIx
+	IiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEiIGN2SW40VXVp
+	ZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSIgY3ZJbjVVdWlkPSIwIiBjdklu
+	NU91dD0iMCIgY3ZJbjVNb2RlPSIxIj48UEFSQU0gaWQ9ImFtb3VudCIgdmFsdWU9Ijgu
+	ODA1OTM3NzY3MDI4ODA5Ii8+PFBBUkFNIGlkPSJhY3RpdmUiIHZhbHVlPSIxLjAiLz48
+	UEFSQU0gaWQ9ImRlbGF5U3luYyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0iZHJpdmUi
+	IHZhbHVlPSI0LjM0MDkzNDc1MzQxNzk2OSIvPjxQQVJBTSBpZD0iZmVlZGJhY2siIHZh
+	bHVlPSI2LjcyMDMxMTY0MTY5MzExNSIvPjxQQVJBTSBpZD0ibGZvIiB2YWx1ZT0iMC4w
+	Ii8+PFBBUkFNIGlkPSJsZm9Qb2xhcml0eSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0i
+	bGZvU3luYyIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0ibGlua0dhaW5zIiB2YWx1ZT0i
+	MC4wIi8+PFBBUkFNIGlkPSJtaXgiIHZhbHVlPSI3Ljk4MTU2MjYxNDQ0MDkxOCIvPjxQ
+	QVJBTSBpZD0ib3V0cHV0IiB2YWx1ZT0iMS4zNDY4NzY2MjEyNDYzMzgiLz48UEFSQU0g
+	aWQ9InBoYXNlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJyYW5nZSIgdmFsdWU9IjAu
+	MCIvPjxQQVJBTSBpZD0icmF0ZSIgdmFsdWU9IjAuMDY1NjgxODA3Njk2ODE5MzEiLz48
+	UEFSQU0gaWQ9InRpbWUiIHZhbHVlPSI2LjcxMDU4MCIvPjxQQVJBTSBpZD0idG9uZSIg
+	dmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0idHlwZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBp
+	ZD0idGltaW5nIi8+PFBBUkFNIGlkPSJjdkF0dGVuMSIgdmFsdWU9IjEwLjAiLz48UEFS
+	QU0gaWQ9ImN2QXR0ZW4yIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjMi
+	IHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuNCIgdmFsdWU9IjEwLjAiLz48
+	UEFSQU0gaWQ9ImN2QXR0ZW41IiB2YWx1ZT0iMTAuMCIvPjwvTUYxMDhTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Lava Lamps </string>
+	<key>subtype</key>
+	<integer>1296447571</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

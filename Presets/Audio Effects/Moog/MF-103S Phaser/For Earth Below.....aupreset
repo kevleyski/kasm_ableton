@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAASADVM4D76CSsDt5S6P4AAAAO3lLs/gAAAA7eUvD+AAAADt5S9P4AA
+	AAO3lL4/gAAABXMOcAAAAAAFc4MPAAAAAAWwysMAAAAABbaZij8AAAAGdDk9AAAAAAaM
+	Luw/AAAACWKITj8AAAAd1HD6AAAAACsvfwY/gAAAK7pQWD764Ug0D15EAAAAAEQRGQE/
+	AAAA
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyISQEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDNTIG5hbWU9IkZvciBFYXJ0aCBCZWxvdy4uLi4iIHZlcnNpb249IjMiIGluc3RhbmNl
+	V2lkdGg9IjM4NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9IjQyNTgwNTQ1
+	MzA3NTY3ODM2NTciIHVuaXF1ZU5hbWU9IlRRQlMiIGN2SW4xVXVpZD0iMCIgY3ZJbjFP
+	dXQ9IjAiIGN2SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJ
+	bjJNb2RlPSIxIiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEi
+	IGN2SW40VXVpZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSIgY3ZJbjVVdWlk
+	PSIwIiBjdkluNU91dD0iMCIgY3ZJbjVNb2RlPSIxIj48UEFSQU0gaWQ9ImFjdGl2ZSIg
+	dmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0iYW1vdW50IiB2YWx1ZT0iMTAuMCIvPjxQQVJB
+	TSBpZD0iY3ZBdHRlbjEiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMiIg
+	dmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4zIiB2YWx1ZT0iMTAuMCIvPjxQ
+	QVJBTSBpZD0iY3ZBdHRlbjQiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVu
+	NSIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImRlcHRoIiB2YWx1ZT0iMC4wIi8+PFBB
+	UkFNIGlkPSJkcml2ZSIgdmFsdWU9Ii00LjA0NDQ2NzkyNjAyNTM5MSIvPjxQQVJBTSBp
+	ZD0ibGZvU3luYyIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0ibGZvVHlwZSIgdmFsdWU9
+	IjEuMCIvPjxQQVJBTSBpZD0ibGlua0dhaW5zIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlk
+	PSJvdXRwdXQiIHZhbHVlPSItMC40NDQ5Mzg0MjEyNDkzODk2Ii8+PFBBUkFNIGlkPSJv
+	dXRwdXRNb2RlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJyYW5nZSIgdmFsdWU9IjEu
+	MCIvPjxQQVJBTSBpZD0icmF0ZSIgdmFsdWU9IjIyLjY0NTEyNDQzNTQyNDgiLz48UEFS
+	QU0gaWQ9InJlc29uYW5jZSIgdmFsdWU9IjcuMjUwOTM3OTM4NjkwMTg2Ii8+PFBBUkFN
+	IGlkPSJzd2VlcCIgdmFsdWU9IjIuNDA0ODQzMzMwMzgzMzAxIi8+PC9NRjEwM1M+AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>For Earth Below.... </string>
+	<key>subtype</key>
+	<integer>1296446291</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

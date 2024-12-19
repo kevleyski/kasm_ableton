@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAASAAGiNQAAAAAAAaZcP4AAAAA1TOA+///pADaPOgAAAAADt5S6P4AA
+	AAO3lLs/gAAAA7eUvD+AAAADt5S9P4AAAAO3lL4/gAAABXMOcAAAAAAFtpmKPwAAAAZ0
+	OT0/gAAAE3QKBQAAAAAd1HD6AAAAACsvfwY/gAAAK7pQWAAAAABEERkBPwAAAHvThVw/
+	AAAG
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyISsEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDJTIG5hbWU9IkFsY2hlbWljYWwgU2hpZnRpbmciIHZlcnNpb249IjMiIGluc3RhbmNl
+	V2lkdGg9IjM4NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9Ijc5MTYyNTQw
+	NjI5MDczMzgyNDYiIHVuaXF1ZU5hbWU9IkBZQFAiIGN2SW4xVXVpZD0iMCIgY3ZJbjFP
+	dXQ9IjAiIGN2SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJ
+	bjJNb2RlPSIxIiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEi
+	IGN2SW40VXVpZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSIgY3ZJbjVVdWlk
+	PSIwIiBjdkluNU91dD0iMCIgY3ZJbjVNb2RlPSIxIj48UEFSQU0gaWQ9ImFtb3VudCIg
+	dmFsdWU9IjAuMTc5Mzc0ODQzODM1ODMwNyIvPjxQQVJBTSBpZD0iYWN0aXZlIiB2YWx1
+	ZT0iMS4wIi8+PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9IjEzLjY2Mzc1MDY0ODQ5ODU0
+	Ii8+PFBBUkFNIGlkPSJmcmVxdWVuY3kiIHZhbHVlPSIxNDAzLjk0NTA2ODM1OTM3NSIv
+	PjxQQVJBTSBpZD0ibGZvIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJsZm9Qb2xhcml0
+	eSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibGZvU3luYyIgdmFsdWU9IjEuMCIvPjxQ
+	QVJBTSBpZD0ibGlua0dhaW5zIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJtaXgiIHZh
+	bHVlPSI4LjY1ODI4MTMyNjI5Mzk0NSIvPjxQQVJBTSBpZD0ib3V0cHV0IiB2YWx1ZT0i
+	LTEuMzQ1NjI0OTIzNzA2MDU1Ii8+PFBBUkFNIGlkPSJyYW5nZSIgdmFsdWU9IjEuMCIv
+	PjxQQVJBTSBpZD0icmF0ZSIgdmFsdWU9IjYuMjAxNTg2MjQ2NDkwNDc5Ii8+PFBBUkFN
+	IGlkPSJ0eXBlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMSIgdmFsdWU9
+	IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4yIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBp
+	ZD0iY3ZBdHRlbjMiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuNCIgdmFs
+	dWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW41IiB2YWx1ZT0iMTAuMCIvPjwvTUYx
+	MDJTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Alchemical Shifting </string>
+	<key>subtype</key>
+	<integer>1296446035</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

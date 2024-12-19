@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAWAAGiNT5MzM0AAaZcPwAAAAA1TOA/AAAAADZSzT8AAAAANmlyAAAA
+	AAA2jzoAAAAAA7eUuj+AAAADt5S7P4AAAAO3lLw/gAAAA7eUvT+AAAADt5S+P4AAAAVz
+	DnAAAAAABbaZij8AAAAGWwl7AAAAAAZ0OT0AAAAAE3QKBQAAAAAd1HD6AAAAACsvfwY/
+	gAAAK7pQWD8AAABEERkBPwAAAEvs8EoAAAAAdJXrhT9ZmZo=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIZMEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDhTIG5hbWU9IkNsYXNzaWMgRmxhbmdpbmciIHZlcnNpb249IjMiIGluc3RhbmNlV2lk
+	dGg9IjM4NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9IjcyMTg0Mzc5MTE1
+	MzA2MDY2NDgiIHVuaXF1ZU5hbWU9IktVQ0wiIGN2SW4xVXVpZD0iMCIgY3ZJbjFPdXQ9
+	IjAiIGN2SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJbjJN
+	b2RlPSIxIiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEiIGN2
+	SW40VXVpZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSIgY3ZJbjVVdWlkPSIw
+	IiBjdkluNU91dD0iMCIgY3ZJbjVNb2RlPSIxIj48UEFSQU0gaWQ9ImFjdGl2ZSIgdmFs
+	dWU9IjEuMCIvPjxQQVJBTSBpZD0iYW1vdW50IiB2YWx1ZT0iOC41MjkwNjIyNzExMTgx
+	NjQiLz48UEFSQU0gaWQ9ImN2QXR0ZW4xIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0i
+	Y3ZBdHRlbjIiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMyIgdmFsdWU9
+	IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW40IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBp
+	ZD0iY3ZBdHRlbjUiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9
+	IjAuMCIvPjxQQVJBTSBpZD0iZmVlZGJhY2siIHZhbHVlPSI1LjIxNzQ5OTczMjk3MTE5
+	MSIvPjxQQVJBTSBpZD0ibGZvIiB2YWx1ZT0iMS4wIi8+PFBBUkFNIGlkPSJsZm9Qb2xh
+	cml0eSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibGZvU3luYyIgdmFsdWU9IjAuMCIv
+	PjxQQVJBTSBpZD0ibGlua0dhaW5zIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJtaXgi
+	IHZhbHVlPSI4LjU4MTg3NDg0NzQxMjEwOSIvPjxQQVJBTSBpZD0ib3V0cHV0IiB2YWx1
+	ZT0iMC4wIi8+PFBBUkFNIGlkPSJwaGFzZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0i
+	cmFuZ2UiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InJhdGUiIHZhbHVlPSIwLjE5Mzc0
+	ODE2MTE5NjcwODciLz48UEFSQU0gaWQ9InRpbWUiIHZhbHVlPSI0LjM4OTY4NzA2MTMw
+	OTgxNCIvPjxQQVJBTSBpZD0idGltaW5nIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJ0
+	b25lIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJ0eXBlIiB2YWx1ZT0iMC4wIi8+PC9N
+	RjEwOFM+AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Classic Flanging </string>
+	<key>subtype</key>
+	<integer>1296447571</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

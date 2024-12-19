@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAQAAGmXD+AAAADt5S6P4AAAAO3lLs/gAAAA7eUvD+AAAADt5S9P4AA
+	AAW2mYo/AAAABodVqwAAAAAHLLwxAAAAAAliiE4AAAAAHdRw+gAAAAAj3asqAAAAACsv
+	fwY/gAAAK7pQWD8AAAAvluvtPxLxCkQRGQE/AAAAbY64MQAAAAA=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIbkDAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDFTIG5hbWU9IkJvb2luZyIgdmVyc2lvbj0iMyIgaW5zdGFuY2VXaWR0aD0iMzg0IiBp
+	bnN0YW5jZUhlaWdodD0iNjM0IiB1bmlxdWVJZD0iNzIxMDIxOTc1NzAyMzUwNTE4NyIg
+	dW5pcXVlTmFtZT0iS1lVQiIgY3ZJbjFVdWlkPSIwIiBjdkluMU91dD0iMCIgY3ZJbjFN
+	b2RlPSIxIiBjdkluMlV1aWQ9IjAiIGN2SW4yT3V0PSIwIiBjdkluMk1vZGU9IjEiIGN2
+	SW4zVXVpZD0iMCIgY3ZJbjNPdXQ9IjAiIGN2SW4zTW9kZT0iMSIgY3ZJbjRVdWlkPSIw
+	IiBjdkluNE91dD0iMCIgY3ZJbjRNb2RlPSIxIj48UEFSQU0gaWQ9ImFtb3VudCIgdmFs
+	dWU9IjMuNDQwNjI1NjY3NTcyMDIxIi8+PFBBUkFNIGlkPSJhY3RpdmUiIHZhbHVlPSIx
+	LjAiLz48UEFSQU0gaWQ9ImN1dG9mZiIgdmFsdWU9IjM1Mi45MjU5MDMzMjAzMTI1Ii8+
+	PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9IjMuNTE5MzEyODU4NTgxNTQzIi8+PFBBUkFN
+	IGlkPSJlbnZlbG9wZVJlc3BvbnNlIiB2YWx1ZT0iMS4wIi8+PFBBUkFNIGlkPSJlbnZl
+	bG9wZVR5cGUiIHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9ImZvbGxvd1JhdGUiIHZhbHVl
+	PSIwLjAiLz48UEFSQU0gaWQ9ImxpbmtHYWlucyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBp
+	ZD0ibWl4IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0ib3V0cHV0IiB2YWx1ZT0iLTEu
+	NzkzNTMxMTc5NDI4MTAxIi8+PFBBUkFNIGlkPSJyZXNvbmFuY2UiIHZhbHVlPSI5LjI0
+	NTE1NjI4ODE0Njk3MyIvPjxQQVJBTSBpZD0ic2xvcGUiIHZhbHVlPSIwLjAiLz48UEFS
+	QU0gaWQ9ImN2QXR0ZW4xIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjIi
+	IHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMyIgdmFsdWU9IjEwLjAiLz48
+	UEFSQU0gaWQ9ImN2QXR0ZW40IiB2YWx1ZT0iMTAuMCIvPjwvTUYxMDFTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Booing </string>
+	<key>subtype</key>
+	<integer>1296445779</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

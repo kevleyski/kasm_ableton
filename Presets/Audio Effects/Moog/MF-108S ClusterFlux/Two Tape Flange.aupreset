@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAWAAGiNT5MzM0AAaZcPwAAAAA1TOA/AAAAADZSzT8AAAAANmlyAAAA
+	AAA2jzoAAAAAA7eUuj+AAAADt5S7P4AAAAO3lLw/gAAAA7eUvT+AAAADt5S+P4AAAAVz
+	DnAAAAAABbaZij8AAAAGWwl7AAAAAAZ0OT0AAAAAE3QKBQAAAAAd1HD6AAAAACsvfwY/
+	gAAAK7pQWD8AAABEERkBPwAAAEvs8EoAAAAAdJXrhT9ZmZo=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIaAEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDhTIG5hbWU9IlR3byBUYXBlIEZsYW5nZSIgdmVyc2lvbj0iMyIgaW5zdGFuY2VXaWR0
+	aD0iMzg0IiBpbnN0YW5jZUhlaWdodD0iNjM0IiB1bmlxdWVJZD0iNDAxODM4NzYxNDg2
+	OTEwODYiIHVuaXF1ZU5hbWU9IktVQ0wiIGN2SW4xVXVpZD0iMCIgY3ZJbjFPdXQ9IjAi
+	IGN2SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJbjJNb2Rl
+	PSIxIiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEiIGN2SW40
+	VXVpZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSIgY3ZJbjVVdWlkPSIwIiBj
+	dkluNU91dD0iMCIgY3ZJbjVNb2RlPSIxIj48UEFSQU0gaWQ9ImFtb3VudCIgdmFsdWU9
+	IjEwLjAiLz48UEFSQU0gaWQ9ImFjdGl2ZSIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0i
+	ZGVsYXlTeW5jIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9IjEw
+	LjAiLz48UEFSQU0gaWQ9ImZlZWRiYWNrIiB2YWx1ZT0iNC40MTI4MTIyMzI5NzExOTEi
+	Lz48UEFSQU0gaWQ9ImxmbyIgdmFsdWU9IjUuMCIvPjxQQVJBTSBpZD0ibGZvUG9sYXJp
+	dHkiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9Imxmb1N5bmMiIHZhbHVlPSIwLjAiLz48
+	UEFSQU0gaWQ9ImxpbmtHYWlucyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibWl4IiB2
+	YWx1ZT0iNy4xOTM5MDYzMDcyMjA0NTkiLz48UEFSQU0gaWQ9Im91dHB1dCIgdmFsdWU9
+	Ii0zLjgxMTg3NDg2NjQ4NTU5NiIvPjxQQVJBTSBpZD0icGhhc2UiIHZhbHVlPSIwLjAi
+	Lz48UEFSQU0gaWQ9InJhbmdlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJyYXRlIiB2
+	YWx1ZT0iOC44NDI3MDI4NjU2MDA1ODYiLz48UEFSQU0gaWQ9InRpbWUiIHZhbHVlPSI3
+	LjkxNzcxMCIvPjxQQVJBTSBpZD0idG9uZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0i
+	dHlwZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0idGltaW5nIi8+PFBBUkFNIGlkPSJj
+	dkF0dGVuMSIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4yIiB2YWx1ZT0i
+	MTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjMiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlk
+	PSJjdkF0dGVuNCIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW41IiB2YWx1
+	ZT0iMTAuMCIvPjwvTUYxMDhTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Two Tape Flange </string>
+	<key>subtype</key>
+	<integer>1296447571</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

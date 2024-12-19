@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAQAAGmXD+AAAADt5S6P4AAAAO3lLs/gAAAA7eUvD+AAAADt5S9P4AA
+	AAW2mYo/AAAABodVqwAAAAAHLLwxAAAAAAliiE4AAAAAHdRw+gAAAAAj3asqAAAAACsv
+	fwY/gAAAK7pQWD8AAAAvluvtPxLxCkQRGQE/AAAAbY64MQAAAAA=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIb4DAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDFTIG5hbWU9IlNvbmdiaXJkcyIgdmVyc2lvbj0iMyIgaW5zdGFuY2VXaWR0aD0iMzg0
+	IiBpbnN0YW5jZUhlaWdodD0iNjM0IiB1bmlxdWVJZD0iMjk5MDc1MzgzNjg0NTczMDY1
+	NCIgdW5pcXVlTmFtZT0iS1lVQiIgY3ZJbjFVdWlkPSIwIiBjdkluMU91dD0iMCIgY3ZJ
+	bjFNb2RlPSIxIiBjdkluMlV1aWQ9IjAiIGN2SW4yT3V0PSIwIiBjdkluMk1vZGU9IjEi
+	IGN2SW4zVXVpZD0iMCIgY3ZJbjNPdXQ9IjAiIGN2SW4zTW9kZT0iMSIgY3ZJbjRVdWlk
+	PSIwIiBjdkluNE91dD0iMCIgY3ZJbjRNb2RlPSIxIj48UEFSQU0gaWQ9ImFtb3VudCIg
+	dmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImFjdGl2ZSIgdmFsdWU9IjEuMCIvPjxQQVJB
+	TSBpZD0iY3V0b2ZmIiB2YWx1ZT0iMjY4LjE0NzM5OTkwMjM0MzgiLz48UEFSQU0gaWQ9
+	ImRyaXZlIiB2YWx1ZT0iMC4zNzAwMDQyOTYzMDI3OTU0Ii8+PFBBUkFNIGlkPSJlbnZl
+	bG9wZVJlc3BvbnNlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJlbnZlbG9wZVR5cGUi
+	IHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9ImZvbGxvd1JhdGUiIHZhbHVlPSIxMC4wIi8+
+	PFBBUkFNIGlkPSJsaW5rR2FpbnMiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9Im1peCIg
+	dmFsdWU9IjIuNjU5ODQzOTIxNjYxMzc3Ii8+PFBBUkFNIGlkPSJvdXRwdXQiIHZhbHVl
+	PSItNS44MDU2MjQ5NjE4NTMwMjciLz48UEFSQU0gaWQ9InJlc29uYW5jZSIgdmFsdWU9
+	IjguMjkxMjUwMjI4ODgxODM2Ii8+PFBBUkFNIGlkPSJzbG9wZSIgdmFsdWU9IjEuMCIv
+	PjxQQVJBTSBpZD0iY3ZBdHRlbjEiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0
+	dGVuMiIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4zIiB2YWx1ZT0iMTAu
+	MCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjQiIHZhbHVlPSIxMC4wIi8+PC9NRjEwMVM+AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Songbirds </string>
+	<key>subtype</key>
+	<integer>1296445779</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

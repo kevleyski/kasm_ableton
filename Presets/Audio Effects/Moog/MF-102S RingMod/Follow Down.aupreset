@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAASAAGiNQAAAAAAAaZcP4AAAAA1TOA+///pADaPOgAAAAADt5S6P4AA
+	AAO3lLs/gAAAA7eUvD+AAAADt5S9P4AAAAO3lL4/gAAABXMOcAAAAAAFtpmKPwAAAAZ0
+	OT0/gAAAE3QKBQAAAAAd1HD6AAAAACsvfwY/gAAAK7pQWAAAAABEERkBPwAAAHvThVw/
+	AAAG
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyISIEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDJTIG5hbWU9IkZyaWVkIElucHV0IiB2ZXJzaW9uPSIzIiBpbnN0YW5jZVdpZHRoPSIz
+	ODQiIGluc3RhbmNlSGVpZ2h0PSI2MzQiIHVuaXF1ZUlkPSIyMjQ2NTYyNTAwODU0NTA2
+	NzAwIiB1bmlxdWVOYW1lPSJAWUBQIiBjdkluMVV1aWQ9IjAiIGN2SW4xT3V0PSIwIiBj
+	dkluMU1vZGU9IjEiIGN2SW4yVXVpZD0iMCIgY3ZJbjJPdXQ9IjAiIGN2SW4yTW9kZT0i
+	MSIgY3ZJbjNVdWlkPSIwIiBjdkluM091dD0iMCIgY3ZJbjNNb2RlPSIxIiBjdkluNFV1
+	aWQ9IjAiIGN2SW40T3V0PSIwIiBjdkluNE1vZGU9IjEiIGN2SW41VXVpZD0iMCIgY3ZJ
+	bjVPdXQ9IjAiIGN2SW41TW9kZT0iMSI+PFBBUkFNIGlkPSJhbW91bnQiIHZhbHVlPSIw
+	LjgyMzQzNzUxMTkyMDkyOSIvPjxQQVJBTSBpZD0iYWN0aXZlIiB2YWx1ZT0iMS4wIi8+
+	PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9IjExLjUzNjg0NjE2MDg4ODY3Ii8+PFBBUkFN
+	IGlkPSJmcmVxdWVuY3kiIHZhbHVlPSIyMjMyLjk4MDk1NzAzMTI1Ii8+PFBBUkFNIGlk
+	PSJsZm8iIHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9Imxmb1BvbGFyaXR5IiB2YWx1ZT0i
+	MC4wIi8+PFBBUkFNIGlkPSJsZm9TeW5jIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJs
+	aW5rR2FpbnMiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9Im1peCIgdmFsdWU9IjguNzI5
+	Mzc0ODg1NTU5MDgyIi8+PFBBUkFNIGlkPSJvdXRwdXQiIHZhbHVlPSItMC43NzIwNjQ1
+	NjY2MTIyNDM3Ii8+PFBBUkFNIGlkPSJyYW5nZSIgdmFsdWU9IjEuMCIvPjxQQVJBTSBp
+	ZD0icmF0ZSIgdmFsdWU9IjYuNjQ3Mzc4NDQ0NjcxNjMxIi8+PFBBUkFNIGlkPSJ0eXBl
+	IiB2YWx1ZT0iMy4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMSIgdmFsdWU9IjEwLjAiLz48
+	UEFSQU0gaWQ9ImN2QXR0ZW4yIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRl
+	bjMiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuNCIgdmFsdWU9IjEwLjAi
+	Lz48UEFSQU0gaWQ9ImN2QXR0ZW41IiB2YWx1ZT0iMTAuMCIvPjwvTUYxMDJTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Follow Down, Follow B... Fried Input </string>
+	<key>subtype</key>
+	<integer>1296446035</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

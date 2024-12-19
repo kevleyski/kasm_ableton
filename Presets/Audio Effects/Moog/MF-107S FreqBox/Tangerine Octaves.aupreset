@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAARAAAMxwAAAAAAAaZcPwAAAAA2GpsAAAAAADaPOgAAAAADt5S6P4AA
+	AAO3lLs/gAAAA7eUvD+AAAADt5S9P4AAAAO3lL4/gAAABbaZij8AAAAF4g/QPwAAAB3U
+	cPoAAAAAJAN7PQAAAAArL38GP4AAAEQRGQE/AAAAS/iFfAAAAAB704VcPwAAAA==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIfADAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDdTIG5hbWU9IlRhbmdlcmluZSBPY3RhdmVzIiB2ZXJzaW9uPSIzIiBpbnN0YW5jZVdp
+	ZHRoPSIzODQiIGluc3RhbmNlSGVpZ2h0PSI2MzQiIHVuaXF1ZUlkPSI1NDQyODcwMDk0
+	MzE0NjI0OTUwIiB1bmlxdWVOYW1lPSJZT1FMIiBjdkluMVV1aWQ9IjAiIGN2SW4xT3V0
+	PSIwIiBjdkluMU1vZGU9IjEiIGN2SW4yVXVpZD0iMCIgY3ZJbjJPdXQ9IjAiIGN2SW4y
+	TW9kZT0iMSIgY3ZJbjNVdWlkPSIwIiBjdkluM091dD0iMCIgY3ZJbjNNb2RlPSIxIiBj
+	dkluNFV1aWQ9IjAiIGN2SW40T3V0PSIwIiBjdkluNE1vZGU9IjEiIGN2SW41VXVpZD0i
+	MCIgY3ZJbjVPdXQ9IjAiIGN2SW41TW9kZT0iMSI+PFBBUkFNIGlkPSJhY3RpdmUiIHZh
+	bHVlPSIxLjAiLz48UEFSQU0gaWQ9ImRyaXZlIiB2YWx1ZT0iMTEuOTM5Mzc2ODMxMDU0
+	NjkiLz48UEFSQU0gaWQ9ImVudmVsb3BlIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0i
+	Zm0iIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9ImZyZXF1ZW5jeSIgdmFsdWU9IjAuMCIv
+	PjxQQVJBTSBpZD0ibGlua0dhaW5zIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJtaXgi
+	IHZhbHVlPSI2LjY2NjcxODAwNjEzNDAzMyIvPjxQQVJBTSBpZD0ibW9kdWxhdGlvbiIg
+	dmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ib3V0cHV0IiB2YWx1ZT0iLTMuNDc2ODc1MzA1
+	MTc1NzgxIi8+PFBBUkFNIGlkPSJzeW5jIiB2YWx1ZT0iMS4wIi8+PFBBUkFNIGlkPSJ0
+	eXBlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJ3YXZlZm9ybSIgdmFsdWU9IjAuMzEy
+	MTI1MDg2Nzg0MzYyOCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjEiIHZhbHVlPSIxMC4wIi8+
+	PFBBUkFNIGlkPSJjdkF0dGVuMiIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0
+	ZW4zIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjQiIHZhbHVlPSIxMC4w
+	Ii8+PFBBUkFNIGlkPSJjdkF0dGVuNSIgdmFsdWU9IjEwLjAiLz48L01GMTA3Uz4A
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Tangerine Octaves </string>
+	<key>subtype</key>
+	<integer>1296447315</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>
