@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqiwMotS/9
+	YOsADQwAxhNNKiDdAQCM2A2Ay4llAyEAMSEEDHA5NmTWVJlpqDRM5EVp0bkrea5eavUo
+	/j4APgBEAIelT/B9vw1q7vn36t1vX+i2r+mw6U/otx9028+8pfEX9NvXAADAt/vtZegF
+	+Qf67WnWHfUTvO112F9vox0BU02/fabbmK5S+y/Zsv+WE0T6K/32lG5P+u0l3faRbnta
+	y8z7H4KRfQjt0W/v6HaD4bna/sKoAH9FAoELi385jeNJDC4H/kYabHFfnRQ4gUAFlQdT
+	whUruGqhUiYUaggzoVowlun3eg1NrzwFzPPh0OMIrFElnDQShUAfT4ez6bbHA/0Qo0wC
+	3eA/k0mg2r2XqGzRSJgHYSxYMMdhKterBRThE07rdcpPqkKFOYwWm0OiEwnt4cEiMklU
+	Qo/JHc564cehMBkkKGDMEN0NkJwqOAanpGFa7Am9nMRgn2oE3B1WCJzBeioI30sxY5nf
+	sGT1uDfV6cKW7wmB3eY5suPRx20CcY+r69urG4BSBhjAog==
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAArAAAAAD6HUH8AAAABO+oP1AAAAAI/AAAAAAAAAz2+K9AAAAAEAAAA
+	AAAAAAU/TqDsAAAABgAAAAAAAAAHP4AAAAAAAAg+7bblAAAACT2+K9AAAAAKPnFfAwAA
+	AAs/TMzNAAAADD+AAAAAAAANPwAAAAAAAA49ag7HAAAADz8kkkcAAAAQP4AAAAAAABE/
+	gAAAAAAAEgAAAAAAAAATPj4r0AAAABQ/FB07AAAAFT4221EAAAAWAAAAAAAAABcAAAAA
+	AAAAGD8AAAAAAAAZAAAAAAAAABo+LhR7AAAAGz6j1woAAAAcPr1wpAAAAB076g/UAAAA
+	HgAAAAAAAAAfP31wpAAAACAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAACM/gAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoAAAAAAAAACk/AAAAAAAAKgAAAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Squelch Bass </string>
+	<key>subtype</key>
+	<integer>1902340215</integer>
+	<key>type</key>
+	<integer>1635085685</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>
