@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAASADVM4D76CSsDt5S6P4AAAAO3lLs/gAAAA7eUvD+AAAADt5S9P4AA
+	AAO3lL4/gAAABXMOcAAAAAAFc4MPAAAAAAWwysMAAAAABbaZij8AAAAGdDk9AAAAAAaM
+	Luw/AAAACWKITj8AAAAd1HD6AAAAACsvfwY/gAAAK7pQWD764Ug0D15EAAAAAEQRGQE/
+	AAAA
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyITMEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDNTIG5hbWU9IlNob2VnYXplIEd1aXRhciBQaGFzZXIiIHZlcnNpb249IjMiIGluc3Rh
+	bmNlV2lkdGg9IjM4NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9Ijk1MTc2
+	MDI5NTI1NDM4Mzg5OCIgdW5pcXVlTmFtZT0iVFFCUyIgY3ZJbjFVdWlkPSIwIiBjdklu
+	MU91dD0iMCIgY3ZJbjFNb2RlPSIxIiBjdkluMlV1aWQ9IjAiIGN2SW4yT3V0PSIwIiBj
+	dkluMk1vZGU9IjEiIGN2SW4zVXVpZD0iMCIgY3ZJbjNPdXQ9IjAiIGN2SW4zTW9kZT0i
+	MSIgY3ZJbjRVdWlkPSIwIiBjdkluNE91dD0iMCIgY3ZJbjRNb2RlPSIxIiBjdkluNVV1
+	aWQ9IjAiIGN2SW41T3V0PSIwIiBjdkluNU1vZGU9IjEiPjxQQVJBTSBpZD0iYWN0aXZl
+	IiB2YWx1ZT0iMS4wIi8+PFBBUkFNIGlkPSJhbW91bnQiIHZhbHVlPSI4LjE4MDE1NTc1
+	NDA4OTM1NSIvPjxQQVJBTSBpZD0iY3ZBdHRlbjEiIHZhbHVlPSIxMC4wIi8+PFBBUkFN
+	IGlkPSJjdkF0dGVuMiIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4zIiB2
+	YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjQiIHZhbHVlPSIxMC4wIi8+PFBB
+	UkFNIGlkPSJjdkF0dGVuNSIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImRlcHRoIiB2
+	YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9IjAuODQ5MTkxNjY1NjQ5
+	NDE0MSIvPjxQQVJBTSBpZD0ibGZvU3luYyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0i
+	bGZvVHlwZSIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0ibGlua0dhaW5zIiB2YWx1ZT0i
+	MC4wIi8+PFBBUkFNIGlkPSJvdXRwdXQiIHZhbHVlPSItNS4yNjgzNzczMDQwNzcxNDgi
+	Lz48UEFSQU0gaWQ9Im91dHB1dE1vZGUiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InJh
+	bmdlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJyYXRlIiB2YWx1ZT0iNjEuMDg5Mjcx
+	NTQ1NDEwMTYiLz48UEFSQU0gaWQ9InJlc29uYW5jZSIgdmFsdWU9IjYuMjQ3MzQ0OTcw
+	NzAzMTI1Ii8+PFBBUkFNIGlkPSJzd2VlcCIgdmFsdWU9IjQuMDA2ODc1MDM4MTQ2OTcz
+	Ii8+PC9NRjEwM1M+AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Shoegaze Guitar Phaser </string>
+	<key>subtype</key>
+	<integer>1296446291</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

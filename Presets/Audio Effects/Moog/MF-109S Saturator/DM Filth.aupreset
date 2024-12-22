@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAATADZpcj+AAAADt5S6P4AAAAO3lLs/gAAAA7eUvD+AAAADt5S9P4AA
+	AAO3lL4/gAAABacvYz+AAAAFtpmKPwAAAAcsvDEAAAAAHdRw+gAAAAAhpB6fPwAAACPd
+	qyoAAAAAKy9/Bj+AAAArulBYPwAAADxtDXQAAAAAPJijMgAAAABEERkBPwAAAFQg9as/
+	AAAAbY64MQAAAAA=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIXcEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDlTIHZlcnNpb249IjMiIG5hbWU9IkRydW0gRmlsdGgiIGluc3RhbmNlV2lkdGg9IjM4
+	NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9IjE5OTc4Mjc0ODQ5MzcwMzk5
+	MDAiIHVuaXF1ZU5hbWU9IlBTTlMiIGN2SW4xVXVpZD0iMCIgY3ZJbjFPdXQ9IjAiIGN2
+	SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJbjJNb2RlPSIx
+	IiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEiIGN2SW40VXVp
+	ZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSIgY3ZJbjVVdWlkPSIwIiBjdklu
+	NU91dD0iMCIgY3ZJbjVNb2RlPSIxIj48UEFSQU0gaWQ9ImFjdGl2ZSIgdmFsdWU9IjEu
+	MCIvPjxQQVJBTSBpZD0iYW1vdW50IiB2YWx1ZT0iMy4wMTkzNzQ4NDc0MTIxMDkiLz48
+	UEFSQU0gaWQ9ImNvbG9yIiB2YWx1ZT0iMS4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMSIg
+	dmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4yIiB2YWx1ZT0iMi42MzA5Mzcw
+	OTk0NTY3ODciLz48UEFSQU0gaWQ9ImN2QXR0ZW4zIiB2YWx1ZT0iMTAuMCIvPjxQQVJB
+	TSBpZD0iY3ZBdHRlbjQiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuNSIg
+	dmFsdWU9IjMuMDA3NTAwMTcxNjYxMzc3Ii8+PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9
+	IjQuMzE2MTU2Mzg3MzI5MTAyIi8+PFBBUkFNIGlkPSJlbnZlbG9wZVJlc3BvbnNlIiB2
+	YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJlbnZlbG9wZVR5cGUiIHZhbHVlPSIwLjAiLz48
+	UEFSQU0gaWQ9ImZvbGxvd1JhdGUiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9ImxpbmtH
+	YWlucyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibm9pc2VFbnZBbW91bnQiIHZhbHVl
+	PSIxLjIxMTc4OTg0NjQyMDI4OCIvPjxQQVJBTSBpZD0ibm9pc2VGaWx0ZXIiIHZhbHVl
+	PSIwLjAiLz48UEFSQU0gaWQ9Im5vaXNlVHlwZSIgdmFsdWU9IjEuMCIvPjxQQVJBTSBp
+	ZD0ib3V0cHV0IiB2YWx1ZT0iLTAuNzAwMjE4Mzc5NDk3NTI4MSIvPjxQQVJBTSBpZD0i
+	c2Vuc2l0aXZpdHkiIHZhbHVlPSIyMS4wIi8+PFBBUkFNIGlkPSJ0b25lIiB2YWx1ZT0i
+	NC44NTIxODgxMTAzNTE1NjIiLz48L01GMTA5Uz4A
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Drum Filth </string>
+	<key>subtype</key>
+	<integer>1296447827</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

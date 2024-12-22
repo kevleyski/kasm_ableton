@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAWAAGiNT5MzM0AAaZcPwAAAAA1TOA/AAAAADZSzT8AAAAANmlyAAAA
+	AAA2jzoAAAAAA7eUuj+AAAADt5S7P4AAAAO3lLw/gAAAA7eUvT+AAAADt5S+P4AAAAVz
+	DnAAAAAABbaZij8AAAAGWwl7AAAAAAZ0OT0AAAAAE3QKBQAAAAAd1HD6AAAAACsvfwY/
+	gAAAK7pQWD8AAABEERkBPwAAAEvs8EoAAAAAdJXrhT9ZmZo=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIaUEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDhTIG5hbWU9IlRoZSBXYWl0aW5nIEdhbWUiIHZlcnNpb249IjMiIGluc3RhbmNlV2lk
+	dGg9IjM4NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9IjE2NTU4MTUxOTY2
+	MTgwMTI5MDciIHVuaXF1ZU5hbWU9IktVQ0wiIGN2SW4xVXVpZD0iMCIgY3ZJbjFPdXQ9
+	IjAiIGN2SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJbjJN
+	b2RlPSIxIiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEiIGN2
+	SW40VXVpZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSIgY3ZJbjVVdWlkPSIw
+	IiBjdkluNU91dD0iMCIgY3ZJbjVNb2RlPSIxIj48UEFSQU0gaWQ9ImFtb3VudCIgdmFs
+	dWU9IjEwLjAiLz48UEFSQU0gaWQ9ImFjdGl2ZSIgdmFsdWU9IjEuMCIvPjxQQVJBTSBp
+	ZD0iZGVsYXlTeW5jIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9
+	IjQuNTE2ODc1NzQzODY1OTY3Ii8+PFBBUkFNIGlkPSJmZWVkYmFjayIgdmFsdWU9Ijku
+	MzExMjUwNjg2NjQ1NTA4Ii8+PFBBUkFNIGlkPSJsZm8iIHZhbHVlPSIzLjAiLz48UEFS
+	QU0gaWQ9Imxmb1BvbGFyaXR5IiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJsZm9TeW5j
+	IiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJsaW5rR2FpbnMiIHZhbHVlPSIwLjAiLz48
+	UEFSQU0gaWQ9Im1peCIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9Im91dHB1dCIgdmFs
+	dWU9Ii01LjQzMjE4NjEyNjcwODk4NCIvPjxQQVJBTSBpZD0icGhhc2UiIHZhbHVlPSIw
+	LjAiLz48UEFSQU0gaWQ9InJhbmdlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJyYXRl
+	IiB2YWx1ZT0iMC4wNjkxODk2Njc3MDE3MjExOSIvPjxQQVJBTSBpZD0idGltZSIgdmFs
+	dWU9IjUuODQ1MjQyIi8+PFBBUkFNIGlkPSJ0b25lIiB2YWx1ZT0iMC4wIi8+PFBBUkFN
+	IGlkPSJ0eXBlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJ0aW1pbmciLz48UEFSQU0g
+	aWQ9ImN2QXR0ZW4xIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjIiIHZh
+	bHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMyIgdmFsdWU9IjEwLjAiLz48UEFS
+	QU0gaWQ9ImN2QXR0ZW40IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjUi
+	IHZhbHVlPSIxMC4wIi8+PC9NRjEwOFM+AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>The Waiting Game </string>
+	<key>subtype</key>
+	<integer>1296447571</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAATADZpcj+AAAADt5S6P4AAAAO3lLs/gAAAA7eUvD+AAAADt5S9P4AA
+	AAO3lL4/gAAABacvYz+AAAAFtpmKPwAAAAcsvDEAAAAAHdRw+gAAAAAhpB6fPwAAACPd
+	qyoAAAAAKy9/Bj+AAAArulBYPwAAADxtDXQAAAAAPJijMgAAAABEERkBPwAAAFQg9as/
+	AAAAbY64MQAAAAA=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIYYEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDlTIHZlcnNpb249IjMiIG5hbWU9IlN0ZXJlbyBHbHVlIiBpbnN0YW5jZVdpZHRoPSIz
+	ODQiIGluc3RhbmNlSGVpZ2h0PSI2MzQiIHVuaXF1ZUlkPSI0MDU1NTgzNDM0NzAzOTk3
+	MzM3IiB1bmlxdWVOYW1lPSJQU05TIiBjdkluMVV1aWQ9IjAiIGN2SW4xT3V0PSIwIiBj
+	dkluMU1vZGU9IjEiIGN2SW4yVXVpZD0iMCIgY3ZJbjJPdXQ9IjAiIGN2SW4yTW9kZT0i
+	MSIgY3ZJbjNVdWlkPSIwIiBjdkluM091dD0iMCIgY3ZJbjNNb2RlPSIxIiBjdkluNFV1
+	aWQ9IjAiIGN2SW40T3V0PSIwIiBjdkluNE1vZGU9IjEiIGN2SW41VXVpZD0iMCIgY3ZJ
+	bjVPdXQ9IjAiIGN2SW41TW9kZT0iMSI+PFBBUkFNIGlkPSJhY3RpdmUiIHZhbHVlPSIx
+	LjAiLz48UEFSQU0gaWQ9ImFtb3VudCIgdmFsdWU9IjQuNDc5Njg2NzM3MDYwNTQ3Ii8+
+	PFBBUkFNIGlkPSJjb2xvciIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjEi
+	IHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMiIgdmFsdWU9IjcuMDgzMTI2
+	MDY4MTE1MjM0Ii8+PFBBUkFNIGlkPSJjdkF0dGVuMyIgdmFsdWU9IjEwLjAiLz48UEFS
+	QU0gaWQ9ImN2QXR0ZW40IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjUi
+	IHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9IjcuNTE5OTY4MDMy
+	ODM2OTE0Ii8+PFBBUkFNIGlkPSJlbnZlbG9wZVJlc3BvbnNlIiB2YWx1ZT0iMC4wIi8+
+	PFBBUkFNIGlkPSJlbnZlbG9wZVR5cGUiIHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9ImZv
+	bGxvd1JhdGUiIHZhbHVlPSIwLjgzMTQzMDQ5NDc4NTMwODgiLz48UEFSQU0gaWQ9Imxp
+	bmtHYWlucyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibm9pc2VFbnZBbW91bnQiIHZh
+	bHVlPSIxLjExMzM2NTg4ODU5NTU4MSIvPjxQQVJBTSBpZD0ibm9pc2VGaWx0ZXIiIHZh
+	bHVlPSIyLjAiLz48UEFSQU0gaWQ9Im5vaXNlVHlwZSIgdmFsdWU9IjEuMCIvPjxQQVJB
+	TSBpZD0ib3V0cHV0IiB2YWx1ZT0iLTEyLjg0NjA5MzE3Nzc5NTQxIi8+PFBBUkFNIGlk
+	PSJzZW5zaXRpdml0eSIgdmFsdWU9IjMuMDU0MTg3MDU5NDAyNDY2Ii8+PFBBUkFNIGlk
+	PSJ0b25lIiB2YWx1ZT0iNS44NzE1NjI0ODA5MjY1MTQiLz48L01GMTA5Uz4A
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Stereo Glue </string>
+	<key>subtype</key>
+	<integer>1296447827</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

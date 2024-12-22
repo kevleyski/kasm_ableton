@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAASADVM4D76CSsDt5S6P4AAAAO3lLs/gAAAA7eUvD+AAAADt5S9P4AA
+	AAO3lL4/gAAABXMOcAAAAAAFc4MPAAAAAAWwysMAAAAABbaZij8AAAAGdDk9AAAAAAaM
+	Luw/AAAACWKITj8AAAAd1HD6AAAAACsvfwY/gAAAK7pQWD764Ug0D15EAAAAAEQRGQE/
+	AAAA
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyITAEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDNTIG5hbWU9IkZlbmRlciBSaG9kZXMgUGhhc2VyIiB2ZXJzaW9uPSIzIiBpbnN0YW5j
+	ZVdpZHRoPSIzODQiIGluc3RhbmNlSGVpZ2h0PSI2MzQiIHVuaXF1ZUlkPSI3OTk4MDQ1
+	NjE2OTI3NzA2MTE2IiB1bmlxdWVOYW1lPSJUUUJTIiBjdkluMVV1aWQ9IjAiIGN2SW4x
+	T3V0PSIwIiBjdkluMU1vZGU9IjEiIGN2SW4yVXVpZD0iMCIgY3ZJbjJPdXQ9IjAiIGN2
+	SW4yTW9kZT0iMSIgY3ZJbjNVdWlkPSIwIiBjdkluM091dD0iMCIgY3ZJbjNNb2RlPSIx
+	IiBjdkluNFV1aWQ9IjAiIGN2SW40T3V0PSIwIiBjdkluNE1vZGU9IjEiIGN2SW41VXVp
+	ZD0iMCIgY3ZJbjVPdXQ9IjAiIGN2SW41TW9kZT0iMSI+PFBBUkFNIGlkPSJhY3RpdmUi
+	IHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9ImFtb3VudCIgdmFsdWU9IjguNDE0MjE4OTAy
+	NTg3ODkxIi8+PFBBUkFNIGlkPSJjdkF0dGVuMSIgdmFsdWU9IjEwLjAiLz48UEFSQU0g
+	aWQ9ImN2QXR0ZW4yIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjMiIHZh
+	bHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuNCIgdmFsdWU9IjEwLjAiLz48UEFS
+	QU0gaWQ9ImN2QXR0ZW41IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iZGVwdGgiIHZh
+	bHVlPSIwLjAiLz48UEFSQU0gaWQ9ImRyaXZlIiB2YWx1ZT0iMS40NTk0OTkzNTkxMzA4
+	NTkiLz48UEFSQU0gaWQ9Imxmb1N5bmMiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9Imxm
+	b1R5cGUiIHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9ImxpbmtHYWlucyIgdmFsdWU9IjAu
+	MCIvPjxQQVJBTSBpZD0ib3V0cHV0IiB2YWx1ZT0iMi45Njc1NjIxOTg2Mzg5MTYiLz48
+	UEFSQU0gaWQ9Im91dHB1dE1vZGUiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InJhbmdl
+	IiB2YWx1ZT0iMS4wIi8+PFBBUkFNIGlkPSJyYXRlIiB2YWx1ZT0iMS4zNDI5NDM5MDY3
+	ODQwNTgiLz48UEFSQU0gaWQ9InJlc29uYW5jZSIgdmFsdWU9IjEuNjI4NzUwNDQzNDU4
+	NTU3Ii8+PFBBUkFNIGlkPSJzd2VlcCIgdmFsdWU9IjQuNjY4MTI1NjI5NDI1MDQ5Ii8+
+	PC9NRjEwM1M+AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Fender Rhodes Phaser </string>
+	<key>subtype</key>
+	<integer>1296446291</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

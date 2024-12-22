@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAARAAAMxwAAAAAAAaZcPwAAAAA2GpsAAAAAADaPOgAAAAADt5S6P4AA
+	AAO3lLs/gAAAA7eUvD+AAAADt5S9P4AAAAO3lL4/gAAABbaZij8AAAAF4g/QPwAAAB3U
+	cPoAAAAAJAN7PQAAAAArL38GP4AAAEQRGQE/AAAAS/iFfAAAAAB704VcPwAAAA==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIQAEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDdTIG5hbWU9IlBhc3RlbCBTdG9tcEJveCIgdmVyc2lvbj0iMyIgaW5zdGFuY2VXaWR0
+	aD0iMzg0IiBpbnN0YW5jZUhlaWdodD0iNjM0IiB1bmlxdWVJZD0iNTU0ODA3MzIzNTU3
+	NTc4MzA0MyIgdW5pcXVlTmFtZT0iWU9RTCIgY3ZJbjFVdWlkPSIwIiBjdkluMU91dD0i
+	MCIgY3ZJbjFNb2RlPSIxIiBjdkluMlV1aWQ9IjAiIGN2SW4yT3V0PSIwIiBjdkluMk1v
+	ZGU9IjEiIGN2SW4zVXVpZD0iMCIgY3ZJbjNPdXQ9IjAiIGN2SW4zTW9kZT0iMSIgY3ZJ
+	bjRVdWlkPSIwIiBjdkluNE91dD0iMCIgY3ZJbjRNb2RlPSIxIiBjdkluNVV1aWQ9IjAi
+	IGN2SW41T3V0PSIwIiBjdkluNU1vZGU9IjEiPjxQQVJBTSBpZD0iYWN0aXZlIiB2YWx1
+	ZT0iMS4wIi8+PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9IjIwLjAiLz48UEFSQU0gaWQ9
+	ImVudmVsb3BlIiB2YWx1ZT0iNi40NTM3NTAxMzM1MTQ0MDQiLz48UEFSQU0gaWQ9ImZt
+	IiB2YWx1ZT0iNC4yMDM0Mzc4MDUxNzU3ODEiLz48UEFSQU0gaWQ9ImZyZXF1ZW5jeSIg
+	dmFsdWU9IjguNzk4ODMiLz48UEFSQU0gaWQ9ImxpbmtHYWlucyIgdmFsdWU9IjAuMCIv
+	PjxQQVJBTSBpZD0ibWl4IiB2YWx1ZT0iMy45MjgyODEzMDcyMjA0NTkiLz48UEFSQU0g
+	aWQ9Im1vZHVsYXRpb24iIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9Im91dHB1dCIgdmFs
+	dWU9Ii0xMi42OTY4NzQ2MTg1MzAyNyIvPjxQQVJBTSBpZD0ic3luYyIgdmFsdWU9IjEu
+	MCIvPjxQQVJBTSBpZD0idHlwZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0id2F2ZWZv
+	cm0iIHZhbHVlPSIwLjU2NzUxNTYxMTY0ODU1OTYiLz48UEFSQU0gaWQ9ImN2QXR0ZW4x
+	IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjIiIHZhbHVlPSIxMC4wIi8+
+	PFBBUkFNIGlkPSJjdkF0dGVuMyIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0
+	ZW40IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjUiIHZhbHVlPSIxMC4w
+	Ii8+PC9NRjEwN1M+AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Pastel StompBox </string>
+	<key>subtype</key>
+	<integer>1296447315</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

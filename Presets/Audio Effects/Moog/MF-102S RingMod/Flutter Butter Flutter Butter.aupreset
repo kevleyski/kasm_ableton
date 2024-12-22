@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAASAAGiNQAAAAAAAaZcP4AAAAA1TOA+///pADaPOgAAAAADt5S6P4AA
+	AAO3lLs/gAAAA7eUvD+AAAADt5S9P4AAAAO3lL4/gAAABXMOcAAAAAAFtpmKPwAAAAZ0
+	OT0/gAAAE3QKBQAAAAAd1HD6AAAAACsvfwY/gAAAK7pQWAAAAABEERkBPwAAAHvThVw/
+	AAAG
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyISQEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDJTIG5hbWU9IkZsdXR0ZXIgQnV0dGVyIiB2ZXJzaW9uPSIzIiBpbnN0YW5jZVdpZHRo
+	PSIzODQiIGluc3RhbmNlSGVpZ2h0PSI2MzQiIHVuaXF1ZUlkPSI3MjIzNjY1NDIwNjQ1
+	ODc2MTM1IiB1bmlxdWVOYW1lPSJAWUBQIiBjdkluMVV1aWQ9IjAiIGN2SW4xT3V0PSIw
+	IiBjdkluMU1vZGU9IjEiIGN2SW4yVXVpZD0iMCIgY3ZJbjJPdXQ9IjAiIGN2SW4yTW9k
+	ZT0iMSIgY3ZJbjNVdWlkPSIwIiBjdkluM091dD0iMCIgY3ZJbjNNb2RlPSIxIiBjdklu
+	NFV1aWQ9IjAiIGN2SW40T3V0PSIwIiBjdkluNE1vZGU9IjEiIGN2SW41VXVpZD0iMCIg
+	Y3ZJbjVPdXQ9IjAiIGN2SW41TW9kZT0iMSI+PFBBUkFNIGlkPSJhbW91bnQiIHZhbHVl
+	PSIzLjU0ODc0OTkyMzcwNjA1NSIvPjxQQVJBTSBpZD0iYWN0aXZlIiB2YWx1ZT0iMS4w
+	Ii8+PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9Ii0zLjAxNTM0NDYxOTc1MDk3NyIvPjxQ
+	QVJBTSBpZD0iZnJlcXVlbmN5IiB2YWx1ZT0iNzcuMjk4MzI0NTg0OTYwOTQiLz48UEFS
+	QU0gaWQ9ImxmbyIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0ibGZvUG9sYXJpdHkiIHZh
+	bHVlPSIxLjAiLz48UEFSQU0gaWQ9Imxmb1N5bmMiIHZhbHVlPSIxLjAiLz48UEFSQU0g
+	aWQ9ImxpbmtHYWlucyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibWl4IiB2YWx1ZT0i
+	Ni43NTQyMTk1MzIwMTI5MzkiLz48UEFSQU0gaWQ9Im91dHB1dCIgdmFsdWU9IjEuMTI3
+	MzExMzQ4OTE1MSIvPjxQQVJBTSBpZD0icmFuZ2UiIHZhbHVlPSIwLjAiLz48UEFSQU0g
+	aWQ9InJhdGUiIHZhbHVlPSIwLjk0NDAzNTcwODkwNDI2NjQiLz48UEFSQU0gaWQ9InR5
+	cGUiIHZhbHVlPSIzLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4xIiB2YWx1ZT0iMTAuMCIv
+	PjxQQVJBTSBpZD0iY3ZBdHRlbjIiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0
+	dGVuMyIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW40IiB2YWx1ZT0iMTAu
+	MCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjUiIHZhbHVlPSIxMC4wIi8+PC9NRjEwMlM+AA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Flutter Butter Flutter Butter </string>
+	<key>subtype</key>
+	<integer>1296446035</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

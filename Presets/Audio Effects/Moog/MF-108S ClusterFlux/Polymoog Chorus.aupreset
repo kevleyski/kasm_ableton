@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAWAAGiNT5MzM0AAaZcPwAAAAA1TOA/AAAAADZSzT8AAAAANmlyAAAA
+	AAA2jzoAAAAAA7eUuj+AAAADt5S7P4AAAAO3lLw/gAAAA7eUvT+AAAADt5S+P4AAAAVz
+	DnAAAAAABbaZij8AAAAGWwl7AAAAAAZ0OT0AAAAAE3QKBQAAAAAd1HD6AAAAACsvfwY/
+	gAAAK7pQWD8AAABEERkBPwAAAEvs8EoAAAAAdJXrhT9ZmZo=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIbwEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDhTIG5hbWU9IlBvbHltb29nIENob3J1cyIgdmVyc2lvbj0iMyIgaW5zdGFuY2VXaWR0
+	aD0iMzg0IiBpbnN0YW5jZUhlaWdodD0iNjM0IiB1bmlxdWVJZD0iMjM0ODczMTM1MjU5
+	MDU0MTUzMyIgdW5pcXVlTmFtZT0iS1VDTCIgY3ZJbjFVdWlkPSIwIiBjdkluMU91dD0i
+	MCIgY3ZJbjFNb2RlPSIxIiBjdkluMlV1aWQ9IjAiIGN2SW4yT3V0PSIwIiBjdkluMk1v
+	ZGU9IjEiIGN2SW4zVXVpZD0iMCIgY3ZJbjNPdXQ9IjAiIGN2SW4zTW9kZT0iMSIgY3ZJ
+	bjRVdWlkPSIwIiBjdkluNE91dD0iMCIgY3ZJbjRNb2RlPSIxIiBjdkluNVV1aWQ9IjAi
+	IGN2SW41T3V0PSIwIiBjdkluNU1vZGU9IjEiPjxQQVJBTSBpZD0iYW1vdW50IiB2YWx1
+	ZT0iOS40NTg5MDYxNzM3MDYwNTUiLz48UEFSQU0gaWQ9ImFjdGl2ZSIgdmFsdWU9IjEu
+	MCIvPjxQQVJBTSBpZD0iZGVsYXlTeW5jIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJk
+	cml2ZSIgdmFsdWU9IjIuOTU1MzA3OTYwNTEwMjU0Ii8+PFBBUkFNIGlkPSJmZWVkYmFj
+	ayIgdmFsdWU9IjEuNDk4MTI2OTgzNjQyNTc4Ii8+PFBBUkFNIGlkPSJsZm8iIHZhbHVl
+	PSIwLjAiLz48UEFSQU0gaWQ9Imxmb1BvbGFyaXR5IiB2YWx1ZT0iMC4wIi8+PFBBUkFN
+	IGlkPSJsZm9TeW5jIiB2YWx1ZT0iMS4wIi8+PFBBUkFNIGlkPSJsaW5rR2FpbnMiIHZh
+	bHVlPSIwLjAiLz48UEFSQU0gaWQ9Im1peCIgdmFsdWU9IjcuNTk1MDAwNzQzODY1OTY3
+	Ii8+PFBBUkFNIGlkPSJvdXRwdXQiIHZhbHVlPSI0LjkwNTMxNDQ0NTQ5NTYwNSIvPjxQ
+	QVJBTSBpZD0icGhhc2UiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InJhbmdlIiB2YWx1
+	ZT0iMS4wIi8+PFBBUkFNIGlkPSJyYXRlIiB2YWx1ZT0iMC4yMDQ2NDA1MjI1OTkyMjAz
+	Ii8+PFBBUkFNIGlkPSJ0aW1lIiB2YWx1ZT0iMS4yODQ4ODMiLz48UEFSQU0gaWQ9InRv
+	bmUiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9InR5cGUiIHZhbHVlPSIwLjAiLz48UEFS
+	QU0gaWQ9InRpbWluZyIvPjxQQVJBTSBpZD0iY3ZBdHRlbjEiIHZhbHVlPSIxMC4wIi8+
+	PFBBUkFNIGlkPSJjdkF0dGVuMiIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0
+	ZW4zIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjQiIHZhbHVlPSIxMC4w
+	Ii8+PFBBUkFNIGlkPSJjdkF0dGVuNSIgdmFsdWU9IjEwLjAiLz48L01GMTA4Uz4A
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Polymoog Chorus </string>
+	<key>subtype</key>
+	<integer>1296447571</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAWAAGiNT5MzM0AAaZcPwAAAAA1TOA/AAAAADZSzT8AAAAANmlyAAAA
+	AAA2jzoAAAAAA7eUuj+AAAADt5S7P4AAAAO3lLw/gAAAA7eUvT+AAAADt5S+P4AAAAVz
+	DnAAAAAABbaZij8AAAAGWwl7AAAAAAZ0OT0AAAAAE3QKBQAAAAAd1HD6AAAAACsvfwY/
+	gAAAK7pQWD8AAABEERkBPwAAAEvs8EoAAAAAdJXrhT9ZmZo=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIbUEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDhTIG5hbWU9IldhdGVyIEdhcmRlbnMiIHZlcnNpb249IjMiIGluc3RhbmNlV2lkdGg9
+	IjM4NCIgaW5zdGFuY2VIZWlnaHQ9IjYzNCIgdW5pcXVlSWQ9IjY4Njg0MDk0Mjk2NTc0
+	MzQ0MTQiIHVuaXF1ZU5hbWU9IktVQ0wiIGN2SW4xVXVpZD0iMCIgY3ZJbjFPdXQ9IjAi
+	IGN2SW4xTW9kZT0iMSIgY3ZJbjJVdWlkPSIwIiBjdkluMk91dD0iMCIgY3ZJbjJNb2Rl
+	PSIxIiBjdkluM1V1aWQ9IjAiIGN2SW4zT3V0PSIwIiBjdkluM01vZGU9IjEiIGN2SW40
+	VXVpZD0iMCIgY3ZJbjRPdXQ9IjAiIGN2SW40TW9kZT0iMSIgY3ZJbjVVdWlkPSIwIiBj
+	dkluNU91dD0iMCIgY3ZJbjVNb2RlPSIxIj48UEFSQU0gaWQ9ImFtb3VudCIgdmFsdWU9
+	IjMuMTYwOTM4MDI0NTIwODc0Ii8+PFBBUkFNIGlkPSJhY3RpdmUiIHZhbHVlPSIxLjAi
+	Lz48UEFSQU0gaWQ9ImRlbGF5U3luYyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0iZHJp
+	dmUiIHZhbHVlPSI0LjM0MDkzNDc1MzQxNzk2OSIvPjxQQVJBTSBpZD0iZmVlZGJhY2si
+	IHZhbHVlPSI1LjI0MjE4NjU0NjMyNTY4NCIvPjxQQVJBTSBpZD0ibGZvIiB2YWx1ZT0i
+	Mi4wIi8+PFBBUkFNIGlkPSJsZm9Qb2xhcml0eSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBp
+	ZD0ibGZvU3luYyIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0ibGlua0dhaW5zIiB2YWx1
+	ZT0iMC4wIi8+PFBBUkFNIGlkPSJtaXgiIHZhbHVlPSI0LjEyMTcxODQwNjY3NzI0NiIv
+	PjxQQVJBTSBpZD0ib3V0cHV0IiB2YWx1ZT0iMS4zNDY4NzY2MjEyNDYzMzgiLz48UEFS
+	QU0gaWQ9InBoYXNlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJyYW5nZSIgdmFsdWU9
+	IjEuMCIvPjxQQVJBTSBpZD0icmF0ZSIgdmFsdWU9IjMuMDg5NjE4NjgyODYxMzI4Ii8+
+	PFBBUkFNIGlkPSJ0aW1lIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0idG9uZSIgdmFs
+	dWU9IjAuMCIvPjxQQVJBTSBpZD0idHlwZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0i
+	dGltaW5nIi8+PFBBUkFNIGlkPSJjdkF0dGVuMSIgdmFsdWU9IjEwLjAiLz48UEFSQU0g
+	aWQ9ImN2QXR0ZW4yIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjMiIHZh
+	bHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuNCIgdmFsdWU9IjEwLjAiLz48UEFS
+	QU0gaWQ9ImN2QXR0ZW41IiB2YWx1ZT0iMTAuMCIvPjwvTUYxMDhTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Water Gardens </string>
+	<key>subtype</key>
+	<integer>1296447571</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

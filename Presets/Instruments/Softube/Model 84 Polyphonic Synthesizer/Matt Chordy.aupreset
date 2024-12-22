@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEqhgMotS/9
+	YAkB5QsAtBISiAMK3wIS3AIKBRWLxdc+CgcIARXKbdsCFQAAgD8DWwQFFTMzsz4KAggG
+	BwgV8Ss+PwkKFT+ogz4LPQwNFUsdVA4PFdQP6jsQERXBV3w/EhMVjSTJPhQ+FRWc+Ao+
+	FhWfqqo+FwA/GAIIGRoVzcxMPhscFY/CdT8dHh8VuB5FPyAVX3whAggiIyQlFdygjggm
+	AggnKCkqFT53bj8gKzD/ARIkYmM5NTUwMTUtZWNjMi00OTQ2LTllMWUtZTBkM2JlZjBi
+	MGVmGgEBIgYYgAogtAQqSwoEcWNodxIfTW9kZWwgODQgUG9seXBob25pYyBTeW50aGVz
+	aXplchoGMi41Ljg2IhggKGI2ODcyOSA1Yzk0OWM1ZCkoAjIXCgoIgAEYGCUJCAEYGToL
+	CDGoERCSIvUiezUHAEfItAMgaShcDKck28fRlanlfIrjIH0ZmNx6R3ofsgMhtGpINBS9
+	lPBwEsLORx6plZyEg/3BxufkyZb/8DIrlHvo/R8=
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAArAAAAAD7XxYsAAAABPtttygAAAAI/gAAAAAAAAz5bbcoAAAAEP4AA
+	AAAAAAU+szMzAAAABgAAAAAAAAAHP4AAAAAAAAg/PivxAAAACQAAAAAAAAAKPoOoPwAA
+	AAs9223KAAAADD+AAAAAAAANPlQdSwAAAA4AAAAAAAAADzvqD9QAAAAQP4AAAAAAABE/
+	fFfBAAAAEgAAAAAAAAATPskkjQAAABQ+gAAAAAAAFT4K+JwAAAAWPqqqnwAAABc/AAAA
+	AAAAGD8AAAAAAAAZAAAAAAAAABo+TMzNAAAAGwAAAAAAAAAcP3XCjwAAAB0AAAAAAAAA
+	HgAAAAAAAAAfP0UeuAAAACA/RXxfAAAAIT6DqD8AAAAiAAAAAAAAACM/gAAAAAAAJD6A
+	AAAAAAAlPo6g3AAAACY+gAAAAAAAJwAAAAAAAAAoP4AAAAAAACk/AAAAAAAAKj9udz4=
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>Matt Chordy </string>
+	<key>subtype</key>
+	<integer>1902340215</integer>
+	<key>type</key>
+	<integer>1635085685</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

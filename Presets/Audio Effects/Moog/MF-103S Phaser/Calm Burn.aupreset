@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAASADVM4D76CSsDt5S6P4AAAAO3lLs/gAAAA7eUvD+AAAADt5S9P4AA
+	AAO3lL4/gAAABXMOcAAAAAAFc4MPAAAAAAWwysMAAAAABbaZij8AAAAGdDk9AAAAAAaM
+	Luw/AAAACWKITj8AAAAd1HD6AAAAACsvfwY/gAAAK7pQWD764Ug0D15EAAAAAEQRGQE/
+	AAAA
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyISYEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDNTIG5hbWU9IkNhbG0gQnVybiIgdmVyc2lvbj0iMyIgaW5zdGFuY2VXaWR0aD0iMzg0
+	IiBpbnN0YW5jZUhlaWdodD0iNjM0IiB1bmlxdWVJZD0iMTA0NzM4NTczMDg0MzkzMDAy
+	MyIgdW5pcXVlTmFtZT0iVFFCUyIgY3ZJbjFVdWlkPSIwIiBjdkluMU91dD0iMCIgY3ZJ
+	bjFNb2RlPSIxIiBjdkluMlV1aWQ9IjAiIGN2SW4yT3V0PSIwIiBjdkluMk1vZGU9IjEi
+	IGN2SW4zVXVpZD0iMCIgY3ZJbjNPdXQ9IjAiIGN2SW4zTW9kZT0iMSIgY3ZJbjRVdWlk
+	PSIwIiBjdkluNE91dD0iMCIgY3ZJbjRNb2RlPSIxIiBjdkluNVV1aWQ9IjAiIGN2SW41
+	T3V0PSIwIiBjdkluNU1vZGU9IjEiPjxQQVJBTSBpZD0iYWN0aXZlIiB2YWx1ZT0iMS4w
+	Ii8+PFBBUkFNIGlkPSJhbW91bnQiIHZhbHVlPSI2LjI3MzI4MTA5NzQxMjEwOSIvPjxQ
+	QVJBTSBpZD0iY3ZBdHRlbjEiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVu
+	MiIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4zIiB2YWx1ZT0iMTAuMCIv
+	PjxQQVJBTSBpZD0iY3ZBdHRlbjQiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0
+	dGVuNSIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImRlcHRoIiB2YWx1ZT0iMC4wIi8+
+	PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9Ii0xMi4zMTMyMTkwNzA0MzQ1NyIvPjxQQVJB
+	TSBpZD0ibGZvU3luYyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibGZvVHlwZSIgdmFs
+	dWU9IjEuMCIvPjxQQVJBTSBpZD0ibGlua0dhaW5zIiB2YWx1ZT0iMC4wIi8+PFBBUkFN
+	IGlkPSJvdXRwdXQiIHZhbHVlPSIxMC4wMzYwMzM2MzAzNzEwOSIvPjxQQVJBTSBpZD0i
+	b3V0cHV0TW9kZSIgdmFsdWU9IjIuMCIvPjxQQVJBTSBpZD0icmFuZ2UiIHZhbHVlPSIx
+	LjAiLz48UEFSQU0gaWQ9InJhdGUiIHZhbHVlPSIxLjEyNDgwNTkyNzI3NjYxMSIvPjxQ
+	QVJBTSBpZD0icmVzb25hbmNlIiB2YWx1ZT0iNi45MTY0MDYxNTQ2MzI1NjgiLz48UEFS
+	QU0gaWQ9InN3ZWVwIiB2YWx1ZT0iNi42MjE3MTkzNjAzNTE1NjIiLz48L01GMTAzUz4A
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Calm Burn </string>
+	<key>subtype</key>
+	<integer>1296446291</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

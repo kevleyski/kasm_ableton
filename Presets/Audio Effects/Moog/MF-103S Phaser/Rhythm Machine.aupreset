@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAASADVM4D76CSsDt5S6P4AAAAO3lLs/gAAAA7eUvD+AAAADt5S9P4AA
+	AAO3lL4/gAAABXMOcAAAAAAFc4MPAAAAAAWwysMAAAAABbaZij8AAAAGdDk9AAAAAAaM
+	Luw/AAAACWKITj8AAAAd1HD6AAAAACsvfwY/gAAAK7pQWD764Ug0D15EAAAAAEQRGQE/
+	AAAA
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIR0EAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDNTIG5hbWU9IlJoeXRobSBNYWNoaW5lIiB2ZXJzaW9uPSIzIiBpbnN0YW5jZVdpZHRo
+	PSIzODQiIGluc3RhbmNlSGVpZ2h0PSI2MzQiIHVuaXF1ZUlkPSI2OTQ4NDQ1ODUxNzEy
+	MzM3Mjg3IiB1bmlxdWVOYW1lPSJUUUJTIiBjdkluMVV1aWQ9IjAiIGN2SW4xT3V0PSIw
+	IiBjdkluMU1vZGU9IjEiIGN2SW4yVXVpZD0iMCIgY3ZJbjJPdXQ9IjAiIGN2SW4yTW9k
+	ZT0iMSIgY3ZJbjNVdWlkPSIwIiBjdkluM091dD0iMCIgY3ZJbjNNb2RlPSIxIiBjdklu
+	NFV1aWQ9IjAiIGN2SW40T3V0PSIwIiBjdkluNE1vZGU9IjEiIGN2SW41VXVpZD0iMCIg
+	Y3ZJbjVPdXQ9IjAiIGN2SW41TW9kZT0iMSI+PFBBUkFNIGlkPSJhY3RpdmUiIHZhbHVl
+	PSIxLjAiLz48UEFSQU0gaWQ9ImFtb3VudCIgdmFsdWU9IjIuOTk3NDk5OTQyNzc5NTQx
+	Ii8+PFBBUkFNIGlkPSJjdkF0dGVuMSIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2
+	QXR0ZW4yIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZBdHRlbjMiIHZhbHVlPSIx
+	MC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuNCIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9
+	ImN2QXR0ZW41IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iZGVwdGgiIHZhbHVlPSIw
+	LjAiLz48UEFSQU0gaWQ9ImRyaXZlIiB2YWx1ZT0iNi41NTAwMzM1NjkzMzU5MzgiLz48
+	UEFSQU0gaWQ9Imxmb1N5bmMiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9Imxmb1R5cGUi
+	IHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9ImxpbmtHYWlucyIgdmFsdWU9IjAuMCIvPjxQ
+	QVJBTSBpZD0ib3V0cHV0IiB2YWx1ZT0iLTE1LjAzOTI4MTg0NTA5Mjc3Ii8+PFBBUkFN
+	IGlkPSJvdXRwdXRNb2RlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJyYW5nZSIgdmFs
+	dWU9IjEuMCIvPjxQQVJBTSBpZD0icmF0ZSIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0i
+	cmVzb25hbmNlIiB2YWx1ZT0iNS44NzMxMjYwMjk5NjgyNjIiLz48UEFSQU0gaWQ9InN3
+	ZWVwIiB2YWx1ZT0iNC4xODcxODg2MjUzMzU2OTMiLz48L01GMTAzUz4A
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Rhythm Machine </string>
+	<key>subtype</key>
+	<integer>1296446291</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

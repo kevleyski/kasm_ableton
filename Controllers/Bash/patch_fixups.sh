@@ -59,6 +59,7 @@ kasm_errors() {
     mmv -d "- *.aupreset" "#1.aupreset"
     mmv -d "\" *.aupreset" "#1.aupreset"
     mmv -d "\* *.aupreset" "#1.aupreset"
+    mmv -d "\**.aupreset" "#1.aupreset"
 }
 
 kasm_folders() {

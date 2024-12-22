@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAARAAAMxwAAAAAAAaZcPwAAAAA2GpsAAAAAADaPOgAAAAADt5S6P4AA
+	AAO3lLs/gAAAA7eUvD+AAAADt5S9P4AAAAO3lL4/gAAABbaZij8AAAAF4g/QPwAAAB3U
+	cPoAAAAAJAN7PQAAAAArL38GP4AAAEQRGQE/AAAAS/iFfAAAAAB704VcPwAAAA==
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIckDAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDdTIG5hbWU9IkZNIEdvbmdzIiB2ZXJzaW9uPSIzIiBpbnN0YW5jZVdpZHRoPSIzODQi
+	IGluc3RhbmNlSGVpZ2h0PSI2MzQiIHVuaXF1ZUlkPSIxMDgzNzQzOTc4NTY3NjgzMTgx
+	IiB1bmlxdWVOYW1lPSJZT1FMIiBjdkluMVV1aWQ9IjAiIGN2SW4xT3V0PSIwIiBjdklu
+	MU1vZGU9IjEiIGN2SW4yVXVpZD0iMCIgY3ZJbjJPdXQ9IjAiIGN2SW4yTW9kZT0iMSIg
+	Y3ZJbjNVdWlkPSIwIiBjdkluM091dD0iMCIgY3ZJbjNNb2RlPSIxIiBjdkluNFV1aWQ9
+	IjAiIGN2SW40T3V0PSIwIiBjdkluNE1vZGU9IjEiIGN2SW41VXVpZD0iMCIgY3ZJbjVP
+	dXQ9IjAiIGN2SW41TW9kZT0iMSI+PFBBUkFNIGlkPSJhY3RpdmUiIHZhbHVlPSIxLjAi
+	Lz48UEFSQU0gaWQ9ImN2QXR0ZW4xIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0iY3ZB
+	dHRlbjIiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMyIgdmFsdWU9IjEw
+	LjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW40IiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0i
+	Y3ZBdHRlbjUiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJkcml2ZSIgdmFsdWU9IjAu
+	MCIvPjxQQVJBTSBpZD0iZW52ZWxvcGUiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9ImZt
+	IiB2YWx1ZT0iNi44NTQ4NDM2MTY0ODU1OTYiLz48UEFSQU0gaWQ9ImZyZXF1ZW5jeSIg
+	dmFsdWU9IjcuMDQzMTI2MTA2MjYyMjA3Ii8+PFBBUkFNIGlkPSJsaW5rR2FpbnMiIHZh
+	bHVlPSIwLjAiLz48UEFSQU0gaWQ9Im1peCIgdmFsdWU9IjEwLjAiLz48UEFSQU0gaWQ9
+	Im1vZHVsYXRpb24iIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9Im91dHB1dCIgdmFsdWU9
+	IjAuMCIvPjxQQVJBTSBpZD0ic3luYyIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0idHlw
+	ZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0id2F2ZWZvcm0iIHZhbHVlPSIwLjAiLz48
+	L01GMTA3Uz4A
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>FM Gongs </string>
+	<key>subtype</key>
+	<integer>1296447315</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

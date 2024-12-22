@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CSoftubeAUInterfacePluginState</key>
+	<data>
+	CiQ1MDUzNDI1MjIwNDM2ODc1NkU2QjczMjAzNDRDNDk0NjQ1MjESAggBGAEq0QIotS/9
+	YNwAPQoA8g8/LkB5A8MwDLaCl3KPG6Tsogl/vk6YFciveKNIoqJQweIqoxgxK+UkNBWy
+	plLrZQv8sJK4Kzd0XHct8t4jMAsK2ah6juca9WdYJaduoO9qUjIJRYIJk99NzAFvXHA3
+	lP06t+PhekMdL/Zj+etumwfDtEJc7RP0l0jg/L3oEjTrOplNt1063bMKju3XFM+3d4ZN
+	8RvXsO09wapb6ZZrTrtWS6MvCoE+ng5no8l8zMVSodCbafcTCQe4EQiXLmve8wiJ5h98
+	NFN6R9tgLBQJxCG5MvpuoJ/Hi+cFzhLoDlTkBwJWxtXzgVYRAPAsL/SVs52OIll+0Flm
+	yzY7S20DMKghrCRS23/OAfBIiMwBQIUUPAanRO26lcqgyrEq3vmvDLhMnongFkk/iI90
+	hoHsIYxwk4hcURCWcmk+3n7U7WH2evU80dc/
+	</data>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAArAAAAAD7Nmz0AAAABAAAAAAAAAAI/gAAAAAAAAz0hQnAAAAAEP4AA
+	AAAAAAU+JcoqAAAABj+AAAAAAAAHAAAAAAAAAAg+xYseAAAACQAAAAAAAAAKPp06ggAA
+	AAsAAAAAAAAADD+AAAAAAAANPsWLHgAAAA4AAAAAAAAADz+AAAAAAAAQP4AAAAAAABE+
+	xYseAAAAEgAAAAAAAAATPytWqAAAABQ/Fy5aAAAAFT7Vq1wAAAAWAAAAAAAAABc/gAAA
+	AAAAGD8AAAAAAAAZAAAAAAAAABo+I9cKAAAAGz8AAAAAAAAcPwAAAAAAAB0AAAAAAAAA
+	HgAAAAAAAAAfP4AAAAAAACAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoAAAAAAAAACk/AAAAAAAAKj+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1399215202</integer>
+	<key>name</key>
+	<string>A75 Pluck Bell F </string>
+	<key>subtype</key>
+	<integer>1902340215</integer>
+	<key>type</key>
+	<integer>1635085685</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

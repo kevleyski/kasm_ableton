@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAYAAGiNT5MzM0AAaZcPwAAAAA1TOA/CAm9ADZSzT6///4ANmlyAAAA
+	AAA2jzoAAAAAA7eUuj+AAAADt5S7P4AAAAO3lLw/gAAAA7eUvT+AAAADt5S+P4AAAAVz
+	DnAAAAAABbaZij8AAAAGdDk9AAAAABN0CgUAAAAAGR9OyD+AAAAd1HD6AAAAACsvfwY/
+	gAAAK7pQWAAAAABEERkBPwAAAEvs8EoAAAAAZAnOvgAAAAB0leuFAAAAAH4hVwAAAAAA
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIesEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDRTIG5hbWU9IlBhcmFkaWRkbGVzIiB2ZXJzaW9uPSIzIiBpbnN0YW5jZVdpZHRoPSIz
+	ODQiIGluc3RhbmNlSGVpZ2h0PSI2MzQiIHVuaXF1ZUlkPSIyMTI3OTg2NTIzODg3MjAx
+	MzQzIiB1bmlxdWVOYW1lPSJXRUdUIiBjdkluMVV1aWQ9IjAiIGN2SW4xT3V0PSIwIiBj
+	dkluMU1vZGU9IjEiIGN2SW4yVXVpZD0iMCIgY3ZJbjJPdXQ9IjAiIGN2SW4yTW9kZT0i
+	MSIgY3ZJbjNVdWlkPSIwIiBjdkluM091dD0iMCIgY3ZJbjNNb2RlPSIxIiBjdkluNFV1
+	aWQ9IjAiIGN2SW40T3V0PSIwIiBjdkluNE1vZGU9IjEiIGN2SW41VXVpZD0iMCIgY3ZJ
+	bjVPdXQ9IjAiIGN2SW41TW9kZT0iMSI+PFBBUkFNIGlkPSJhbW91bnQiIHZhbHVlPSIx
+	LjgxOTU5ODA3ODcyNzcyMiIvPjxQQVJBTSBpZD0iYWN0aXZlIiB2YWx1ZT0iMS4wIi8+
+	PFBBUkFNIGlkPSJkZWxheVN5bmMiIHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9ImRyaXZl
+	IiB2YWx1ZT0iMy43MTEyMTc4ODAyNDkwMjMiLz48UEFSQU0gaWQ9ImZlZWRiYWNrIiB2
+	YWx1ZT0iNi40OTg3NDk3MzI5NzExOTEiLz48UEFSQU0gaWQ9ImxmbyIgdmFsdWU9IjUu
+	MCIvPjxQQVJBTSBpZD0ibGZvUG9sYXJpdHkiIHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9
+	Imxmb1N5bmMiIHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9ImxpbmtHYWlucyIgdmFsdWU9
+	IjAuMCIvPjxQQVJBTSBpZD0ibWl4IiB2YWx1ZT0iNi40MTU0NjkxNjk2MTY2OTkiLz48
+	UEFSQU0gaWQ9Im91dHB1dCIgdmFsdWU9Ii0xLjA1OTMxNDcyNzc4MzIwMyIvPjxQQVJB
+	TSBpZD0icmFuZ2UiIHZhbHVlPSIxLjAiLz48UEFSQU0gaWQ9InJhdGUiIHZhbHVlPSI2
+	LjY5NDcxNTk3NjcxNTA4OCIvPjxQQVJBTSBpZD0ic3BpbGxvdmVyIiB2YWx1ZT0iMC4w
+	Ii8+PFBBUkFNIGlkPSJ0aW1lIiB2YWx1ZT0iNDIyLjQ4NTMyMTA0NDkyMTkiLz48UEFS
+	QU0gaWQ9InRpbWluZyIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0idG9uZSIgdmFsdWU9
+	IjEuMCIvPjxQQVJBTSBpZD0idHlwZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0iY3ZB
+	dHRlbjEiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuMiIgdmFsdWU9IjEw
+	LjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4zIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBpZD0i
+	Y3ZBdHRlbjQiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuNSIgdmFsdWU9
+	IjEwLjAiLz48UEFSQU0gaWQ9ImZlZWRiYWNrTW9kZSIvPjwvTUYxMDRTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Paradiddles </string>
+	<key>subtype</key>
+	<integer>1296446547</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

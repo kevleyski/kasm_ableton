@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAWAAGiNT5MzM0AAaZcPwAAAAA1TOA/AAAAADZSzT8AAAAANmlyAAAA
+	AAA2jzoAAAAAA7eUuj+AAAADt5S7P4AAAAO3lLw/gAAAA7eUvT+AAAADt5S+P4AAAAVz
+	DnAAAAAABbaZij8AAAAGWwl7AAAAAAZ0OT0AAAAAE3QKBQAAAAAd1HD6AAAAACsvfwY/
+	gAAAK7pQWD8AAABEERkBPwAAAEvs8EoAAAAAdJXrhT9ZmZo=
+	</data>
+	<key>element-name</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>0</key>
+			<string>Input</string>
+			<key>1</key>
+			<string>Side Chain Input</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>0</key>
+			<string>Output</string>
+		</dict>
+	</dict>
+	<key>jucePluginState</key>
+	<data>
+	VkMyIZEEAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TUYx
+	MDhTIG5hbWU9Ikxvc3MgT2YgQ29udHJvbCIgdmVyc2lvbj0iMyIgaW5zdGFuY2VXaWR0
+	aD0iMzg0IiBpbnN0YW5jZUhlaWdodD0iNjM0IiB1bmlxdWVJZD0iNjAyMzg1OTMxNTAz
+	NjgzOTEwMCIgdW5pcXVlTmFtZT0iS1VDTCIgY3ZJbjFVdWlkPSIwIiBjdkluMU91dD0i
+	MCIgY3ZJbjFNb2RlPSIxIiBjdkluMlV1aWQ9IjAiIGN2SW4yT3V0PSIwIiBjdkluMk1v
+	ZGU9IjEiIGN2SW4zVXVpZD0iMCIgY3ZJbjNPdXQ9IjAiIGN2SW4zTW9kZT0iMSIgY3ZJ
+	bjRVdWlkPSIwIiBjdkluNE91dD0iMCIgY3ZJbjRNb2RlPSIxIiBjdkluNVV1aWQ9IjAi
+	IGN2SW41T3V0PSIwIiBjdkluNU1vZGU9IjEiPjxQQVJBTSBpZD0iYW1vdW50IiB2YWx1
+	ZT0iMTAuMCIvPjxQQVJBTSBpZD0iYWN0aXZlIiB2YWx1ZT0iMS4wIi8+PFBBUkFNIGlk
+	PSJkZWxheVN5bmMiIHZhbHVlPSIwLjAiLz48UEFSQU0gaWQ9ImRyaXZlIiB2YWx1ZT0i
+	MTAuMCIvPjxQQVJBTSBpZD0iZmVlZGJhY2siIHZhbHVlPSI3LjU4Njg3NTkxNTUyNzM0
+	NCIvPjxQQVJBTSBpZD0ibGZvIiB2YWx1ZT0iNS4wIi8+PFBBUkFNIGlkPSJsZm9Qb2xh
+	cml0eSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0ibGZvU3luYyIgdmFsdWU9IjAuMCIv
+	PjxQQVJBTSBpZD0ibGlua0dhaW5zIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJtaXgi
+	IHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJvdXRwdXQiIHZhbHVlPSItNy4yNTk5OTk3
+	NTIwNDQ2NzgiLz48UEFSQU0gaWQ9InBoYXNlIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlk
+	PSJyYW5nZSIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0icmF0ZSIgdmFsdWU9IjQ5Ljk0
+	NTkwMzc3ODA3NjE3Ii8+PFBBUkFNIGlkPSJ0aW1lIiB2YWx1ZT0iMTAuMCIvPjxQQVJB
+	TSBpZD0idG9uZSIgdmFsdWU9IjAuMCIvPjxQQVJBTSBpZD0idHlwZSIgdmFsdWU9IjAu
+	MCIvPjxQQVJBTSBpZD0idGltaW5nIi8+PFBBUkFNIGlkPSJjdkF0dGVuMSIgdmFsdWU9
+	IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW4yIiB2YWx1ZT0iMTAuMCIvPjxQQVJBTSBp
+	ZD0iY3ZBdHRlbjMiIHZhbHVlPSIxMC4wIi8+PFBBUkFNIGlkPSJjdkF0dGVuNCIgdmFs
+	dWU9IjEwLjAiLz48UEFSQU0gaWQ9ImN2QXR0ZW41IiB2YWx1ZT0iMTAuMCIvPjwvTUYx
+	MDhTPgA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1299148647</integer>
+	<key>name</key>
+	<string>Loss Of Control </string>
+	<key>subtype</key>
+	<integer>1296447571</integer>
+	<key>type</key>
+	<integer>1635083896</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>
