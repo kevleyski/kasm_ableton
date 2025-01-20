@@ -312,7 +312,7 @@
 										<key>MacroActionType</key>
 										<string>SearchRegEx</string>
 										<key>Search</key>
-										<string>[\w\d,.'!?\\-]*[ ]?[\w\d,.'!?\\-]*</string>
+										<string>[\w\d,.'!?\\-]*[ ]?[\w\d,.'!?\\-]*[ ]?[\w\d,.'!?\\-]*[ ]?[\w\d,.'!?\\-]*</string>
 										<key>Source</key>
 										<string>Variable</string>
 										<key>Variable</key>
@@ -478,7 +478,7 @@
 				<key>CreationDate</key>
 				<real>759014480.425506</real>
 				<key>ModificationDate</key>
-				<real>759021326.64214694</real>
+				<real>759021534.63074195</real>
 				<key>Name</key>
 				<string>Kevs Korg Wavestation</string>
 				<key>Triggers</key>
