@@ -1,0 +1,726 @@
+{
+    "id": "application/vnd.ableton.plugin-configuration",
+    "version": "1.0",
+    "device-id": "device:au:instr:1399215202:1752381818:1635085685?n=Modular",
+    "mpe-enabled": true,
+    "mpe-settings": {
+        "zone-type": 0,
+        "first-note-channel": 1,
+        "last-note-channel": 15
+    },
+    "groups": [
+        {
+            "name": "Default",
+            "parameters": [
+                {
+                    "name": "Internal Change Counter",
+                    "id": 499,
+                    "x-slot": 0,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Wave Pitch",
+                    "id": 87,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 2-14",
+                    "id": 32,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Balance",
+                    "id": 89,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 2-10",
+                    "id": 28,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Synth Decay",
+                    "id": 85,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 2-16",
+                    "id": 34,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Synth Pitch",
+                    "id": 91,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 2-8",
+                    "id": 26,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Synth Type",
+                    "id": 83,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 3-2",
+                    "id": 36,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Input 1",
+                    "id": 93,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 2-6",
+                    "id": 24,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Wave Decay",
+                    "id": 81,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 3-4",
+                    "id": 38,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Input 3",
+                    "id": 95,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 2-4",
+                    "id": 22,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Output",
+                    "id": 97,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Wave Type",
+                    "id": 79,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 3-6",
+                    "id": 40,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 2-2",
+                    "id": 20,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "CV Amount",
+                    "id": 99,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Bend",
+                    "id": 77,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 3-8",
+                    "id": 42,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 1-16",
+                    "id": 18,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Audio Level",
+                    "id": 102,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Attack Type",
+                    "id": 75,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 3-10",
+                    "id": 44,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 1-14",
+                    "id": 16,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "CV3",
+                    "id": 104,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Decay",
+                    "id": 73,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 3-12",
+                    "id": 46,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 1-12",
+                    "id": 14,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Input 3",
+                    "id": 107,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Select Input",
+                    "id": 71,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 3-14",
+                    "id": 48,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 1-10",
+                    "id": 12,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Output",
+                    "id": 109,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Swing",
+                    "id": 69,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 3-16",
+                    "id": 50,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 1-8",
+                    "id": 10,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Mode 1",
+                    "id": 112,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Loop",
+                    "id": 67,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 4-2",
+                    "id": 52,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 1-6",
+                    "id": 8,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Gain 2",
+                    "id": 114,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 4-15",
+                    "id": 65,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 4-4",
+                    "id": 54,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 1-4",
+                    "id": 6,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "CV 1",
+                    "id": 116,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 4-11",
+                    "id": 61,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 1-1",
+                    "id": 3,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 1-2",
+                    "id": 4,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Mode 1",
+                    "id": 118,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 4-9",
+                    "id": 59,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 4-7",
+                    "id": 57,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Mode",
+                    "id": 1,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Gain 2",
+                    "id": 120,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 2-12",
+                    "id": 30,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 4-13",
+                    "id": 63,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Trig 3-11",
+                    "id": 45,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "CV2",
+                    "id": 103,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Select Input",
+                    "id": 72,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 1-11",
+                    "id": 13,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 1-15",
+                    "id": 17,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Input 4",
+                    "id": 108,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Pitch",
+                    "id": 76,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 3-7",
+                    "id": 41,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 3-15",
+                    "id": 49,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Time",
+                    "id": 98,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Length",
+                    "id": 68,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 1-7",
+                    "id": 9,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 2-3",
+                    "id": 21,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "CV 2",
+                    "id": 113,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Wave Pitch",
+                    "id": 80,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 3-3",
+                    "id": 37,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 4-3",
+                    "id": 53,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 2-7",
+                    "id": 25,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 4-14",
+                    "id": 64,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 1-3",
+                    "id": 5,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Synth Decay",
+                    "id": 92,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Gain 1",
+                    "id": 117,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Synth Pitch",
+                    "id": 84,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 2-15",
+                    "id": 33,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 4-10",
+                    "id": 60,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 2-11",
+                    "id": 29,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 4-6",
+                    "id": 56,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "CV 2",
+                    "id": 119,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Wave Decay",
+                    "id": 88,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Glide to Note",
+                    "id": 0,
+                    "x-slot": 15,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Volume",
+                    "id": 2,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Synth Type",
+                    "id": 90,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 2-9",
+                    "id": 27,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 3-1",
+                    "id": 35,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Mode 2",
+                    "id": 115,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Balance",
+                    "id": 82,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 4-16",
+                    "id": 66,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 4-1",
+                    "id": 51,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "CV 1",
+                    "id": 110,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 2-1",
+                    "id": 19,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 1-9",
+                    "id": 11,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Frequency",
+                    "id": 100,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 3-9",
+                    "id": 43,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Input 1",
+                    "id": 105,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Attack",
+                    "id": 74,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 4-8",
+                    "id": 58,
+                    "x-slot": 22,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Wave Type",
+                    "id": 86,
+                    "x-slot": 26,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 4-5",
+                    "id": 55,
+                    "x-slot": 26,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 1-5",
+                    "id": 7,
+                    "x-slot": 26,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 2-5",
+                    "id": 23,
+                    "x-slot": 26,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 3-5",
+                    "id": 39,
+                    "x-slot": 26,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Select Input",
+                    "id": 70,
+                    "x-slot": 26,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Trig 1-13",
+                    "id": 15,
+                    "x-slot": 28,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Harmonics",
+                    "id": 78,
+                    "x-slot": 28,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 3-13",
+                    "id": 47,
+                    "x-slot": 28,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Trig 2-13",
+                    "id": 31,
+                    "x-slot": 28,
+                    "y-slot": 3
+                },
+                {
+                    "name": "Input 2",
+                    "id": 94,
+                    "x-slot": 28,
+                    "y-slot": 3
+                },
+                {
+                    "name": "Trig 4-12",
+                    "id": 62,
+                    "x-slot": 29,
+                    "y-slot": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": "application/vnd.ableton.plugin-configuration",
+    "version": "1.0",
+    "device-id": "device:au:instr:1263489607:1098018895:1635085685?n=Arp%20Odyssey",
+    "mpe-enabled": true,
+    "mpe-settings": {
+        "zone-type": 0,
+        "first-note-channel": 1,
+        "last-note-channel": 15
+    },
+    "groups": [
+        {
+            "name": "Default",
+            "parameters": []
+        }
+    ]
+}

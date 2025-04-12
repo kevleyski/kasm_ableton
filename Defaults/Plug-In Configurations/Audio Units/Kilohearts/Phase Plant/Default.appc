@@ -1,0 +1,66 @@
+{
+    "id": "application/vnd.ableton.plugin-configuration",
+    "version": "1.0",
+    "device-id": "device:au:instr:543901811:1802528880:1635085685?n=Phase%20Plant",
+    "mpe-enabled": true,
+    "mpe-settings": {
+        "zone-type": 0,
+        "first-note-channel": 1,
+        "last-note-channel": 15
+    },
+    "groups": [
+        {
+            "name": "Default",
+            "parameters": [
+                {
+                    "name": "1: Shift",
+                    "id": 7,
+                    "x-slot": 0,
+                    "y-slot": 0
+                },
+                {
+                    "name": "2: Pitch LFO",
+                    "id": 8,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "3: Release",
+                    "id": 9,
+                    "x-slot": 0,
+                    "y-slot": 2
+                },
+                {
+                    "name": "4: Delay",
+                    "id": 10,
+                    "x-slot": 0,
+                    "y-slot": 3
+                },
+                {
+                    "name": "5: Arp",
+                    "id": 11,
+                    "x-slot": 1,
+                    "y-slot": 0
+                },
+                {
+                    "name": "Macro 6",
+                    "id": 12,
+                    "x-slot": 1,
+                    "y-slot": 1
+                },
+                {
+                    "name": "Macro 7",
+                    "id": 13,
+                    "x-slot": 1,
+                    "y-slot": 2
+                },
+                {
+                    "name": "Macro 8",
+                    "id": 14,
+                    "x-slot": 1,
+                    "y-slot": 3
+                }
+            ]
+        }
+    ]
+}

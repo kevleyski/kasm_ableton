@@ -1,0 +1,17 @@
+{
+    "id": "application/vnd.ableton.plugin-configuration",
+    "version": "1.0",
+    "device-id": "device:au:instr:1098019957:1131627386:1635085685?n=CZ%20V",
+    "mpe-enabled": true,
+    "mpe-settings": {
+        "zone-type": 0,
+        "first-note-channel": 1,
+        "last-note-channel": 15
+    },
+    "groups": [
+        {
+            "name": "Default",
+            "parameters": []
+        }
+    ]
+}
