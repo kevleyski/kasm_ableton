@@ -1,0 +1,114 @@
+{
+    "id": "application/vnd.ableton.plugin-configuration",
+    "version": "1.0",
+    "device-id": "device:au:instr:760105261:1315513416:1635085685?n=Massive%20X",
+    "mpe-enabled": true,
+    "mpe-settings": {
+        "zone-type": 0,
+        "first-note-channel": 1,
+        "last-note-channel": 15
+    },
+    "groups": [
+        {
+            "name": "Default",
+            "parameters": [
+                {
+                    "name": "01 WT Pos",
+                    "id": 0,
+                    "x-slot": 0,
+                    "y-slot": 0
+                },
+                {
+                    "name": "02 Noise",
+                    "id": 1,
+                    "x-slot": 0,
+                    "y-slot": 1
+                },
+                {
+                    "name": "03 Cutoff",
+                    "id": 2,
+                    "x-slot": 0,
+                    "y-slot": 2
+                },
+                {
+                    "name": "04 Reso",
+                    "id": 3,
+                    "x-slot": 0,
+                    "y-slot": 3
+                },
+                {
+                    "name": "05 PhsMod",
+                    "id": 4,
+                    "x-slot": 1,
+                    "y-slot": 0
+                },
+                {
+                    "name": "06 PStep",
+                    "id": 5,
+                    "x-slot": 1,
+                    "y-slot": 1
+                },
+                {
+                    "name": "07 Reverb",
+                    "id": 6,
+                    "x-slot": 1,
+                    "y-slot": 2
+                },
+                {
+                    "name": "08 Delay",
+                    "id": 7,
+                    "x-slot": 1,
+                    "y-slot": 3
+                },
+                {
+                    "name": "09 Macro 9",
+                    "id": 8,
+                    "x-slot": 2,
+                    "y-slot": 0
+                },
+                {
+                    "name": "10 Macro 10",
+                    "id": 9,
+                    "x-slot": 2,
+                    "y-slot": 1
+                },
+                {
+                    "name": "11 Macro 11",
+                    "id": 10,
+                    "x-slot": 2,
+                    "y-slot": 2
+                },
+                {
+                    "name": "12 Macro 12",
+                    "id": 11,
+                    "x-slot": 2,
+                    "y-slot": 3
+                },
+                {
+                    "name": "13 Macro 13",
+                    "id": 12,
+                    "x-slot": 3,
+                    "y-slot": 0
+                },
+                {
+                    "name": "14 Macro 14",
+                    "id": 13,
+                    "x-slot": 3,
+                    "y-slot": 1
+                },
+                {
+                    "name": "15 Macro 15",
+                    "id": 14,
+                    "x-slot": 3,
+                    "y-slot": 2
+                },
+                {
+                    "name": "16 Macro 16",
+                    "id": 15,
+                    "x-slot": 3,
+                    "y-slot": 3
+                }
+            ]
+        }
+    ]
+}

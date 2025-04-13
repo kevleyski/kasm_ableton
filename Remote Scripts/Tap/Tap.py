@@ -1,4 +1,4 @@
-# 7III Tap
+# 7III Tap 1.1
 
 from __future__ import with_statement
 import Live
@@ -12,8 +12,8 @@ from _Framework.SliderElement import SliderElement
 from _Framework.InputControlElement import MIDI_NOTE_TYPE, MIDI_NOTE_ON_STATUS, MIDI_NOTE_OFF_STATUS, MIDI_CC_TYPE
 from _Framework.DeviceComponent import DeviceComponent
 from ableton.v2.base import listens, liveobj_valid, liveobj_changed
+from Live.Clip import MidiNoteSpecification
 
-import time
 import threading
 import random
 from itertools import zip_longest
@@ -36,20 +36,25 @@ class Tap(ControlSurface):
             self.mixer_status = False
             self.mixer_reset = True
             self.device_status = True
+            self.seq_status = False
+            self.seq_clip_playing_status = 2
             track_count = 127
             return_count = 12  # Maximum of 12 Sends and 12 Returns
             max_clip_slots = 800  # Adjust this number based on your needs
             self.playing_position_listeners = [None] * max_clip_slots
             self.current_clip_notes = []
-            self.current_clip = None
+            self.last_selected_clip_slot = None
             self.last_raw_notes = None
             self.currently_playing_notes = [False] * 128
             self.last_playing_position = 0.0
+            self.last_sent_out_playing_pos = 0.0
+            self.clip_length_trick = 220.0
+            self.clip_start_trick = -100.0
             mixer = MixerComponent(track_count, return_count)
             transport = TransportComponent()
             session_component = SessionComponent()
             self.old_clips_array = []
-
+            self._drum_rack_device = None
             self.was_initialized = False
             # connection check button
             connection_check_button = ButtonElement(1, MIDI_NOTE_TYPE, 15, 94)
@@ -57,6 +62,9 @@ class Tap(ControlSurface):
             # send project again button
             send_project_button = ButtonElement(1, MIDI_NOTE_TYPE, 15, 88)
             send_project_button.add_value_listener(self._send_project)
+            
+            # making a song instance
+            self.song_instance = self.song()
 
     def _setup_device_control(self):
         self._device = DeviceComponent()
@@ -91,9 +99,61 @@ class Tap(ControlSurface):
                     if drum_rack is not None:
                         return drum_rack
         return None
+    
+    def _setup_drum_pad_listeners(self):
+        if self._drum_rack_device:
+            self._send_all_drum_pad_names()
+            for pad in self._drum_rack_device.drum_pads:
+                if not pad.name_has_listener(self._send_all_drum_pad_names):
+                    pad.add_name_listener(self._send_all_drum_pad_names)
 
+    def _remove_drum_pad_name_listeners(self):
+        if self._drum_rack_device:
+            for pad in self._drum_rack_device.drum_pads:
+                if pad.name_has_listener(self._send_all_drum_pad_names):
+                    pad.remove_name_listener(self._send_all_drum_pad_names)
+
+    def _send_all_drum_pad_names(self):
+        if not self._drum_rack_device:
+            return
+    
+        pads = self._drum_rack_device.drum_pads
+    
+        # Find the first and last pad with chains using the .note property
+        first_with_chain = None
+        last_with_chain = None
+    
+        for pad in pads:
+            if pad.chains:
+                first_with_chain = pad
+                break
+    
+        for pad in reversed(pads):
+            if pad.chains:
+                last_with_chain = pad
+                break
+                
+        if first_with_chain and last_with_chain:
+            first_index = first_with_chain.note
+            last_index = last_with_chain.note
+        
+            pad_names = []
+            
+            # Add index of first chain pad
+            pad_names.append(str(first_index))
+            for pad in pads[first_index:last_index + 1]:
+                if pad.chains:
+                    pad_names.append(pad.name)
+                else:
+                    pad_names.append(str(pad.note))
+            self._send_sys_ex_message(",".join(pad_names), 0x11)
+            
     @subject_slot('device')
     def _on_device_changed(self):
+        if self._drum_rack_device:
+            self._remove_drum_pad_name_listeners()
+            self._drum_rack_device = None
+            
         if liveobj_valid(self._device):
             # device = self._device.device()  # Retrieve the Device object
             # get and send name of bank and device
@@ -106,7 +166,10 @@ class Tap(ControlSurface):
             drum_rack_device = self._find_drum_rack_in_track(selected_track)
             if drum_rack_device is not None:
                 track_has_drums = 1
-
+                # set up drum pad names, with listener
+                self._drum_rack_device = drum_rack_device
+                self._setup_drum_pad_listeners()
+                
             # find index of device
             selected_device_index = self._find_device_index(selected_device, available_devices)
             # self.log_message("Selected Device Index: {}".format(selected_device_index))
@@ -168,7 +231,7 @@ class Tap(ControlSurface):
         status_byte = 0xF0  # SysEx message start
         end_byte = 0xF7  # SysEx message end
         device_id = 0x01
-        data = name_string.encode('ascii')
+        data = name_string.encode('ascii', errors='ignore')
         max_chunk_length = 250
         if len(data) <= max_chunk_length:
             sys_ex_message = (status_byte, manufacturer_id, device_id) + tuple(data) + (end_byte, )
@@ -279,6 +342,22 @@ class Tap(ControlSurface):
         # device view status
         device_view_status = ButtonElement(1, MIDI_NOTE_TYPE, 15, 89)
         device_view_status.add_value_listener(self._update_device_status)
+        # step seq status
+        step_seq_status = ButtonElement(1, MIDI_NOTE_TYPE, 15, 87)
+        step_seq_status.add_value_listener(self._update_step_seq)
+        # adding empty clip
+        add_empty_clip_button = ButtonElement(1, MIDI_NOTE_TYPE, 15, 86)
+        add_empty_clip_button.add_value_listener(self._add_empty_clip)
+        # creating new empty clip
+        create_empty_clip_button = ButtonElement(1, MIDI_NOTE_TYPE, 15, 85)
+        create_empty_clip_button.add_value_listener(self._create_new_empty_clip)
+        # selecting playing clip
+        select_playing_clip_button = ButtonElement(1, MIDI_NOTE_TYPE, 15, 84)
+        select_playing_clip_button.add_value_listener(self._select_playing_clip)
+        # cropping selected clip
+        crop_clip_button = ButtonElement(1, MIDI_NOTE_TYPE, 15, 83)
+        crop_clip_button.add_value_listener(self._crop_clip)
+        
 
     def send_note_on(self, note_number, channel, velocity):
         channel_byte = channel & 0x7F
@@ -315,7 +394,6 @@ class Tap(ControlSurface):
                 self._on_selected_track_changed.subject = song.view
                 # updating scale
                 self._on_scale_changed()
-
                 # track = self.song().view.selected_track
                 # track.view.add_selected_device_listener(self._on_selected_device_changed)
                 song.add_tracks_listener(self._on_tracks_changed)  # hier für return tracks: .add_return_tracks_listener()
@@ -326,6 +404,12 @@ class Tap(ControlSurface):
                 self._register_clip_listeners()
                 self.periodic_timer = 1
                 self._periodic_execution()
+            
+            # hack to get new tracks if we have a new song.
+            current_song = self.song()
+            if current_song != self.song_instance:
+               self._on_tracks_changed()
+               self.song_instance = current_song
 
     def _send_project(self, value):
         if value:
@@ -341,7 +425,8 @@ class Tap(ControlSurface):
     def _periodic_check(self):
         # update clip slots
         # we only need to update clip slots periodically when we are in clip slots view
-        if self.device_status is False and self.mixer_status is False:
+        # meaning not in the device view
+        if self.device_status is False:
             self._update_clip_slots()
 
     def _redo_button_value(self, value):
@@ -404,6 +489,90 @@ class Tap(ControlSurface):
             current_index = list(all_scenes).index(selected_scene)
             song.duplicate_scene(current_index)
 
+    def _add_empty_clip(self, value):
+        """
+        Adds an empty clip at the currently highlighted track and scene.
+        The clip length matches the time signature numerator (one full bar).
+        """
+        if value != 0:
+            song = self.song()
+            selected_track = song.view.selected_track
+    
+            if selected_track is None:
+                return
+            
+            selected_scene = song.view.selected_scene
+            all_scenes = song.scenes
+            scene_index = list(all_scenes).index(selected_scene)
+        
+            clip_slot = selected_track.clip_slots[scene_index]
+            
+            if clip_slot.has_clip:
+                return  # Avoid overwriting an existing clip
+            
+            clip_length = song.signature_numerator  # Use the time signature numerator for one full bar
+            clip_slot.create_clip(clip_length)
+    
+    def _create_new_empty_clip(self, value):
+        """
+        Creates an empty clip at the next empty the slot in the currently highlighted track.
+        The clip length matches the time signature numerator (one full bar).
+        """
+        if value != 0:
+            song = self.song()
+            selected_track = song.view.selected_track
+    
+            if selected_track is None:
+                return
+            
+            selected_scene = song.view.selected_scene
+            all_scenes = song.scenes
+            scene_index = list(all_scenes).index(selected_scene)
+            destination_scene_index = len(all_scenes)
+    
+            # check if there is a free clip slot after the current clip
+            for index, clip_slot in enumerate(selected_track.clip_slots):
+                if index <= scene_index:
+                    continue
+                if clip_slot.has_clip:
+                    continue
+                destination_scene_index = index
+                break
+    
+            if destination_scene_index == len(all_scenes):
+                # create a new scene if there is no free slot after the current slot
+                song.create_scene(-1)
+        
+            # adding empty clip at next empty scene
+            clip_slot = selected_track.clip_slots[destination_scene_index]
+            clip_length = song.signature_numerator  # Use the time signature numerator for one full bar
+            clip_slot.create_clip(clip_length)
+            
+            # selecting the empty scene
+            song.view.selected_scene = song.scenes[destination_scene_index]
+    
+    def _select_playing_clip(self, value):
+        if value != 0:
+            song = self.song()
+            selected_track = song.view.selected_track
+    
+            if selected_track is None:
+                return
+            
+            for index, clip_slot in enumerate(selected_track.clip_slots):
+                if clip_slot.is_playing:
+                    song.view.selected_scene = song.scenes[index]
+                    break
+    
+    def _crop_clip(self, value):
+        if value != 0:
+            song = self.song()
+            clip_slot = song.view.highlighted_clip_slot
+            
+            if clip_slot and clip_slot.has_clip:
+                clip = clip_slot.clip
+                clip.crop()
+    
     def _duplicate_clip(self):
         song = self.song()
         selected_track = song.view.selected_track
@@ -443,35 +612,40 @@ class Tap(ControlSurface):
 
     @subject_slot('selected_track')
     def _on_selected_track_changed(self):
-        selected_track = self.song().view.selected_track
-        track_has_midi_input = 0
-        if selected_track and selected_track.has_midi_input:
-            self._set_selected_track_implicit_arm()
-            track_has_midi_input = 1
-        self._set_up_notes_playing(selected_track)
-        # update device thing when we have no device on the selected track
-        # TODO: check if wee need this!
-        if selected_track.has_midi_output or not selected_track.has_midi_input:
-            self._on_device_changed()
-        self._set_other_tracks_implicit_arm()
-        # send new index of selected track
-        self._send_selected_track_index(selected_track)
-        self._on_selected_scene_changed()
-        # send sys ex of track midi input status.
-        self._send_sys_ex_message(str(track_has_midi_input), 0x0B)
-        # TODO: this part doesn't seem to work? how can I make this work with master and return?
-        device_to_select = selected_track.view.selected_device
-        if device_to_select is None and len(selected_track.devices) > 0:
-            device_to_select = selected_track.devices[0]
-        if device_to_select is not None:
-            self.song().view.select_device(device_to_select)
-        self._device_component.set_device(device_to_select)
+        if self.was_initialized:
+            selected_track = self.song().view.selected_track
+            track_has_midi_input = 0
+            if selected_track and selected_track.has_midi_input:
+                self._set_selected_track_implicit_arm()
+                track_has_midi_input = 1
+            self._set_up_notes_playing(selected_track)
+            # update device thing when we have no device on the selected track
+            # TODO: check if wee need this!
+            if selected_track.has_midi_output or not selected_track.has_midi_input:
+                self._on_device_changed()
+            self._set_other_tracks_implicit_arm()
+            # send new index of selected track
+            self._send_selected_track_index(selected_track)
+            self._on_selected_scene_changed()
+            # send sys ex of track midi input status.
+            self._send_sys_ex_message(str(track_has_midi_input), 0x0B)
+            # TODO: this part doesn't seem to work? how can I make this work with master and return?
+            device_to_select = selected_track.view.selected_device
+            if device_to_select is None and len(selected_track.devices) > 0:
+                device_to_select = selected_track.devices[0]
+            if device_to_select is not None:
+                self.song().view.select_device(device_to_select)
+            self._device_component.set_device(device_to_select)
+            self._check_clip_playing_status()
+            if self.seq_status:
+                if self.device_status:
+                    self.start_step_seq()
 
     def _set_up_notes_playing(self, selected_track):
         if selected_track != "clip":
             # remove old clip playing position listeners
             for track in self.song().tracks:
-                if track != selected_track:
+                if track is not selected_track:
                     for (clip_index, clip_slot) in enumerate(track.clip_slots):
                         if clip_slot is not None and clip_slot.has_clip:
                             if clip_slot.clip.playing_position_has_listener(self.playing_position_listeners[clip_index]):
@@ -489,10 +663,31 @@ class Tap(ControlSurface):
                         self.playing_position_listeners[clip_index] = listener
                         clip_slot.clip.add_playing_position_listener(listener)
 
+    def _check_clip_playing_status(self):
+        song = self.song()
+        selected_track = song.view.selected_track
+        highlighted_clip_slot_playing = getattr(song.view.highlighted_clip_slot, 'is_playing', False)
+        
+        if highlighted_clip_slot_playing:
+            # Ensure status is 0 if the highlighted clip is playing
+            new_status = 0
+        else:
+            # Check if any other clip is playing
+            another_clip_playing = any(clip_slot.is_playing for clip_slot in selected_track.clip_slots if clip_slot.has_clip)
+            new_status = 1 if another_clip_playing else 2
+        
+        # Update status only if it has changed
+        if self.seq_clip_playing_status != new_status:
+            self.seq_clip_playing_status = new_status
+            velocity_map = {0: 100, 1: 200, 2: 300}
+            velocity = velocity_map[new_status] & 0x7F
+            self.send_note_on(2, 3, velocity)
+
     def _clip_pos_changed(self, clip_index):
         # Only check and send things if we are in device view
         if self.device_status:
-            selected_track = self.song().view.selected_track
+            song = self.song()
+            selected_track = song.view.selected_track
 
             if clip_index < len(selected_track.clip_slots):
                 clip_slot = selected_track.clip_slots[clip_index]
@@ -500,15 +695,16 @@ class Tap(ControlSurface):
                 if clip_slot is not None and clip_slot.has_clip:
                     clip_playing = clip_slot.clip
                     
-                    start_time = clip_playing.start_marker
-                    time_span = clip_playing.length
-
+                    time_span = max(self.clip_length_trick, clip_playing.loop_end, clip_playing.end_marker, clip_playing.length)
+                    loop_start = clip_playing.loop_start
+                    clip_start = min(self.clip_start_trick, clip_playing.start_time, clip_playing.start_marker, loop_start)
+                    
                     try:
                         # Get all the notes in the clip
-                        current_raw_notes = clip_playing.get_notes_extended(0, 128, start_time, time_span)
-
+                        current_raw_notes = clip_playing.get_notes_extended(0, 128, clip_start, time_span)
+                        
                         # if the current clip has different notes save the new notes.
-                        if current_raw_notes != self.last_raw_notes:
+                        if current_raw_notes is not self.last_raw_notes:
                             self.last_raw_notes = current_raw_notes
 
                             # Reset the current clip notes array
@@ -517,58 +713,74 @@ class Tap(ControlSurface):
                             for midi_note in current_raw_notes:
                                 pitch = midi_note.pitch
                                 duration = midi_note.duration
-                                start_time = midi_note.start_time
+                                note_start_time = midi_note.start_time
                                 # Process note properties as needed
                                 # self.log_message("Note: Pitch {}, Start Time {}, Duration {}".format(pitch, start_time, duration))
-                                end_time = start_time + duration
-                                self.current_clip_notes.append([pitch, start_time, end_time])
+                                end_time = note_start_time + duration
+                                self.current_clip_notes.append([pitch, note_start_time, end_time])
 
                         # check which notes are playing at position
                         # if we detect changes send them out to app
                         clip_position = clip_playing.playing_position
-
-                        # making sure we have the right starting position
-                        if self.last_playing_position > clip_position:
-                            loop_start = clip_playing.loop_start
-                            if clip_position >= loop_start:
-                                self.last_playing_position = loop_start
+                        
+                        # clip status no mater the seq_status
+                        self._check_clip_playing_status()
+                        
+                        if self.seq_status:
+                            if song.view.highlighted_clip_slot.is_playing:
+                                self.send_out_playing_pos(clip_position)
+                                self.last_sent_out_playing_pos = clip_position
                             else:
-                                self.last_playing_position = clip_playing.start_marker
-
-                        # check if currently playing notes are still playing in this playing position
-                        for (note_index, is_playing) in enumerate(self.currently_playing_notes):
-                            if is_playing:
-                                # Initialize a flag to indicate if a playing note was found
-                                found_playing_note = False
-
-                                # Find the notes that stopped playing in since the last update
-                                for note in self.current_clip_notes:
-                                    pitch, start_time, end_time = note
-
-                                    if start_time <= self.last_playing_position and clip_position < end_time and pitch == note_index:
-                                        # Note is still playing
-                                        found_playing_note = True
-                                        break
-
-                                # If no playing note was found, update the state
-                                if not found_playing_note:
-                                    self.currently_playing_notes[note_index] = False
-                                    # send note off for note_index note.
-                                    # self.log_message("Note off: {}".format(note_index))
-                                    self.send_note_off(note_index, 0, 100)
-
-                        # check current clip notes array which notes are on for that playing position
-                        for note in self.current_clip_notes:
-                            pitch, start_time, end_time = note
-                            if self.last_playing_position <= start_time <= clip_position:
-                                # note starts playing
-                                self.currently_playing_notes[pitch] = True
-                                # send midi note on
-                                # self.log_message("Note on: {}".format(pitch))
-                                self.send_note_on(pitch, 0, 100)
-                        # update last playing position
-                        self.last_playing_position = clip_position
-                    except:
+                                # reseting the playing position
+                                if self.last_sent_out_playing_pos != 0.0:
+                                    self.last_sent_out_playing_pos = 0.0
+                                    self.send_out_playing_pos(self.last_sent_out_playing_pos)
+                                
+                        else:
+                            # making sure we have the right starting position, when jumping back to the start of clip or loop
+                            if self.last_playing_position > clip_position:
+                                if clip_position >= loop_start:
+                                    self.last_playing_position = loop_start
+                                else:
+                                    self.last_playing_position = clip_playing.start_marker
+    
+                            # check if currently playing notes are still playing in this playing position
+                            for (note_index, is_playing) in enumerate(self.currently_playing_notes):
+                                if is_playing:
+                                    # Initialize a flag to indicate if a playing note was found
+                                    found_playing_note = False
+    
+                                    # Find the notes that stopped playing in since the last update
+                                    for note in self.current_clip_notes:
+                                        pitch, note_start_time, end_time = note
+    
+                                        if note_start_time <= self.last_playing_position and clip_position < end_time and pitch == note_index:
+                                            # Note is still playing
+                                            found_playing_note = True
+                                            break
+    
+                                    # If no playing note was found, update the state
+                                    if not found_playing_note:
+                                        self.currently_playing_notes[note_index] = False
+                                        # send note off for note_index note.
+                                        # self.log_message("Note off: {}".format(note_index))
+                                        self.send_note_off(note_index, 0, 100)
+    
+                            # check current clip notes array which notes are on for that playing position
+                            for note in self.current_clip_notes:
+                                pitch, note_start_time, end_time = note
+                                if self.last_playing_position <= note_start_time <= clip_position:
+                                    # note starts playing
+                                    self.currently_playing_notes[pitch] = True
+                                    # send midi note on
+                                    # self.log_message("Note on: {}".format(pitch))
+                                    self.send_note_on(pitch, 0, 100)
+                            # update last playing position
+                            self.last_playing_position = clip_position
+                    except Exception as e:
+                        self.log_message(f"Exception for clip position changed: {str(e)}")
+                        import traceback
+                        self.log_message(traceback.format_exc())
                         pass
                 # else:
                     # self.log_message("No valid clip in the slot.")
@@ -665,11 +877,19 @@ class Tap(ControlSurface):
         for index, track in enumerate(self.song().tracks):
             # track names
             track_names.append(track.name)
-            # is audio track
-            if track.has_audio_input:
-                track_is_audio.append("1")
+            # check if it's a group track or a grouped track member
+            # TODO: - we would actually also need a number string for grouped groups, where a track is a group slot but also grouped.
+            if any(clip_slot.is_group_slot for clip_slot in track.clip_slots):
+                track_is_audio.append("2")  # Group Track
+            elif track.is_grouped:
+                if track.has_audio_input:
+                    track_is_audio.append("4") # Grouped Audio Track
+                else:
+                    track_is_audio.append("3")  # Grouped MIDI Track
+            elif track.has_audio_input:
+                track_is_audio.append("1")  # Regular Audio Track
             else:
-                track_is_audio.append("0")
+                track_is_audio.append("0")  # Regular MIDI Track
             # track colors
             color_string = self._make_color_string(track.color)
             track_colors.append(color_string)
@@ -950,9 +1170,11 @@ class Tap(ControlSurface):
                         clip_value = "1"
 
                     color_string_value = "0"
-
+                    
+                    # this could also just be made to if value == "1", but does not hurt this way
                     if clip_value != "0":
-                        if clip_slot.clip.color is not None:
+                        # extra test if has clip because group channels don't have a clip but might be triggered etc
+                        if clip_slot.clip and clip_slot.clip.color is not None:
                             color_string_value = self._make_color_string(clip_slot.clip.color)
                     #     playing_position = clip_slot.clip.playing_position
                     #     length = clip_slot.clip.length
@@ -986,6 +1208,8 @@ class Tap(ControlSurface):
         except:
             # need to stop threading or we get a fatal error.
             # self.periodic_timer = 0
+            self.log_message("Exception for Update Clip Slots")
+
             pass
 
     def _on_scale_changed(self):
@@ -1021,6 +1245,137 @@ class Tap(ControlSurface):
             values = self.extract_values_from_sysex_message(message)
             if len(values) == 2:
                 self._duplicate_loop(values[0], values[1])
+        
+        # add note
+        if len(message) >= 2 and message[1] == 14:
+            # Decode the note data
+            index = 2
+            # Decode the pitch of the note
+            note_pitch = message[index]
+            index += 1
+        
+            # Decode the start time (variable-length value)
+            start_time = self._from_3_7bit_bytes(message, index)
+            index += 3
+        
+            # Decode the duration (variable-length value)
+            duration = self._from_3_7bit_bytes(message, index)
+            index += 3
+        
+            # Decode the velocity (single byte)
+            velocity = message[index]
+            index += 1
+        
+            # Decode mute and probability
+            mute_and_probability = message[index]
+            mute = (mute_and_probability & 0x80) != 0
+            probability = (mute_and_probability & 0x7F) / 127.0
+        
+            # Get the selected clip
+            song = self.song()
+            clip_slot = song.view.highlighted_clip_slot
+            if clip_slot is not None and clip_slot.has_clip:
+                clip = clip_slot.clip
+                
+                # Create a MidiNoteSpecification object
+                note_spec = MidiNoteSpecification(
+                    pitch=note_pitch,
+                    start_time=start_time / 1000.0,
+                    duration=duration / 1000.0,
+                    velocity=velocity,
+                    mute=mute,
+                    probability=probability
+                )
+                
+                # Add the note to the clip
+                clip.add_new_notes([note_spec])
+        
+        # remove note
+        if len(message) >= 2 and message[1] == 15:
+            # Decode the note ID
+            note_id = message[2] | (message[3] << 7)
+        
+            # Get the selected clip
+            song = self.song()
+            clip_slot = song.view.highlighted_clip_slot
+            if clip_slot is not None and clip_slot.has_clip:
+                clip = clip_slot.clip
+        
+                # Remove the note by ID
+                clip.remove_notes_by_id([note_id])
+        
+        # modify ONE note
+        if len(message) >= 2 and message[1] == 16:
+            # Decode the note ID and data
+            note_id = message[2] | (message[3] << 7)
+            pitch = message[4]
+
+            # Decode start time (variable-length value)
+            index = 5
+            start_time_raw = self._from_3_7bit_bytes(message, index)
+            start_time = start_time_raw / 1000.0
+            index += 3
+            
+            # Decode duration (variable-length value)
+            duration_raw = self._from_3_7bit_bytes(message, index)
+            duration = duration_raw / 1000.0
+            index += 3
+            
+            # Decode velocity (single byte)
+            velocity = message[index]
+            index += 1
+            
+            # Decode mute and probability
+            mute = bool(message[index] & 0x80)
+            probability = (message[index] & 0x7F) / 127.0
+        
+            # Get the selected clip
+            song = self.song()
+            clip_slot = song.view.highlighted_clip_slot
+            if clip_slot is not None and clip_slot.has_clip:
+                clip = clip_slot.clip
+                
+                # Fetch existing notes from the clip
+                clip_length = max(self.clip_length_trick, clip.loop_end, clip.end_marker, clip.length)
+                clip_start = min(self.clip_start_trick, clip.start_time, clip.start_marker, clip.loop_start)
+                notes = clip.get_notes_extended(0, 128, clip_start, clip_length)
+        
+                # Modify the matching note
+                for note in notes:
+                    if note.note_id == note_id:
+                        note.pitch = pitch
+                        note.start_time = start_time
+                        note.duration = duration
+                        note.velocity = velocity
+                        note.mute = mute
+                        note.probability = probability
+                        break
+        
+                # Apply the modified notes back to the clip
+                clip.apply_note_modifications(notes)
+        # markers
+        if len(message) >= 2 and message[1] == 17:
+            # Decode the note ID and data
+            marker_id = message[2]
+            
+            # Decode start time (variable-length value)
+            index = 3
+            marker_time_raw = self._from_3_7bit_bytes(message, index)
+            marker_time = marker_time_raw / 1000.0
+            
+            # Get the selected clip
+            song = self.song()
+            clip_slot = song.view.highlighted_clip_slot
+            if clip_slot is not None and clip_slot.has_clip:
+                clip = clip_slot.clip
+                if marker_id == 0:
+                    clip.start_marker = marker_time
+                elif marker_id == 1:
+                    clip.end_marker = marker_time
+                elif marker_id == 2:
+                    clip.loop_start = marker_time
+                else:
+                    clip.loop_end = marker_time
 
     def decode_sys_ex_scale_root(self, message):
         scale_name_bytes = message[2:-2]
@@ -1098,6 +1453,8 @@ class Tap(ControlSurface):
         scenes_list = self.song().scenes
         new_index = self._find_track_index(selected_scene, scenes_list)
         self._send_selected_clip_slot(new_index)
+        if self.seq_status:
+            self.start_step_seq()
 
     def _send_selected_clip_slot(self, clip_index):
         self._send_sys_ex_message(str(clip_index), 0x10)
@@ -1140,9 +1497,271 @@ class Tap(ControlSurface):
     def _update_device_status(self, value):
         if value:
             self.device_status = True
+            self._check_clip_playing_status()
         else:
             self.device_status = False
+    
+    def _update_step_seq(self, value):
+        if value:
+            self.seq_status = True
+            self.start_step_seq()
+        else:
+           self.seq_status = False
+           self.stop_step_seq()
+    
+    def start_step_seq(self):
+        # getting the highlighted clip
+        song = self.song()
+        selected_clip_slot = song.view.highlighted_clip_slot
+        self.send_selected_clip_metadata()
+        self.send_selected_clip_notes()
+        # self.log_message("Starting step seq")
+        if self.last_selected_clip_slot is not selected_clip_slot:
+            if self.last_selected_clip_slot is not None and self.last_selected_clip_slot.has_clip:
+                clip = self.last_selected_clip_slot.clip
+                
+                if clip.notes_has_listener(self.send_selected_clip_notes):
+                    # self.log_message("removing notes listener")
+                    clip.remove_notes_listener(self.send_selected_clip_notes)
 
+                if self.last_selected_clip_slot.has_clip_has_listener(self.on_highlighted_slot_changed):
+                    self.last_selected_clip_slot.remove_has_clip_listener(self.on_highlighted_slot_changed)
+                
+                self.remove_clip_metadata_listeners(clip)
+            
+            # updating last selected clip
+            self.last_selected_clip_slot = selected_clip_slot
+            if selected_clip_slot is not None:
+                if selected_clip_slot.has_clip:
+                    # add notes listener
+                    # self.log_message("adding notes listener")
+                    if not selected_clip_slot.clip.notes_has_listener(self.send_selected_clip_notes):
+                        selected_clip_slot.clip.add_notes_listener(self.send_selected_clip_notes)
+                    
+                    self.add_clip_metadata_listeners(selected_clip_slot.clip)
+                else:
+                    # TODO: create a clip slot listener that listens to clip changes
+                    if not selected_clip_slot.has_clip_has_listener(self.on_highlighted_slot_changed):
+                        selected_clip_slot.add_has_clip_listener(self.on_highlighted_slot_changed)
+                        # self.log_message("added a has clip listener")
+    
+    def add_clip_metadata_listeners(self, clip):
+        if not clip.end_marker_has_listener(self.send_selected_clip_metadata):
+            clip.add_end_marker_listener(self.send_selected_clip_metadata)
+        if not clip.start_marker_has_listener(self.send_selected_clip_metadata):
+            clip.add_start_marker_listener(self.send_selected_clip_metadata)
+        if not clip.loop_end_has_listener(self.send_selected_clip_metadata):
+            clip.add_loop_end_listener(self.send_selected_clip_metadata)
+        if not clip.loop_start_has_listener(self.send_selected_clip_metadata):
+            clip.add_loop_start_listener(self.send_selected_clip_metadata)
+        if not clip.signature_denominator_has_listener(self.send_selected_clip_metadata):
+            clip.add_signature_denominator_listener(self.send_selected_clip_metadata)
+        if not clip.signature_numerator_has_listener(self.send_selected_clip_metadata):
+            clip.add_signature_numerator_listener(self.send_selected_clip_metadata)
+        
+    def remove_clip_metadata_listeners(self, clip):
+        if clip.end_marker_has_listener(self.send_selected_clip_metadata):
+            clip.remove_end_marker_listener(self.send_selected_clip_metadata)
+        if clip.start_marker_has_listener(self.send_selected_clip_metadata):
+            clip.remove_start_marker_listener(self.send_selected_clip_metadata)
+        if clip.loop_end_has_listener(self.send_selected_clip_metadata):
+            clip.remove_loop_end_listener(self.send_selected_clip_metadata)
+        if clip.loop_start_has_listener(self.send_selected_clip_metadata):
+            clip.remove_loop_start_listener(self.send_selected_clip_metadata)
+        if clip.signature_denominator_has_listener(self.send_selected_clip_metadata):
+            clip.remove_signature_denominator_listener(self.send_selected_clip_metadata)
+        if clip.signature_numerator_has_listener(self.send_selected_clip_metadata):
+            clip.remove_signature_numerator_listener(self.send_selected_clip_metadata)
+    
+    def on_highlighted_slot_changed(self):
+        """
+        Adding note listener on a slot has clip listener slot once it gets a clip
+        """
+        song = self.song()
+        selected_clip_slot = song.view.highlighted_clip_slot
+        if selected_clip_slot.has_clip:
+            self.send_selected_clip_metadata()
+            self.send_selected_clip_notes()
+            # add notes listener
+            # self.log_message("slot now has a clip adding notes listener")
+            selected_clip_slot.clip.add_notes_listener(self.send_selected_clip_notes)
+            if selected_clip_slot.has_clip_has_listener(self.on_highlighted_slot_changed):
+                selected_clip_slot.remove_has_clip_listener(self.on_highlighted_slot_changed)
+    
+    def stop_step_seq(self):
+        song = self.song()
+        selected_clip_slot = song.view.highlighted_clip_slot
+        if selected_clip_slot is not None:
+            if selected_clip_slot.has_clip_has_listener(self.on_highlighted_slot_changed):
+                selected_clip_slot.remove_has_clip_listener(self.on_highlighted_slot_changed)
+            if selected_clip_slot.has_clip:
+                # remove notes listener
+                if selected_clip_slot.has_clip_has_listener(self.on_highlighted_slot_changed):
+                    selected_clip_slot.clip.remove_notes_listener(self.send_selected_clip_notes)
+                # remove metadata listeners
+                self.remove_clip_metadata_listeners(selected_clip_slot.clip)
+            
+        # reseting last selected clip
+        self.last_selected_clip_slot = None
+    
+    # Use 7-bit encoding for multi-byte values below 1000
+    def _to_2_7bit_bytes(self, value):
+        return [
+            value & 0x7F,           # Low 7 bits
+            (value >> 7) & 0x7F     # High 7 bits
+        ]
+    
+    def _to_3_7bit_bytes(self, value):
+        """
+        Convert an integer into 3 MIDI 7-bit bytes.
+        Uses the highest bit of the first byte as a sign indicator.
+        """
+        is_negative = value < 0
+        value = abs(value)
+        
+        if value > 0x1FFFFF:  # Cap at 2,097,151
+            value = 0x1FFFFF
+    
+        first_byte = (value >> 14) & 0x7F
+        if is_negative:
+            first_byte |= 0x40  # Set the sign bit for negative numbers
+    
+        return [first_byte, (value >> 7) & 0x7F, value & 0x7F]
+    
+    def _from_3_7bit_bytes(self, bytes_list, start_index=0):
+        """
+        Convert 3 MIDI 7-bit bytes back into an integer.
+        The highest bit of the first byte is used as a sign indicator.
+        """
+        if len(bytes_list) < start_index + 3:
+            return 0
+    
+        first_byte = bytes_list[start_index]
+        is_negative = (first_byte & 0x40) != 0  # Check if the sign bit is set
+        value = ((first_byte & 0x3F) << 14) | (bytes_list[start_index + 1] << 7) | bytes_list[start_index + 2]
+    
+        return -value if is_negative else value
+    
+    def send_selected_clip_metadata(self):
+        """
+        Encode clip metadata into a compact SysEx message and send it out.
+        """
+        if self.seq_status:
+            # self.log_message("sending clip metadata")
+            status_byte = 0xF0
+            end_byte = 0xF7
+            manufacturer_id = 0x0E
+            device_id = 0x01
+            
+            song = self.song()
+            clip_slot = song.view.highlighted_clip_slot
+            if clip_slot is not None:
+                if clip_slot.has_clip:
+                    selected_clip = clip_slot.clip
+                    # Extract clip metadata, make ints
+                    start_marker = int(selected_clip.start_marker * 1000)
+                    end_marker = int(selected_clip.end_marker * 1000)
+                    loop_start = int(selected_clip.loop_start * 1000)
+                    loop_end = int(selected_clip.loop_end * 1000)
+                    signature_denominator = int(selected_clip.signature_denominator)
+                    signature_numerator = int(selected_clip.signature_numerator)
+                    
+                    note_data = [
+                        *self._to_3_7bit_bytes(start_marker),
+                        *self._to_3_7bit_bytes(end_marker),
+                        *self._to_3_7bit_bytes(loop_start),
+                        *self._to_3_7bit_bytes(loop_end),
+                        signature_denominator,
+                        signature_numerator
+                    ]
+                    
+                    # Send the SysEx message
+                    sys_ex_message = (status_byte, manufacturer_id, device_id) + tuple(note_data) + (end_byte,)
+                    self._send_midi(sys_ex_message)
+    
+    def send_selected_clip_notes(self):
+        """
+        Encode a full clip with all notes into a compact SysEx message and send it out.
+        """
+        if self.seq_status:
+            status_byte = 0xF0
+            end_byte = 0xF7
+            manufacturer_id = 0x0D
+            device_id = 0x01
+            max_chunk_length = 250
+            data = bytearray()
+                
+            song = self.song()
+            clip_slot = song.view.highlighted_clip_slot
+            
+            if clip_slot is not None:
+                if clip_slot.has_clip:
+                    selected_clip = clip_slot.clip
+                
+                    # Extract clip metadata
+                    clip_length = max(self.clip_length_trick, selected_clip.loop_end, selected_clip.end_marker, selected_clip.length)
+                    clip_start = min(self.clip_start_trick, selected_clip.start_time, selected_clip.start_marker, selected_clip.loop_start)
+                    # Get notes
+                    notes = selected_clip.get_notes_extended(0, 128, clip_start, clip_length)
+                    # self.log_message(f"Number of notes found: {len(notes)}")
+                    for note in notes:
+                        note_id = int(note.note_id)
+                        pitch = int(note.pitch)
+                        start_time = int(note.start_time * 1000)
+                        duration = int(note.duration * 1000)
+                        velocity = int(note.velocity)
+                        mute = 1 if note.mute else 0
+                        probability = int(note.probability * 127)
+                    
+                        note_data = [
+                            *self._to_2_7bit_bytes(note_id),   # 2 bytes, 7-bit encoded
+                            pitch,                      # 1 byte
+                            *self._to_3_7bit_bytes(start_time),# 3 bytes, 7-bit encoded
+                            *self._to_3_7bit_bytes(duration),  # 3 bytes, 7-bit encoded
+                            velocity,  
+                            (mute << 7) | probability
+                        ]
+                    
+                        data.extend(note_data)
+                else:
+                    # Indicate no clip selected by adding a recognizable marker
+                    data.extend([0x7F, 0x7F, 0x7F])
+                    if not clip_slot.has_clip_has_listener(self.on_highlighted_slot_changed):
+                        clip_slot.add_has_clip_listener(self.on_highlighted_slot_changed)
+                
+            # Split data if it's too large for a single SysEx message
+            num_of_chunks = max(1, (len(data) + max_chunk_length - 1) // max_chunk_length)
+                    
+            for chunk_index in range(num_of_chunks):
+                start_index = chunk_index * max_chunk_length
+                end_index = start_index + max_chunk_length
+                chunk_data = data[start_index:end_index]
+                
+                # Add prefix and suffix to chunks
+                prefix = "_" if chunk_index == num_of_chunks - 1 else "$"
+                chunk_data = prefix.encode('ascii') + chunk_data
+            
+                # Send the SysEx message
+                sys_ex_message = (status_byte, manufacturer_id, device_id) + tuple(chunk_data) + (end_byte,)
+                # self.log_message("Sending SysEx chunk")
+                self._send_midi(sys_ex_message)
+    
+    def send_out_playing_pos(self, value):
+        status_byte = 0xF0
+        end_byte = 0xF7
+        manufacturer_id = 0x0F
+        device_id = 0x01
+            
+        playing_pos_in_ms = int(value * 1000)
+        
+        pos_data = self._to_3_7bit_bytes(playing_pos_in_ms)
+        
+        # Send the SysEx message
+        sys_ex_message = (status_byte, manufacturer_id, device_id) + tuple(pos_data) + (end_byte,)
+        # self.log_message("Sending SysEx chunk")
+        self._send_midi(sys_ex_message)
+            
+    
     def _delete_return_track(self, value):
         song = self.song()
         song.delete_return_track(value)
@@ -1251,8 +1870,7 @@ class Tap(ControlSurface):
             browser.load_item(selected_effect)
 
     def disconnect(self):
-        self.capture_button.remove_value_listener(self._capture_button_value)
-        self.quantize_button.remove_value_listener(self._quantize_button_value)
+#        self.quantize_button.remove_value_listener(self._quantize_button_value)
         self.duplicate_button.remove_value_listener(self._duplicate_button_value)
         self.duplicate_scene_button.remove_value_listener(self._duplicate_scene_button_value)
         self.sesh_record_button.remove_value_listener(self._sesh_record_value)
