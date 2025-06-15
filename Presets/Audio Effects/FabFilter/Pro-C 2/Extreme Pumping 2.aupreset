@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAEDgAAAAAAABwfAAAAAAAAI/ZmZmAAAAA0FAAAAAAAAEQnAA
+	AAAAAAU+/IpFAAAABj7qg90AAAAHAAAAAAAAAAgAAAAAAAAACT31wpAAAAAKAAAAAAAA
+	AAsAAAAAAAAADL+AAAAAAAANAAAAAAAAAA4/gAAAAAAADwAAAAAAAAAQAAAAAAAAABEA
+	AAAAAAAAEj8AAAAAAAATAAAAAAAAABQ/gAAAAAAAFUDKTTwAAAAWP4AAAAAAABc/gAAA
+	AAAAGD+AAAAAAAAZQR9z2gAAABoAAAAAAAAAGz8AAAAAAAAcAAAAAAAAAB0AAAAAAAAA
+	HkFEmngAAAAfQEAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoAAAAAAAAACkAAAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Extreme Pumping 2</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAAAAAAAAAAABwbdUwAAAAAI+zMzNAAAAA0HAAAAAAAAEQnAA
+	AAAAAAU9oNWfAAAABj86YgAAAAAHP4AAAAAAAAgAAAAAAAAACQAAAAAAAAAKPW7gAAAA
+	AAs+BgAAAAAADL6MNAAAAAANPgYAAAAAAA4AAAAAAAAADz+AAAAAAAAQAAAAAAAAABFA
+	GDhMAAAAEj8XPAAAAAATAAAAAAAAABQAAAAAAAAAFUCKTTwAAAAWQEAAAAAAABcAAAAA
+	AAAAGAAAAAAAAAAZQRTgiwAAABoAAAAAAAAAGz8AAAAAAAAcAAAAAAAAAB0AAAAAAAAA
+	HkFkmngAAAAfQEAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoAAAAAAAAACkAAAAAAAAAKj+AAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Gentle wide mastering NH</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

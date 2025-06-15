@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAEAAAAAAAAABwZkKIAAAAAI/cu8AAAAAA0HAAAAAAAAEQnAA
+	AAAAAAU/U0LZAAAABj4n76AAAAAHAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAKvYMUcAAA
+	AAu9DUAAAAAADL0+gAAAAAANPqaQAAAAAA4AAAAAAAAADz+AAAAAAAAQAAAAAAAAABFA
+	diRuAAAAEj8iNQAAAAATP4AAAAAAABQ/gAAAAAAAFUDXZcwAAAAWQEAAAAAAABcAAAAA
+	AAAAGAAAAAAAAAAZQQ5+rAAAABoAAAAAAAAAGz8AAAAAAAAcAAAAAAAAAB0/gAAAAAAA
+	HkExSnIAAAAfQEAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACO+FKgAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoAAAAAAAAACkAAAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>M-S Parallel Glue bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

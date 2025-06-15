@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAEBAAAAAAAABwUAAAAAAAAI/ZmZmAAAAA0HAAAAAAAAEQcAA
+	AAAAAAU+U2k2AAAABj7VkzoAAAAHAAAAAAAAAAg/mT6UAAAACT8BR64AAAAKvccccAAA
+	AAsAAAAAAAAADL5///wAAAANAAAAAAAAAA4/gAAAAAAADwAAAAAAAAAQAAAAAAAAABEA
+	AAAAAAAAEj7rhR4AAAATAAAAAAAAABQ/gAAAAAAAFUC0mngAAAAWQMAAAAAAABcAAAAA
+	AAAAGD+AAAAAAAAZQRpNPAAAABrAAAAAAAAAGz6QTwAAAAAcQKAAAAAAAB0AAAAAAAAA
+	HkFIz9sAAAAfP4AAAAAAACAAAAAAAAAAIQAAAAAAAAAiQAAAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoP4AAAAAAACk/gAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Big Smack bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

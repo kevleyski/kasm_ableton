@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAECAAAAAAAABwfAAAAAAAAI+YUetAAAAA0HAAAAAAAAEQMAA
+	AAAAAAU9vh6WAAAABj7/vFwAAAAHP4AAAAAAAAhBAAAAAAAACT67u7wAAAAKPOOOQAAA
+	AAsAAAAAAAAADL+AAAAAAAANAAAAAAAAAA4/gAAAAAAADz+AAAAAAAAQAAAAAAAAABFA
+	wAAAAAAAEgAAAAAAAAATAAAAAAAAABQ/gAAAAAAAFUE8XsgAAAAWP4AAAAAAABcAAAAA
+	AAAAGD+AAAAAAAAZQVjP3AAAABpBEAAAAAAAGz7P5aoAAAAcAAAAAAAAAB0AAAAAAAAA
+	HkFEmngAAAAfQEAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoQAAAAAAAACk/gAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Subtle Splash Control bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

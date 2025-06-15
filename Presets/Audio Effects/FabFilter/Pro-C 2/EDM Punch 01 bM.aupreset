@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAEDAAAAAAAABweAAAAAAAAI+zMzNAAAAAz8AFdoAAAAEQMAA
+	AAAAAAU/KQ8GAAAABgAAAAAAAAAHP4AAAAAAAAhBQAAAAAAACQAAAAAAAAAKvlU4NAAA
+	AAsAAAAAAAAADL2N/qAAAAANAAAAAAAAAA4/gAAAAAAADz+AAAAAAAAQAAAAAAAAABEA
+	AAAAAAAAEj9AoDMAAAATAAAAAAAAABQ/gAAAAAAAFUDEIxYAAAAWQOAAAAAAABcAAAAA
+	AAAAGD+AAAAAAAAZQN0FQAAAABpAAAAAAAAAGz8YDSsAAAAcQKAAAAAAAB0/gAAAAAAA
+	HkFGza8AAAAfP4AAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoQAAAAAAAACk/gAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>EDM Punch 01 bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

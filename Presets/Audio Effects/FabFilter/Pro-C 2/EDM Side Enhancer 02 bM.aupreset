@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAEBAAAAAAAABwWAAAAAAAAI/ZmZmAAAAA0FAAAAAAAAEQUAA
+	AAAAAAU+AL1UAAAABj6OCY8AAAAHAAAAAAAAAAhA7/pOAAAACQAAAAAAAAAKviqqqAAA
+	AAs+IrPIAAAADL4qqqgAAAANvd+SyAAAAA4/gAAAAAAADz+AAAAAAAAQAAAAAAAAABFA
+	IEGAAAAAEj9yx8sAAAATP4AAAAAAABQ/gAAAAAAAFUC0mngAAAAWQKAAAAAAABcAAAAA
+	AAAAGD+AAAAAAAAZQRpNPAAAABpAySSQAAAAGz6QTwAAAAAcQIAAAAAAAB0AAAAAAAAA
+	HkFGza8AAAAfP4AAAAAAACAAAAAAAAAAIQAAAAAAAAAiP5mZmgAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoQAAAAAAAACk/gAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>EDM Side Enhancer 02 bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

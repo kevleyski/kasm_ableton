@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAECgAAAAAAABwaAAAAAAAAI+zMzNAAAAA0DAAAAAAAAEQPAA
+	AAAAAAU+3J03AAAABj4kM8wAAAAHP4AAAAAAAAgAAAAAAAAACT4j1wsAAAAKAAAAAAAA
+	AAsAAAAAAAAADL6qqqoAAAANAAAAAAAAAA4/gAAAAAAADwAAAAAAAAAQAAAAAAAAABEA
+	AAAAAAAAEj8AAAAAAAATAAAAAAAAABQ/gAAAAAAAFUCgAAAAAAAWQKAAAAAAABc/gAAA
+	AAAAGD+AAAAAAAAZQPurKgAAABrAoAAAAAAAGz8wGlYAAAAcQKAAAAAAAB0AAAAAAAAA
+	HkFEmngAAAAfQEAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoAAAAAAAAACkAAAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Upright Bass Snappy bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

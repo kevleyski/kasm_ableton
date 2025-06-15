@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAEDAAAAAAAABwcAAAAAAAAI/BR64AAAAAwAAAAAAAAAEQnAA
+	AAAAAAU+/IpFAAAABj7/vFwAAAAHP4AAAAAAAAgAAAAAAAAACT2j1wsAAAAKPWOOQAAA
+	AAsAAAAAAAAADL+AAAAAAAANAAAAAAAAAA4/gAAAAAAADz+AAAAAAAAQAAAAAAAAABEA
+	AAAAAAAAEgAAAAAAAAATAAAAAAAAABQAAAAAAAAAFUDZnUIAAAAWAAAAAAAAABcAAAAA
+	AAAAGD+AAAAAAAAZQUO4bgAAABrArGiAAAAAGz6QTwAAAAAcQKAAAAAAAB0AAAAAAAAA
+	HkFEmngAAAAfQEAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoP4AAAAAAACkAAAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Hard Hitting bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

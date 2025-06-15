@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAECgAAAAAAABwXAAAAAAAAI+vXCkAAAAA0HAAAAAAAAEP+AA
+	AAAAAAU/SHD0AAAABj6IaukAAAAHP4AAAAAAAAgAAAAAAAAACT6FHrkAAAAKvXpPoAAA
+	AAsAAAAAAAAADL5VVVAAAAANAAAAAAAAAA4/gAAAAAAADz+AAAAAAAAQAAAAAAAAABHA
+	kAAAAAAAEj6AAAAAAAATAAAAAAAAABQ/gAAAAAAAFUCn7wYAAAAWQKAAAAAAABcAAAAA
+	AAAAGD+AAAAAAAAZQOEE6gAAABpA8AAAAAAAGz7AaVYAAAAcQKAAAAAAAB0/gAAAAAAA
+	HkFYz9wAAAAfQKAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP5mZmgAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoQAAAAAAAACkAAAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Organic Thickness bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

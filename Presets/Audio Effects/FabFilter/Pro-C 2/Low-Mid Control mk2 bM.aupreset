@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAD+AAAAAAAABwhAAAAAAAAI/br8AAAAAA0HAAAAAAAAEQnAA
+	AAAAAAUAAAAAAAAABj8OaiQAAAAHAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAKPaGQAAAA
+	AAsAAAAAAAAADL0BAAAAAAANAAAAAAAAAA4AAAAAAAAADz+AAAAAAAAQAAAAAAAAABEA
+	AAAAAAAAEgAAAAAAAAATAAAAAAAAABQ/gAAAAAAAFUDrJk8AAAAWQEAAAAAAABcAAAAA
+	AAAAGAAAAAAAAAAZQPV8VAAAABoAAAAAAAAAGz8AAAAAAAAcAAAAAAAAAB0/gAAAAAAA
+	HkD/0lgAAAAfQEAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACO+yDgAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoAAAAAAAAACkAAAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Low-Mid Control mk2 bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

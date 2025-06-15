@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAD+AAAAAAAABwSC3gAAAAAI/gAAAAAAAAwAAAAAAAAAEQnAA
+	AAAAAAUAAAAAAAAABj6PKr4AAAAHAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAKPUbgAAAA
+	AAsAAAAAAAAADL9pfgAAAAANAAAAAAAAAA4/gAAAAAAADz+AAAAAAAAQAAAAAAAAABEA
+	AAAAAAAAEj8AAAAAAAATAAAAAAAAABQ/gAAAAAAAFUCXwJoAAAAWQEAAAAAAABcAAAAA
+	AAAAGAAAAAAAAAAZQRg9YgAAABoAAAAAAAAAGz8AAAAAAAAcAAAAAAAAAB0AAAAAAAAA
+	HkFkmngAAAAfQEAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoAAAAAAAAACkAAAAAAAAAKj+AAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Hard knee limit</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

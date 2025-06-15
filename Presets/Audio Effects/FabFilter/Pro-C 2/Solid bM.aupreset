@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAEDgAAAAAAABwaAAAAAAAAI+7u7wAAAAA0G4AAAAAAAEQm+n
+	0QAAAAU/F64HAAAABj47MvAAAAAHAAAAAAAAAAhAH/tzAAAACT2j1wsAAAAKPY448AAA
+	AAsAAAAAAAAADL4qqqgAAAANAAAAAAAAAA4/gAAAAAAADz+AAAAAAAAQAAAAAAAAABEA
+	AAAAAAAAEj8AAAAAAAATAAAAAAAAABQ/gAAAAAAAFUDnUnwAAAAWAAAAAAAAABcAAAAA
+	AAAAGD+AAAAAAAAZQTSaeAAAABpAwAAAAAAAGz7AaVYAAAAcAAAAAAAAAB0AAAAAAAAA
+	HkFSZYAAAAAfAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlvY444AAAACYAAAAAAAAAJwAAAAAAAAAoAAAAAAAAACk/gAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Solid bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>

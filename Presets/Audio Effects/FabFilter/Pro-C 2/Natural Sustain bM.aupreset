@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAuAAAAAECAAAAAAAABwZAAAAAAAAI/UzM0AAAAA0BNGUgAAAAEQRAA
+	AAAAAAU9vlmoAAAABj2kou4AAAAHP4AAAAAAAAhAH/tzAAAACT1c17kAAAAKPY448AAA
+	AAsAAAAAAAAADL8AAAAAAAANAAAAAAAAAA4/gAAAAAAADz+AAAAAAAAQAAAAAAAAABFA
+	kAAAAAAAEj8AAAAAAAATAAAAAAAAABQ/gAAAAAAAFUEKTTwAAAAWAAAAAAAAABc/gAAA
+	AAAAGAAAAAAAAAAZQPkA5gAAABpAiSSQAAAAGz7P5aoAAAAcAAAAAAAAAB0AAAAAAAAA
+	HkFSZYAAAAAfAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAiP4AAAAAAACMAAAAAAAAAJAAA
+	AAAAAAAlAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAoP4AAAAAAACkAAAAAAAAAKgAAAAAA
+	AAArQEAAAAAAACw/gAAAAAAALT+AAAA=
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Natural Sustain bM</string>
+	<key>subtype</key>
+	<integer>1178808944</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>
