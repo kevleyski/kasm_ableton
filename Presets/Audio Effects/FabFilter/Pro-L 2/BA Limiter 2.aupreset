@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FabFilterFlags</key>
+	<integer>1</integer>
+	<key>data</key>
+	<data>
+	AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAJAgAAAAAAAAz6h6JsAAAAEPvgO
+	9gAAAAU+/8eRAAAABj8AAAAAAAAHAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAKP4AAAAAA
+	AAsAAAAAAAAADEAAAAAAAAANAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAQAAAAAAAAABEA
+	AAAAAAAAEgAAAAAAAAATP4AAAAAAABQAAAAAAAAAFT+AAAAAAAAWP4AAAAAAABcAAAAA
+	AAAAGEAAAAAAAAAZP4AAAAAAABoAAAAAAAAAGwAAAAAAAAAcwWAAAAAAAB0AAAAAAAAA
+	Hj+AAAAAAAAfAAAAAA==
+	</data>
+	<key>manufacturer</key>
+	<integer>1180787270</integer>
+	<key>name</key>
+	<string>Bass - Limiter 2</string>
+	<key>subtype</key>
+	<integer>1179398768</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>0</integer>
+</dict>
+</plist>
